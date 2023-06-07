@@ -2,3 +2,5 @@
 *.mp4
 
 extra_codes/
+
+semantic_search_env/
