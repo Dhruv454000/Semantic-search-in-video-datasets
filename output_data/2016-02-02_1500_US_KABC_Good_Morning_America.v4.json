@@ -52,13 +52,13 @@
   {
    "sentence": "A major setback for the billionaire .",
    "starttime": "10.31",
-   "endtime": "8.66",
+   "endtime": "12.26",
    "verbs": []
   },
   {
    "sentence": "Tonight is a victory for courageous conservatives across Iowa and all across this great nation .",
    "starttime": "12.61",
-   "endtime": "8.66",
+   "endtime": "20.31",
    "verbs": [
     {
      "vword": "is",
@@ -90,7 +90,7 @@
   {
    "sentence": "Trump humbled in defeat .",
    "starttime": "23.36",
-   "endtime": "23.08",
+   "endtime": "24.68",
    "verbs": [
     {
      "vword": "humbled",
@@ -122,7 +122,7 @@
   {
    "sentence": "I 'm really honored .",
    "starttime": "26.06",
-   "endtime": "25.93",
+   "endtime": "27.21",
    "verbs": [
     {
      "vword": "&apos;m",
@@ -160,7 +160,7 @@
   {
    "sentence": "And Marco Rubio 's late surge puts him within striking distance of trump .",
    "starttime": "29.51",
-   "endtime": "29.27",
+   "endtime": "33.03",
    "verbs": [
     {
      "vword": "puts",
@@ -173,7 +173,7 @@
   {
    "sentence": "We are not waiting any longer to take our country back .",
    "starttime": "33.22",
-   "endtime": "29.27",
+   "endtime": "37.34",
    "verbs": [
     {
      "vword": "are",
@@ -198,7 +198,7 @@
   {
    "sentence": "Riding a wave of momentum into New Hampshire .",
    "starttime": "37.34",
-   "endtime": "29.27",
+   "endtime": "39.03",
    "verbs": [
     {
      "vword": "Riding",
@@ -217,7 +217,7 @@
   {
    "sentence": "But Hillary Clinton is declaring victory .",
    "starttime": "42.04",
-   "endtime": "41.79",
+   "endtime": "44.15",
    "verbs": [
     {
      "vword": "is",
@@ -255,7 +255,7 @@
   {
    "sentence": "Thank you Iowa .",
    "starttime": "48.97",
-   "endtime": "48.91",
+   "endtime": "49.23",
    "verbs": [
     {
      "vword": "Thank",
@@ -268,7 +268,7 @@
   {
    "sentence": "Bernie Sanders not conceding defeat .",
    "starttime": "50.81",
-   "endtime": "48.91",
+   "endtime": "53.16",
    "verbs": [
     {
      "vword": "conceding",
@@ -281,7 +281,7 @@
   {
    "sentence": "I think that tonight shows the American people this is a campaign that can win .",
    "starttime": "57.01",
-   "endtime": "48.91",
+   "endtime": "57.02",
    "verbs": [
     {
      "vword": "think",
@@ -337,7 +337,7 @@
   {
    "sentence": "This morning who 's in who 's out and who are the big winners in the first stop on the road to the White House .",
    "starttime": "63.21",
-   "endtime": "62.96",
+   "endtime": "69.34",
    "verbs": [
     {
      "vword": "&apos;s",
@@ -368,7 +368,7 @@
   {
    "sentence": "All eyes on the heartland last night those Iowa caucuses setting new records for turnout full of surprises as well starting out with that big one for Ted Cruz surging past donald trump in the final days strong close for Marco Rubio too .",
    "starttime": "82.06",
-   "endtime": "81.95",
+   "endtime": "95.49",
    "verbs": [
     {
      "vword": "setting",
@@ -419,7 +419,7 @@
   {
    "sentence": "So close at some of those caucus sites the night even came down you saw it to a coin toss .",
    "starttime": "105.36",
-   "endtime": "104.55",
+   "endtime": "107.39",
    "verbs": [
     {
      "vword": "came",
@@ -557,7 +557,7 @@
   {
    "sentence": "Who can prevail in what 's been a pretty bitter feud between Ted Cruz and Marco Rubio and why ca n't Hillary Clinton put Bernie Sanders away .",
    "starttime": "134.42",
-   "endtime": "134.15",
+   "endtime": "140.87",
    "verbs": [
     {
      "vword": "can",
@@ -680,7 +680,7 @@
   {
    "sentence": "Good morning Jon .",
    "starttime": "153.93",
-   "endtime": "153.93",
+   "endtime": "155.15",
    "verbs": []
   },
   {
@@ -692,7 +692,7 @@
   {
    "sentence": "Ted Cruz became the first Republican to get into a brawl with Donald Trump and it was quite a brawl and to beat him .",
    "starttime": "157.84",
-   "endtime": "157.68",
+   "endtime": "165.37",
    "verbs": [
     {
      "vword": "became",
@@ -723,19 +723,19 @@
   {
    "sentence": "Our next president .",
    "starttime": "169.96",
-   "endtime": "157.68",
+   "endtime": "170.22",
    "verbs": []
   },
   {
    "sentence": "Stunning Finish for Ted Cruz in Iowa .",
    "starttime": "170.22",
-   "endtime": "157.68",
+   "endtime": "172.25",
    "verbs": []
   },
   {
    "sentence": "That is the most votes ever cast for any Republican primary winner .",
    "starttime": "172.66",
-   "endtime": "157.68",
+   "endtime": "178.04",
    "verbs": [
     {
      "vword": "is",
@@ -754,7 +754,7 @@
   {
    "sentence": "We were there just after Cruz heard the news that he had won .",
    "starttime": "179.88",
-   "endtime": "157.68",
+   "endtime": "182.89",
    "verbs": [
     {
      "vword": "were",
@@ -810,13 +810,13 @@
   {
    "sentence": "Breathtaking .",
    "starttime": "188.68",
-   "endtime": "188.66",
+   "endtime": "189.14",
    "verbs": []
   },
   {
    "sentence": "The freshman senator from Texas defied the odds handing Donald Trump his first loss with ads like these .",
    "starttime": "189.25",
-   "endtime": "188.66",
+   "endtime": "195.96",
    "verbs": [
     {
      "vword": "defied",
@@ -835,7 +835,7 @@
   {
    "sentence": "How stupid are the people of Iowa",
    "starttime": "196.36",
-   "endtime": "188.66",
+   "endtime": "195.96",
    "verbs": [
     {
      "vword": "are",
@@ -848,13 +848,13 @@
   {
    "sentence": "Donald Trump New York values not ours .",
    "starttime": "199.50",
-   "endtime": "188.66",
+   "endtime": "203.14",
    "verbs": []
   },
   {
    "sentence": "People that voted for you said you shared their values so the New York values attack worked .",
    "starttime": "203.21",
-   "endtime": "188.66",
+   "endtime": "209.62",
    "verbs": [
     {
      "vword": "voted",
@@ -885,7 +885,7 @@
   {
    "sentence": "Everyone know what is New York values are I mean it 's the values of the elite liberal politicians .",
    "starttime": "209.72",
-   "endtime": "188.66",
+   "endtime": "214.87",
    "verbs": [
     {
      "vword": "know",
@@ -922,7 +922,7 @@
   {
    "sentence": "Cruz 's victory was fueled by his appeal to Evangelical Christians .",
    "starttime": "0.00",
-   "endtime": "188.66",
+   "endtime": "214.87",
    "verbs": [
     {
      "vword": "was",
@@ -941,7 +941,7 @@
   {
    "sentence": "Our rights come from our creator .",
    "starttime": "219.97",
-   "endtime": "188.66",
+   "endtime": "222.49",
    "verbs": [
     {
      "vword": "come",
@@ -973,7 +973,7 @@
   {
    "sentence": "He also proved he could take a loss gracefully .",
    "starttime": "232.07",
-   "endtime": "231.40",
+   "endtime": "234.79",
    "verbs": [
     {
      "vword": "proved",
@@ -1035,7 +1035,7 @@
   {
    "sentence": "I 'm really honored and I want to congratulate Ted .",
    "starttime": "239.83",
-   "endtime": "239.77",
+   "endtime": "243.05",
    "verbs": [
     {
      "vword": "&apos;m",
@@ -1085,7 +1085,7 @@
   {
    "sentence": "He leads everywhere else .",
    "starttime": "247.84",
-   "endtime": "247.58",
+   "endtime": "249.91",
    "verbs": [
     {
      "vword": "leads",
@@ -1229,7 +1229,7 @@
   {
    "sentence": "I love it okay .",
    "starttime": "271.10",
-   "endtime": "271.10",
+   "endtime": "272.05",
    "verbs": [
     {
      "vword": "love",
@@ -1242,7 +1242,7 @@
   {
    "sentence": "But perhaps the biggest republican surprise of the night Florida Senator Marco Rubio who finished a stronger than expected third nearly beating out trump .",
    "starttime": "272.72",
-   "endtime": "271.10",
+   "endtime": "281.87",
    "verbs": [
     {
      "vword": "finished",
@@ -1267,7 +1267,7 @@
   {
    "sentence": "They told me that we have no chance because my hair was n't gray enough and my boots were too high .",
    "starttime": "282.80",
-   "endtime": "271.10",
+   "endtime": "287.96",
    "verbs": [
     {
      "vword": "told",
@@ -1411,13 +1411,13 @@
   {
    "sentence": "In fact from Donald Trump overnight total twitter silence .",
    "starttime": "310.54",
-   "endtime": "310.39",
+   "endtime": "314.12",
    "verbs": []
   },
   {
    "sentence": "Yeah he was pretty graceful in defeat last night but Jon it did seem like the voters in Iowa who made up their minds at the last minute had a real gut check about Donald Trump .",
    "starttime": "314.25",
-   "endtime": "310.39",
+   "endtime": "322.21",
    "verbs": [
     {
      "vword": "was",
@@ -1518,7 +1518,7 @@
   {
    "sentence": "And I think a big factor there George was I know with a lot of Iowans I talked to they were offended by his decision to skip that debate .",
    "starttime": "335.48",
-   "endtime": "335.30",
+   "endtime": "342.24",
    "verbs": [
     {
      "vword": "think",
@@ -1598,7 +1598,7 @@
   {
    "sentence": "Thanks very much .",
    "starttime": "344.21",
-   "endtime": "343.68",
+   "endtime": "344.84",
    "verbs": []
   },
   {
@@ -1717,7 +1717,7 @@
   {
    "sentence": "Good Morning Cecilia .",
    "starttime": "367.23",
-   "endtime": "366.09",
+   "endtime": "368.06",
    "verbs": []
   },
   {
@@ -1810,7 +1810,7 @@
   {
    "sentence": "It had all the hallmarks of a victory speech .",
    "starttime": "394.48",
-   "endtime": "392.22",
+   "endtime": "396.97",
    "verbs": [
     {
      "vword": "had",
@@ -1835,13 +1835,13 @@
   {
    "sentence": "An unbelievable night .",
    "starttime": "399.99",
-   "endtime": "399.99",
+   "endtime": "400.56",
    "verbs": []
   },
   {
    "sentence": "The only thing missing the word victory . ''",
    "starttime": "401.31",
-   "endtime": "399.99",
+   "endtime": "403.97",
    "verbs": [
     {
      "vword": "missing",
@@ -1854,7 +1854,7 @@
   {
    "sentence": "As I stand here tonight breathing a big sigh of relief thank you Iowa .",
    "starttime": "404.25",
-   "endtime": "399.99",
+   "endtime": "409.73",
    "verbs": [
     {
      "vword": "stand",
@@ -1959,7 +1959,7 @@
   {
    "sentence": "Clinton winning at least three her supporters cheering .",
    "starttime": "440.80",
-   "endtime": "440.56",
+   "endtime": "444.37",
    "verbs": [
     {
      "vword": "winning",
@@ -1978,13 +1978,13 @@
   {
    "sentence": "Yes .",
    "starttime": "445.55",
-   "endtime": "440.56",
+   "endtime": "445.67",
    "verbs": []
   },
   {
    "sentence": "This morning Senator Bernie Sanders not giving up .",
    "starttime": "448.54",
-   "endtime": "440.56",
+   "endtime": "451.41",
    "verbs": [
     {
      "vword": "giving",
@@ -1997,7 +1997,7 @@
   {
    "sentence": "Tonight while the results are still not known it looks like we are in a virtual tie .",
    "starttime": "452.02",
-   "endtime": "440.56",
+   "endtime": "459.03",
    "verbs": [
     {
      "vword": "are",
@@ -2028,7 +2028,7 @@
   {
    "sentence": "Sanders ' campaign claiming victory too touting how far he 's come since launching his bid .",
    "starttime": "462.07",
-   "endtime": "440.56",
+   "endtime": "467.62",
    "verbs": [
     {
      "vword": "claiming",
@@ -2065,7 +2065,7 @@
   {
    "sentence": "What Iowa has begun tonight is a political revolution .",
    "starttime": "468.17",
-   "endtime": "440.56",
+   "endtime": "473.21",
    "verbs": [
     {
      "vword": "has",
@@ -2090,7 +2090,7 @@
   {
    "sentence": "On his flight overnight into New Hampshire where polls show the Vermont senator has a strong lead sanders sounding confident as he heads into this next battle in his own backyard .",
    "starttime": "476.57",
-   "endtime": "440.56",
+   "endtime": "487.33",
    "verbs": [
     {
      "vword": "show",
@@ -2121,7 +2121,7 @@
   {
    "sentence": "And I think tonight shows the American people that this is a campaign that can win .",
    "starttime": "487.68",
-   "endtime": "440.56",
+   "endtime": "493.23",
    "verbs": [
     {
      "vword": "think",
@@ -2208,7 +2208,7 @@
   {
    "sentence": "There was however one concession overnight the third person in this race former Maryland governor Martin O'MALLEY Robin has dropped out .",
    "starttime": "500.93",
-   "endtime": "500.93",
+   "endtime": "509.38",
    "verbs": [
     {
      "vword": "was",
@@ -2233,7 +2233,7 @@
   {
    "sentence": "All Right Cecilia thank you .",
    "starttime": "509.41",
-   "endtime": "500.93",
+   "endtime": "510.83",
    "verbs": [
     {
      "vword": "thank",
@@ -2283,7 +2283,7 @@
   {
    "sentence": "Already made your way to New Hampshire Senator Rubio thank you very much for joining us again this morning .",
    "starttime": "518.43",
-   "endtime": "518.43",
+   "endtime": "524.86",
    "verbs": [
     {
      "vword": "made",
@@ -2308,7 +2308,7 @@
   {
    "sentence": "Thank you Robin .",
    "starttime": "524.86",
-   "endtime": "518.43",
+   "endtime": "524.86",
    "verbs": [
     {
      "vword": "Thank",
@@ -2498,7 +2498,7 @@
   {
    "sentence": "And we got more votes than Mitt Romney or Rick Santorum when they won the caucuses four years ago so we feel great about what Iowa did and thanked them and we 're ready to go in New Hampshire and we 're excited about the momentum we 're carrying into this great state .",
    "starttime": "560.72",
-   "endtime": "560.71",
+   "endtime": "573.74",
    "verbs": [
     {
      "vword": "got",
@@ -2769,7 +2769,7 @@
   {
    "sentence": "And particularly in our campaign the last seven to ten days the surge of people including those not registered Republican who rally around our campaign in a state where Ted Cruz I congratulate him on his victory this is the place the campaign was built in and he put all that infrastructure in there and worked it really hard and earned this victory but we feel so good about the growth we 've had and what that will translate to in New Hampshire and after that South Carolina and we 're just incredibly grateful and excited about all this .",
    "starttime": "605.74",
-   "endtime": "605.51",
+   "endtime": "634.04",
    "verbs": [
     {
      "vword": "including",
@@ -3263,7 +3263,7 @@
   {
    "sentence": "So these are the sorts of things that voters are going to start learning about and as they do I think a lot of these numbers will begin to continue to change .",
    "starttime": "701.47",
-   "endtime": "700.99",
+   "endtime": "707.59",
    "verbs": [
     {
      "vword": "are",
@@ -3663,7 +3663,7 @@
   {
    "sentence": "If we do not then we 're going to have to explain to our children why they did not inherit the great country that was left for us .",
    "starttime": "767.34",
-   "endtime": "767.30",
+   "endtime": "773.34",
    "verbs": [
     {
      "vword": "do",
@@ -3749,7 +3749,7 @@
   {
    "sentence": "Thank you for joining us senator .",
    "starttime": "778.08",
-   "endtime": "778.08",
+   "endtime": "779.27",
    "verbs": [
     {
      "vword": "Thank",
@@ -3774,7 +3774,7 @@
   {
    "sentence": "Thank you .",
    "starttime": "781.36",
-   "endtime": "781.16",
+   "endtime": "781.79",
    "verbs": [
     {
      "vword": "Thank",
@@ -3787,13 +3787,13 @@
   {
    "sentence": "George .",
    "starttime": "781.97",
-   "endtime": "781.16",
+   "endtime": "782.37",
    "verbs": []
   },
   {
    "sentence": "Thank you Robin .",
    "starttime": "782.51",
-   "endtime": "781.16",
+   "endtime": "782.79",
    "verbs": [
     {
      "vword": "Thank",
@@ -4064,7 +4064,7 @@
   {
    "sentence": "If he wins New Hampshire and conducts himself during the course of this especially at the debate Saturday winning in New Hampshire will put him back up as the front-runner but he has to win New Hampshire .",
    "starttime": "823.24",
-   "endtime": "823.03",
+   "endtime": "833.12",
    "verbs": [
     {
      "vword": "wins",
@@ -4144,7 +4144,7 @@
   {
    "sentence": "This is a brand-new Republican Party the Democrats will be facing it .",
    "starttime": "841.29",
-   "endtime": "841.29",
+   "endtime": "845.08",
    "verbs": [
     {
      "vword": "is",
@@ -4402,7 +4402,7 @@
   {
    "sentence": "It was a close race I still believe at the end of the day I know nobody cares about delegates but those of us who are insiders but Hillary Clinton will probably get the most delegates but Bernie Sanders has the fuel to go further .",
    "starttime": "885.47",
-   "endtime": "885.27",
+   "endtime": "896.82",
    "verbs": [
     {
      "vword": "was",
@@ -4569,7 +4569,7 @@
   {
    "sentence": "A series of thirds and seconds wo n't do it until you find your first win so I think right now there 's a troubled path for all three .",
    "starttime": "913.43",
-   "endtime": "913.34",
+   "endtime": "920.51",
    "verbs": [
     {
      "vword": "wo",
@@ -4612,7 +4612,7 @@
   {
    "sentence": "All the other Republicans out now",
    "starttime": "921.06",
-   "endtime": "913.34",
+   "endtime": "920.51",
    "verbs": []
   },
   {
@@ -4687,7 +4687,7 @@
   {
    "sentence": "He spent the whole weekend in New Hampshire so there 's an outside shot John Kasich .",
    "starttime": "933.90",
-   "endtime": "933.89",
+   "endtime": "937.22",
    "verbs": [
     {
      "vword": "spent",
@@ -4706,7 +4706,7 @@
   {
    "sentence": "Real quickly you 're right about the delegates and Hillary Clinton has a lead in the superdelegates already but will face the question why ca n't she put away Bernie Sanders 74-YEAR-OLD socialist",
    "starttime": "938.01",
-   "endtime": "933.89",
+   "endtime": "937.22",
    "verbs": [
     {
      "vword": "&apos;re",
@@ -4774,7 +4774,7 @@
   {
    "sentence": "Going forward she has to reset her campaign to be more like a movement not a traditional campaign for something that galvanizes young people and those who are still interested in change .",
    "starttime": "956.47",
-   "endtime": "956.18",
+   "endtime": "966.91",
    "verbs": [
     {
      "vword": "Going",
@@ -4823,7 +4823,7 @@
   {
    "sentence": "We 'll stay on this story of course .",
    "starttime": "968.48",
-   "endtime": "968.48",
+   "endtime": "969.78",
    "verbs": [
     {
      "vword": "&apos;ll",
@@ -4842,7 +4842,7 @@
   {
    "sentence": "Your Voice your vote '' including that big Republican debate this Saturday night at 8:00 7:00 Right here at ABC .",
    "starttime": "969.78",
-   "endtime": "968.48",
+   "endtime": "977.85",
    "verbs": [
     {
      "vword": "including",
@@ -4855,7 +4855,7 @@
   {
    "sentence": "Now let 's go to amy with today 's other top stories with the latest on the Zika virus .",
    "starttime": "977.85",
-   "endtime": "968.48",
+   "endtime": "982.18",
    "verbs": [
     {
      "vword": "let",
@@ -4986,7 +4986,7 @@
   {
    "sentence": "The Pentagon is offering to relocate pregnant family members of service personnel in those affected areas .",
    "starttime": "1006.10",
-   "endtime": "1006.09",
+   "endtime": "1013.21",
    "verbs": [
     {
      "vword": "is",
@@ -5048,7 +5048,7 @@
   {
    "sentence": "They say there was an agreement more than a decade ago with the district attorney not to prosecute but the current D.A. says that deal stemming from a civil case is not binding .",
    "starttime": "1020.90",
-   "endtime": "1020.49",
+   "endtime": "1031.18",
    "verbs": [
     {
      "vword": "say",
@@ -5128,7 +5128,7 @@
   {
    "sentence": "Officials say a butane tanker may have sparked that fire and the threat of an explosion for some residents to relocate to a local school .",
    "starttime": "1037.93",
-   "endtime": "1037.67",
+   "endtime": "1045.46",
    "verbs": [
     {
      "vword": "say",
@@ -5184,7 +5184,7 @@
   {
    "sentence": "It has surpassed apple thanks to recent growth in online ad sales .",
    "starttime": "1052.66",
-   "endtime": "1052.66",
+   "endtime": "1056.98",
    "verbs": [
     {
      "vword": "has",
@@ -5328,13 +5328,13 @@
   {
    "sentence": "A LOW-TECH solution to a HIGH-TECH problem .",
    "starttime": "1078.73",
-   "endtime": "1078.70",
+   "endtime": "1082.17",
    "verbs": []
   },
   {
    "sentence": "You should see all of our expressions .",
    "starttime": "1082.75",
-   "endtime": "1078.70",
+   "endtime": "1083.92",
    "verbs": [
     {
      "vword": "should",
@@ -5353,7 +5353,7 @@
   {
    "sentence": "Some are worried about the propellers .",
    "starttime": "1084.33",
-   "endtime": "1078.70",
+   "endtime": "1089.42",
    "verbs": [
     {
      "vword": "are",
@@ -5385,7 +5385,7 @@
   {
    "sentence": "You saw those talons .",
    "starttime": "1091.64",
-   "endtime": "1091.02",
+   "endtime": "1093.62",
    "verbs": [
     {
      "vword": "saw",
@@ -5398,7 +5398,7 @@
   {
    "sentence": "They say that they think the talons can handle it .",
    "starttime": "1093.91",
-   "endtime": "1091.02",
+   "endtime": "1095.63",
    "verbs": [
     {
      "vword": "say",
@@ -5429,19 +5429,19 @@
   {
    "sentence": "Really",
    "starttime": "1095.63",
-   "endtime": "1091.02",
+   "endtime": "1095.63",
    "verbs": []
   },
   {
    "sentence": "Yep .",
    "starttime": "1096.02",
-   "endtime": "1091.02",
+   "endtime": "1096.24",
    "verbs": []
   },
   {
    "sentence": "Amy thank you very much .",
    "starttime": "1096.48",
-   "endtime": "1091.02",
+   "endtime": "1097.63",
    "verbs": [
     {
      "vword": "thank",
@@ -5454,7 +5454,7 @@
   {
    "sentence": "We just came back from Iowa where politics the big story but also there were concerns about this big storm as well rob .",
    "starttime": "1097.63",
-   "endtime": "1091.02",
+   "endtime": "1103.94",
    "verbs": [
     {
      "vword": "came",
@@ -5567,7 +5567,7 @@
   {
    "sentence": "Tuesday trivia brought to you by Edward Jones .",
    "starttime": "1128.53",
-   "endtime": "1128.03",
+   "endtime": "1130.66",
    "verbs": [
     {
      "vword": "brought",
@@ -5699,7 +5699,7 @@
   {
    "sentence": "Now one of their former principals speaking out .",
    "starttime": "1198.58",
-   "endtime": "1198.58",
+   "endtime": "1201.36",
    "verbs": [
     {
      "vword": "speaking",
@@ -6712,7 +6712,7 @@
   {
    "sentence": "Ask Your doctor ... ... If switching ... ... to Eliquis is right for you .",
    "starttime": "1463.19",
-   "endtime": "1463.17",
+   "endtime": "1465.90",
    "verbs": [
     {
      "vword": "Ask",
@@ -6775,7 +6775,7 @@
   {
    "sentence": "Scott .",
    "starttime": "1481.62",
-   "endtime": "1478.62",
+   "endtime": "1481.96",
    "verbs": []
   },
   {
@@ -6870,7 +6870,7 @@
   {
    "sentence": "Wall Street in the red significantly down 264 points in the first hour of trading .",
    "starttime": "1509.36",
-   "endtime": "1509.36",
+   "endtime": "1516.36",
    "verbs": []
   },
   {
@@ -7128,7 +7128,7 @@
   {
    "sentence": "ARRRR that 's not even a real spaceship .",
    "starttime": "1795.59",
-   "endtime": "1795.51",
+   "endtime": "1796.69",
    "verbs": [
     {
      "vword": "&apos;s",
@@ -7141,7 +7141,7 @@
   {
    "sentence": "Do n't touch it .",
    "starttime": "1796.69",
-   "endtime": "1795.51",
+   "endtime": "1796.69",
    "verbs": [
     {
      "vword": "Do",
@@ -7160,7 +7160,7 @@
   {
    "sentence": "Yes .",
    "starttime": "1796.69",
-   "endtime": "1795.51",
+   "endtime": "1796.69",
    "verbs": []
   },
   {
@@ -7230,7 +7230,7 @@
   {
    "sentence": "Iowa Democratic Party says Hillary Clinton won by the tiniest of margins look at it right there but Bernie Sanders is not conceding yet and we 'll have the latest coming up .",
    "starttime": "1818.81",
-   "endtime": "1818.75",
+   "endtime": "1827.09",
    "verbs": [
     {
      "vword": "says",
@@ -7316,7 +7316,7 @@
   {
    "sentence": "They went high tech .",
    "starttime": "1831.86",
-   "endtime": "1831.86",
+   "endtime": "1831.92",
    "verbs": [
     {
      "vword": "went",
@@ -7342,7 +7342,7 @@
   {
    "sentence": "Officials in Brazil now advising pregnant women to stay away from the Rio Olympics .",
    "starttime": "1839.19",
-   "endtime": "1839.19",
+   "endtime": "1844.31",
    "verbs": [
     {
      "vword": "advising",
@@ -7405,7 +7405,7 @@
   {
    "sentence": "Phil did not see his shadow .",
    "starttime": "1854.99",
-   "endtime": "1854.89",
+   "endtime": "1856.31",
    "verbs": [
     {
      "vword": "did",
@@ -7424,7 +7424,7 @@
   {
    "sentence": "All Right",
    "starttime": "1862.54",
-   "endtime": "1854.89",
+   "endtime": "1856.31",
    "verbs": []
   },
   {
@@ -7488,7 +7488,7 @@
   {
    "sentence": "Look at this baby snowboarder right there Lara .",
    "starttime": "1864.85",
-   "endtime": "1864.37",
+   "endtime": "1867.22",
    "verbs": [
     {
      "vword": "Look",
@@ -7563,7 +7563,7 @@
   {
    "sentence": "We 'll have her parents on live to talk about how she shreds .",
    "starttime": "1875.78",
-   "endtime": "1875.76",
+   "endtime": "1879.74",
    "verbs": [
     {
      "vword": "&apos;ll",
@@ -7594,13 +7594,13 @@
   {
    "sentence": "That low center of gravity .",
    "starttime": "1879.74",
-   "endtime": "1875.76",
+   "endtime": "1883.74",
    "verbs": []
   },
   {
    "sentence": "I 'd like to believe that 's it .",
    "starttime": "1883.74",
-   "endtime": "1875.76",
+   "endtime": "1884.01",
    "verbs": [
     {
      "vword": "&apos;d",
@@ -7637,7 +7637,7 @@
   {
    "sentence": "When you 're that age .",
    "starttime": "1885.04",
-   "endtime": "1884.88",
+   "endtime": "1885.80",
    "verbs": [
     {
      "vword": "&apos;re",
@@ -7719,7 +7719,7 @@
   {
    "sentence": "Good morning Tom .",
    "starttime": "1905.95",
-   "endtime": "1905.95",
+   "endtime": "1906.64",
    "verbs": []
   },
   {
@@ -7953,7 +7953,7 @@
   {
    "sentence": "Let 's take a listen .",
    "starttime": "1957.41",
-   "endtime": "1957.39",
+   "endtime": "1958.14",
    "verbs": [
     {
      "vword": "Let",
@@ -8003,7 +8003,7 @@
   {
    "sentence": "Obviously the voters are sick of me and I need to acknowledge that .",
    "starttime": "1966.43",
-   "endtime": "1965.64",
+   "endtime": "1969.78",
    "verbs": [
     {
      "vword": "are",
@@ -8128,7 +8128,7 @@
   {
    "sentence": "Back to you .",
    "starttime": "1991.20",
-   "endtime": "1991.20",
+   "endtime": "1991.79",
    "verbs": []
   },
   {
@@ -8147,7 +8147,7 @@
   {
    "sentence": "Thank you .",
    "starttime": "1992.99",
-   "endtime": "1992.99",
+   "endtime": "1993.51",
    "verbs": [
     {
      "vword": "Thank",
@@ -8178,7 +8178,7 @@
   {
    "sentence": "Thank you Tom .",
    "starttime": "1995.62",
-   "endtime": "1995.62",
+   "endtime": "1996.27",
    "verbs": [
     {
      "vword": "Thank",
@@ -8260,7 +8260,7 @@
   {
    "sentence": "Eva .",
    "starttime": "2008.72",
-   "endtime": "2008.71",
+   "endtime": "2009.10",
    "verbs": []
   },
   {
@@ -8322,7 +8322,7 @@
   {
    "sentence": "This morning two Virginia Tech students behind bars held without bond in connection to the death of a 13-YEAR-OLD girl from Blacksburg Virginia .",
    "starttime": "2023.24",
-   "endtime": "2021.82",
+   "endtime": "2030.20",
    "verbs": [
     {
      "vword": "held",
@@ -8335,7 +8335,7 @@
   {
    "sentence": "She was a typical little girl talkative friendly looked out for a lot of the younger kids that came in on the bus and just sweet .",
    "starttime": "2030.25",
-   "endtime": "2021.82",
+   "endtime": "2042.38",
    "verbs": [
     {
      "vword": "was",
@@ -8373,7 +8373,7 @@
   {
    "sentence": "Police say he knew the victim .",
    "starttime": "2046.47",
-   "endtime": "2046.44",
+   "endtime": "2048.46",
    "verbs": [
     {
      "vword": "say",
@@ -8392,7 +8392,7 @@
   {
    "sentence": "Eisenhauer used this relationship to his advantage to abduct and then kill her .",
    "starttime": "2048.53",
-   "endtime": "2046.44",
+   "endtime": "2053.19",
    "verbs": [
     {
      "vword": "used",
@@ -8461,7 +8461,7 @@
   {
    "sentence": "Eisenhauer a track star his high school principal remembering him as goal driven and focused .",
    "starttime": "2065.81",
-   "endtime": "2065.66",
+   "endtime": "2072.21",
    "verbs": [
     {
      "vword": "remembering",
@@ -8530,13 +8530,13 @@
   {
    "sentence": "Just very concerned .",
    "starttime": "2078.28",
-   "endtime": "2078.11",
+   "endtime": "2079.53",
    "verbs": []
   },
   {
    "sentence": "The second student Natalie keepers an engineering student who once interned at NASA accused of helping Eisenhauer get rid of the girl 's body .",
    "starttime": "2079.62",
-   "endtime": "2078.11",
+   "endtime": "2087.06",
    "verbs": [
     {
      "vword": "interned",
@@ -8567,7 +8567,7 @@
   {
    "sentence": "I was really shocked to see her face as one of the suspects for the murder because I did n't know she was like she did n't seem like that type of person .",
    "starttime": "2087.28",
-   "endtime": "2078.11",
+   "endtime": "2095.51",
    "verbs": [
     {
      "vword": "was",
@@ -8727,7 +8727,7 @@
   {
    "sentence": "George .",
    "starttime": "2120.77",
-   "endtime": "2120.64",
+   "endtime": "2121.27",
    "verbs": []
   },
   {
@@ -8752,7 +8752,7 @@
   {
    "sentence": "Such a sad and sick case and the evidence could lead in a lot of different directions .",
    "starttime": "2125.76",
-   "endtime": "2125.74",
+   "endtime": "2129.17",
    "verbs": [
     {
      "vword": "could",
@@ -8992,7 +8992,7 @@
   {
    "sentence": "Do some of those people now get investigated even though they had nothing to do with this young girl 's death are people now going to say you know this is another one of those cases where we need to end bullying and we need to send a strong message .",
    "starttime": "2169.78",
-   "endtime": "2169.01",
+   "endtime": "2181.93",
    "verbs": [
     {
      "vword": "Do",
@@ -9102,13 +9102,13 @@
   {
    "sentence": "Okay Dan Abrams thanks very much .",
    "starttime": "2182.72",
-   "endtime": "2182.72",
+   "endtime": "2184.05",
    "verbs": []
   },
   {
    "sentence": "All Right George .",
    "starttime": "2184.11",
-   "endtime": "2182.72",
+   "endtime": "2184.76",
    "verbs": []
   },
   {
@@ -9184,7 +9184,7 @@
   {
    "sentence": "He is the accused Isis sympathizer whose own father turned him in .",
    "starttime": "2201.25",
-   "endtime": "2197.77",
+   "endtime": "2205.39",
    "verbs": [
     {
      "vword": "is",
@@ -9209,7 +9209,7 @@
   {
    "sentence": "I do n't know if it 's Isis or what .",
    "starttime": "2205.50",
-   "endtime": "2197.77",
+   "endtime": "2206.84",
    "verbs": [
     {
      "vword": "do",
@@ -9234,7 +9234,7 @@
   {
    "sentence": "This is your son",
    "starttime": "2206.84",
-   "endtime": "2197.77",
+   "endtime": "2206.84",
    "verbs": [
     {
      "vword": "is",
@@ -9247,7 +9247,7 @@
   {
    "sentence": "Yes .",
    "starttime": "2207.95",
-   "endtime": "2197.77",
+   "endtime": "2208.39",
    "verbs": []
   },
   {
@@ -9370,7 +9370,7 @@
   {
    "sentence": "The FBI began tracking Sullivan who has pled not guilty after his father frantically dialed 911 last April concerned his son was becoming a terrorist .",
    "starttime": "2235.35",
-   "endtime": "2235.08",
+   "endtime": "2244.45",
    "verbs": [
     {
      "vword": "began",
@@ -9425,7 +9425,7 @@
   {
    "sentence": "I come home and he 's destroying and burning stuff in the house .",
    "starttime": "2244.62",
-   "endtime": "2235.08",
+   "endtime": "2247.61",
    "verbs": [
     {
      "vword": "come",
@@ -9456,7 +9456,7 @@
   {
    "sentence": "Sullivan then only 18 can be heard in the background .",
    "starttime": "2247.80",
-   "endtime": "2235.08",
+   "endtime": "2251.11",
    "verbs": [
     {
      "vword": "can",
@@ -9481,7 +9481,7 @@
   {
    "sentence": "Why are you trying to you 're going to throw me in jail my whole life and kill me .",
    "starttime": "2251.20",
-   "endtime": "2235.08",
+   "endtime": "2257.02",
    "verbs": [
     {
      "vword": "are",
@@ -9611,7 +9611,7 @@
   {
    "sentence": "His father devastated came to court soon after the charges .",
    "starttime": "2277.18",
-   "endtime": "2276.84",
+   "endtime": "2280.53",
    "verbs": [
     {
      "vword": "devastated",
@@ -9630,7 +9630,7 @@
   {
    "sentence": "Did you know any of this was going on",
    "starttime": "2280.82",
-   "endtime": "2276.84",
+   "endtime": "2280.53",
    "verbs": [
     {
      "vword": "Did",
@@ -9661,7 +9661,7 @@
   {
    "sentence": "No .",
    "starttime": "2282.44",
-   "endtime": "2276.84",
+   "endtime": "2282.74",
    "verbs": []
   },
   {
@@ -9692,13 +9692,13 @@
   {
    "sentence": "For Good Morning America '' Pierre Thomas ABC News Washington .",
    "starttime": "2289.39",
-   "endtime": "2289.25",
+   "endtime": "2292.39",
    "verbs": []
   },
   {
    "sentence": "So hard to hear .",
    "starttime": "2292.71",
-   "endtime": "2289.25",
+   "endtime": "2293.49",
    "verbs": [
     {
      "vword": "hear",
@@ -9850,7 +9850,7 @@
   {
    "sentence": "We 'll hear from her and her family in just a minute .",
    "starttime": "2312.04",
-   "endtime": "2311.73",
+   "endtime": "2314.57",
    "verbs": [
     {
      "vword": "&apos;ll",
@@ -9869,7 +9869,7 @@
   {
    "sentence": "Nice job Sloan .",
    "starttime": "2314.98",
-   "endtime": "2311.73",
+   "endtime": "2316.95",
    "verbs": []
   },
   {
@@ -10743,7 +10743,7 @@
   {
    "sentence": "Visit mattress firm America 's 1 Tempur-Pedic retailer today and sleep happy tonight .",
    "starttime": "2523.69",
-   "endtime": "2522.84",
+   "endtime": "2529.46",
    "verbs": [
     {
      "vword": "sleep",
@@ -10851,7 +10851,7 @@
   {
    "sentence": "The Carolina Panthers are NFC Champions",
    "starttime": "2588.40",
-   "endtime": "2583.54",
+   "endtime": "2585.42",
    "verbs": [
     {
      "vword": "are",
@@ -10864,7 +10864,7 @@
   {
    "sentence": "Let the Games begin .",
    "starttime": "2589.29",
-   "endtime": "2583.54",
+   "endtime": "2590.66",
    "verbs": [
     {
      "vword": "Let",
@@ -10909,7 +10909,7 @@
   {
    "sentence": "Super Bowl 50 just days away and Star quarterbacks Peyton manning of the BRONCOS and Cam Newton of the panthers ready to roll .",
    "starttime": "2594.51",
-   "endtime": "2594.51",
+   "endtime": "2602.36",
    "verbs": [
     {
      "vword": "roll",
@@ -10922,7 +10922,7 @@
   {
    "sentence": "Well we got a great football team .",
    "starttime": "2602.44",
-   "endtime": "2594.51",
+   "endtime": "2604.06",
    "verbs": [
     {
      "vword": "got",
@@ -10935,7 +10935,7 @@
   {
    "sentence": "I want to win just one just this one .",
    "starttime": "2604.09",
-   "endtime": "2594.51",
+   "endtime": "2606.24",
    "verbs": [
     {
      "vword": "want",
@@ -10954,7 +10954,7 @@
   {
    "sentence": "At the Super Bowl 's annual pregame circus known as opening night both players heaping praise on each other .",
    "starttime": "2606.33",
-   "endtime": "2594.51",
+   "endtime": "2612.63",
    "verbs": [
     {
      "vword": "known",
@@ -10979,7 +10979,7 @@
   {
    "sentence": "You do n't go 17-1 as a starting quarterback without being awesome .",
    "starttime": "2612.68",
-   "endtime": "2594.51",
+   "endtime": "2618.87",
    "verbs": [
     {
      "vword": "do",
@@ -11010,7 +11010,7 @@
   {
    "sentence": "Peyton manning will always be an ALL-TIME great .",
    "starttime": "2618.91",
-   "endtime": "2594.51",
+   "endtime": "2621.67",
    "verbs": [
     {
      "vword": "will",
@@ -11035,7 +11035,7 @@
   {
    "sentence": "The 39-YEAR-OLD manning one of the best quarterbacks of all time A FIVE-TIME MVP and super bowl champion playing in a game that according to this exchange caught by showtime 's inside the NFL '' at the AFC championships could be his last .",
    "starttime": "2623.20",
-   "endtime": "2622.94",
+   "endtime": "2637.47",
    "verbs": [
     {
      "vword": "manning",
@@ -11078,7 +11078,7 @@
   {
    "sentence": "Listen this may be my last Rodeo so sure has been a pleasure .",
    "starttime": "2637.93",
-   "endtime": "2622.94",
+   "endtime": "2641.70",
    "verbs": [
     {
      "vword": "Listen",
@@ -11134,7 +11134,7 @@
   {
    "sentence": "I 'm aware that this could be it .",
    "starttime": "2642.44",
-   "endtime": "2642.27",
+   "endtime": "2643.75",
    "verbs": [
     {
      "vword": "&apos;m",
@@ -11227,7 +11227,7 @@
   {
    "sentence": "Remember Michael Oher from the blind side . ''",
    "starttime": "2661.29",
-   "endtime": "2661.01",
+   "endtime": "2663.54",
    "verbs": [
     {
      "vword": "Remember",
@@ -11240,7 +11240,7 @@
   {
    "sentence": "Team is your family Michael .",
    "starttime": "2665.19",
-   "endtime": "2661.01",
+   "endtime": "2666.28",
    "verbs": [
     {
      "vword": "is",
@@ -11253,7 +11253,7 @@
   {
    "sentence": "He found himself without a team and Newton texted him saying he needed him to protect his blind side on the field .",
    "starttime": "2666.52",
-   "endtime": "2661.01",
+   "endtime": "2672.68",
    "verbs": [
     {
      "vword": "found",
@@ -11290,7 +11290,7 @@
   {
    "sentence": "He wanted me here and you know that meant a lot .",
    "starttime": "2672.76",
-   "endtime": "2661.01",
+   "endtime": "2675.16",
    "verbs": [
     {
      "vword": "wanted",
@@ -11328,7 +11328,7 @@
   {
    "sentence": "For Good Morning America '' Ryan Smith ABC News New York .",
    "starttime": "2682.08",
-   "endtime": "2681.75",
+   "endtime": "2685.59",
    "verbs": []
   },
   {
@@ -11365,7 +11365,7 @@
   {
    "sentence": "All right .",
    "starttime": "2687.97",
-   "endtime": "2687.81",
+   "endtime": "2688.41",
    "verbs": []
   },
   {
@@ -11985,7 +11985,7 @@
   {
    "sentence": "Better eggs .",
    "starttime": "2868.22",
-   "endtime": "2867.89",
+   "endtime": "2868.73",
    "verbs": []
   },
   {
@@ -12054,13 +12054,13 @@
   {
    "sentence": "Good morning everybody .",
    "starttime": "2945.39",
-   "endtime": "2945.39",
+   "endtime": "2946.69",
    "verbs": []
   },
   {
    "sentence": "Good morning how are you",
    "starttime": "2948.02",
-   "endtime": "2945.39",
+   "endtime": "2946.69",
    "verbs": [
     {
      "vword": "are",
@@ -12142,7 +12142,7 @@
   {
    "sentence": "You practiced on the carpet there in your house at first correct",
    "starttime": "2956.11",
-   "endtime": "2956.11",
+   "endtime": "2953.25",
    "verbs": [
     {
      "vword": "practiced",
@@ -12161,7 +12161,7 @@
   {
    "sentence": "Yeah we got her a snowboard for Christmas and it 's called a Burton riglet and it has a little rig and you can pull them around on the carpet so pulled her around inside for awhile and she got really good at it .",
    "starttime": "2960.85",
-   "endtime": "2956.11",
+   "endtime": "2974.34",
    "verbs": [
     {
      "vword": "got",
@@ -12216,7 +12216,7 @@
   {
    "sentence": "She really liked it .",
    "starttime": "2974.66",
-   "endtime": "2956.11",
+   "endtime": "2975.74",
    "verbs": [
     {
      "vword": "liked",
@@ -12229,7 +12229,7 @@
   {
    "sentence": "She really loved it .",
    "starttime": "2976.84",
-   "endtime": "2956.11",
+   "endtime": "2977.19",
    "verbs": [
     {
      "vword": "loved",
@@ -12261,7 +12261,7 @@
   {
    "sentence": "She 's so little she 's only 14 months old there is n't even a helmet that fits her because her head is so small still .",
    "starttime": "2980.54",
-   "endtime": "2978.97",
+   "endtime": "2987.16",
    "verbs": [
     {
      "vword": "&apos;s",
@@ -12298,7 +12298,7 @@
   {
    "sentence": "Yes unfortunately we bought her the smallest helmet we could find and it still is so big that it covers her eyes .",
    "starttime": "2988.22",
-   "endtime": "2978.97",
+   "endtime": "2993.98",
    "verbs": [
     {
      "vword": "bought",
@@ -12335,7 +12335,7 @@
   {
    "sentence": "Because she has no hair .",
    "starttime": "2994.52",
-   "endtime": "2978.97",
+   "endtime": "2995.49",
    "verbs": [
     {
      "vword": "has",
@@ -12354,7 +12354,7 @@
   {
    "sentence": "Hair proposes a problem .",
    "starttime": "2998.03",
-   "endtime": "2997.50",
+   "endtime": "2999.57",
    "verbs": [
     {
      "vword": "proposes",
@@ -12386,7 +12386,7 @@
   {
    "sentence": "I mean really holding her own there on the snow .",
    "starttime": "3003.87",
-   "endtime": "3003.87",
+   "endtime": "3007.02",
    "verbs": [
     {
      "vword": "mean",
@@ -12490,7 +12490,7 @@
   {
    "sentence": "But when we actually went down the slopes people were really impressed at how good she was .",
    "starttime": "3022.05",
-   "endtime": "3007.02",
+   "endtime": "3027.40",
    "verbs": [
     {
      "vword": "went",
@@ -12515,7 +12515,7 @@
   {
    "sentence": "She wants to snowboard .",
    "starttime": "3028.71",
-   "endtime": "3007.02",
+   "endtime": "3031.56",
    "verbs": [
     {
      "vword": "wants",
@@ -12528,7 +12528,7 @@
   {
    "sentence": "She 's like give me my snowboard Daddy .",
    "starttime": "3031.56",
-   "endtime": "3007.02",
+   "endtime": "3033.20",
    "verbs": [
     {
      "vword": "&apos;s",
@@ -12560,7 +12560,7 @@
   {
    "sentence": "She 's not happy .",
    "starttime": "3036.47",
-   "endtime": "3036.47",
+   "endtime": "3037.14",
    "verbs": [
     {
      "vword": "&apos;s",
@@ -12636,19 +12636,19 @@
   {
    "sentence": "At the Olympics ahead .",
    "starttime": "3043.93",
-   "endtime": "3042.11",
+   "endtime": "3048.24",
    "verbs": []
   },
   {
    "sentence": "Thanks guys .",
    "starttime": "3048.35",
-   "endtime": "3042.11",
+   "endtime": "3048.76",
    "verbs": []
   },
   {
    "sentence": "Bye .",
    "starttime": "3048.76",
-   "endtime": "3042.11",
+   "endtime": "3049.26",
    "verbs": []
   },
   {
@@ -12722,7 +12722,7 @@
   {
    "sentence": "Say Ahh '' .",
    "starttime": "3098.94",
-   "endtime": "3098.94",
+   "endtime": "0.0",
    "verbs": [
     {
      "vword": "Say",
@@ -13170,7 +13170,7 @@
   {
    "sentence": "Everybody wants a piece of ready .",
    "starttime": "3243.93",
-   "endtime": "3241.40",
+   "endtime": "3247.08",
    "verbs": [
     {
      "vword": "wants",

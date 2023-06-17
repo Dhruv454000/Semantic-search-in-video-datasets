@@ -89,7 +89,7 @@ def extract_metadata_and_sentences(input_file):
             count = 1
             # Append the previous sentence to the list
             if current_sentence:
-                if endtime == "0.0":
+                if endtime == "0.0" or float(starttime) >= float(endtime):
                     endtime = endtime_execption
                 current_sentence = current_sentence.replace('&apos;', "'")
                 sentence_info = {
