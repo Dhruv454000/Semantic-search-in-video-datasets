@@ -4,6 +4,7 @@ import argparse
 import os
 
 def extract_metadata_and_sentences(input_file):
+    print('input_file',input_file)
     # Read the input text from the file
     with open(input_file, 'r') as file:
         lines = file.readlines()
@@ -139,34 +140,38 @@ def extract_metadata_and_sentences(input_file):
     }
     return video_data
 
-
-def main(input_file, output_folder):
+def main(input_directory, output_folder):
     # Create the output folder if it doesn't exist
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
-    # Extract metadata and sentences
-    video_data = extract_metadata_and_sentences(input_file)
+    # Get the list of VRT files in the input directory
+    vrt_files = [f for f in os.listdir(input_directory) if f.endswith('.vrt')]
 
-    # Get the input file name without extension
-    file_name = os.path.splitext(os.path.basename(input_file))[0]
+    # Process each VRT file
+    for file_name in vrt_files:
+        # Create the input file path
+        input_file = os.path.join(input_directory, file_name)
 
-    # Create the output file path
-    output_file = os.path.join(output_folder, f"{file_name}.json")
+        # Extract metadata and sentences
+        video_data = extract_metadata_and_sentences(input_file)
 
-    # Save the result as JSON
-    with open(output_file, 'w') as file:
-        json.dump(video_data, file, indent=1)
+        # Create the output file path
+        output_file = os.path.join(output_folder, f"{file_name}.json")
 
-    print(f"Extraction completed. Output file: {output_file}")
+        # Save the result as JSON
+        with open(output_file, 'w') as file:
+            json.dump(video_data, file, indent=1)
+
+        print(f"Extraction completed. Output file: {output_file}")
 
 
 if __name__ == '__main__':
     # Parse the command-line arguments
-    parser = argparse.ArgumentParser(description='Extract metadata and sentences from input VRT file.')
-    parser.add_argument('input_file', type=str, help='Path to the input VRT file')
+    parser = argparse.ArgumentParser(description='Extract metadata and sentences from input VRT files.')
+    parser.add_argument('input_directory', type=str, help='Path to the input directory containing VRT files')
     parser.add_argument('output_folder', type=str, help='Path to the output folder')
     args = parser.parse_args()
 
     # Run the extraction
-    main(args.input_file, args.output_folder)
+    main(args.input_directory, args.output_folder)
