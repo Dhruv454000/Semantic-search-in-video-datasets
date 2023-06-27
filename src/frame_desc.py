@@ -6,6 +6,14 @@ from PIL import Image
 import open_clip
 import torch
 import time
+import numpy as np
+import nltk
+
+nltk.download('punkt')
+nltk.download('stopwords')
+
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
 
 # Initialize the model
 model, _, transform = open_clip.create_model_and_transforms(
@@ -27,15 +35,31 @@ def output_generate(image):
 def get_image(frames, video_file, folder_path):
     ffmpeg_commands = []
     for i, frame in enumerate(frames):
-        ffmpeg_commands.append(f"ffmpeg -ss {frame} -i {video_file} -vframes 1 {folder_path}/{frame}.jpg")
+        ffmpeg_commands.append(f"ffmpeg -y -ss {frame} -i {video_file} -vframes 1 {folder_path}/{frame}.jpg")
     for command in ffmpeg_commands:
-        subprocess.run(command, shell=True)
+        subprocess.run(command, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+def check_duplicate_sentence(sentences, new_sentence):
+    
+    new_words = set(new_sentence.split())
+    new_word_count = len(new_words)
+    for sentence in sentences:
+        current_words = set(sentence.split())
+        common_word_count = len(current_words.intersection(new_words))
+        if common_word_count >= 3:
+            return True
+    return False 
+
+def remove_stopwords(sentence):
+    stop_words = set(stopwords.words('english'))
+    word_tokens = word_tokenize(sentence)
+    filtered_sentence = [word for word in word_tokens if word.casefold() not in stop_words]
+    return ' '.join(filtered_sentence)
 
 
 def process_video_frames(video_file, json_file, folder_path):
     with open(json_file) as f:
         data = json.load(f)
-
     for sent in data['sentences']:
         frames = []
         starttime = sent['starttime']
@@ -58,12 +82,13 @@ def process_video_frames(video_file, json_file, folder_path):
             if os.path.isfile(file_path):
                 image = Image.open(file_path)
                 frame_text = output_generate(image)
-                print(frame_text, 'f')
-                frame_data.append(frame_text)
+                print('text',frame_text,file_path)
+                if(check_duplicate_sentence(frame_data,remove_stopwords(frame_text)) == False):
+                    frame_data.append(frame_text)
                 os.remove(file_path)
-        
-        frame_data = unique(frame_data)
-        sent['frame_data'] = frame_data
+
+        frame_data = np.unique(frame_data)
+        sent['frame_data'] = frame_data.tolist()
     
     with open(json_file, 'w') as f:
         json.dump(data, f, indent=1)
@@ -74,10 +99,6 @@ def main(video_file, json_file, folder_path):
     # Process video frames
     process_video_frames(video_file, json_file, folder_path)
 
-    # End measuring time
-    end_time = time.time()
-    execution_time = end_time - start_time
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Process video frames and generate frame data")
@@ -87,3 +108,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     main(args.video_file, args.json_file, args.folder_path)
+
