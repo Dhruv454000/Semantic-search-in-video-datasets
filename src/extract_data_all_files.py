@@ -157,7 +157,7 @@ def main(input_directory, output_folder):
         video_data = extract_metadata_and_sentences(input_file)
 
         # Create the output file path
-        output_file = os.path.join(output_folder, f"{file_name}.json")
+        output_file = os.path.join(output_folder, f"{file_name[:-4]}.json")
 
         # Save the result as JSON
         with open(output_file, 'w') as file:
@@ -175,3 +175,4 @@ if __name__ == '__main__':
 
     # Run the extraction
     main(args.input_directory, args.output_folder)
+    
