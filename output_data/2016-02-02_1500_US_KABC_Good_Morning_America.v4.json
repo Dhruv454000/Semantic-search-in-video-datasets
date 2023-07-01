@@ -31,7 +31,8 @@
       "verbs": [],
       "frame_data": [
        "a bunch of pictures of some people at a political event . ",
-       "a close up of a tv screen with the words iowa caucuses . "
+       "a close up of a tv screen with the words iowa caucuses . ",
+       "a picture of the iowa caucuses logo . "
       ]
      },
      {
@@ -58,6 +59,7 @@
       "verbs": [],
       "frame_data": [
        "a bunch of people that are talking to each other . ",
+       "a crowd of people taking pictures of a man in a suit . ",
        "a group of people taking pictures with cell phones . "
       ]
      },
@@ -85,6 +87,7 @@
        }
       ],
       "frame_data": [
+       "ted cruz speaking at an event in iowa . ",
        "ted cruz speaking at an iowa caucus event . "
       ]
      },
@@ -107,8 +110,10 @@
        }
       ],
       "frame_data": [
+       "a crowd of people standing in front of a microphone . ",
        "a group of people standing in front of a microphone . ",
        "a man and a woman standing next to each other . ",
+       "a man in a suit and red neck tie standing in front of a microphone . ",
        "a red and white elephant logo with stars around it . "
       ]
      },
@@ -147,6 +152,7 @@
        }
       ],
       "frame_data": [
+       "a man in a suit and red neck tie standing at a podium . ",
        "a man in a suit and red tie standing at a podium . "
       ]
      },
@@ -169,7 +175,9 @@
        }
       ],
       "frame_data": [
-       "a man standing at a podium in front of american flags . "
+       "a man in a suit and red neck tie standing at a podium . ",
+       "a man standing at a podium in front of american flags . ",
+       "a man standing at a podium in front of an american flag . "
       ]
      },
      {
@@ -192,6 +200,8 @@
       ],
       "frame_data": [
        "a man in a suit and red neck tie standing in front of a microphone . ",
+       "a man standing at a podium in front of american flags . ",
+       "a man standing at a podium in front of an american flag . ",
        "a red and white elephant logo on top of stars . "
       ]
      },
@@ -238,6 +248,7 @@
        }
       ],
       "frame_data": [
+       "a man is speaking at a podium in front of a crowd . ",
        "a man is speaking at a podium in front of an audience . ",
        "marco rubio speaking at a political event . "
       ]
@@ -256,7 +267,8 @@
       ],
       "frame_data": [
        "a blue and white political symbol with stars around it . ",
-       "a man is speaking at a podium in front of an audience . "
+       "a man is speaking at a podium in front of an audience . ",
+       "a man is speaking at an event in front of an audience . "
       ]
      },
      {
@@ -266,7 +278,8 @@
       "verbs": [],
       "frame_data": [
        "a blurry image of a blue star and a red and white star . ",
-       "two pictures of hillary clinton and bernie sanders . "
+       "two pictures of hillary clinton and bernie sanders . ",
+       "two pictures of the clintons and bernie sanders . "
       ]
      },
      {
@@ -289,6 +302,8 @@
       ],
       "frame_data": [
        "a picture of hillary and bill clinton at a political event . ",
+       "two pictures of a woman and a man . ",
+       "two pictures of hillary clinton and bernie sanders . ",
        "two pictures of the clintons and sanders . "
       ]
      },
@@ -312,7 +327,10 @@
       ],
       "frame_data": [
        "a picture of hillary and bill clinton at a political event . ",
-       "a woman in a red coat is standing in front of a group of people . "
+       "a woman in a red coat and a man in a suit . ",
+       "a woman in a red coat is speaking . ",
+       "a woman in a red coat is standing in front of a group of people . ",
+       "a woman in a red dress is standing in front of a crowd . "
       ]
      },
      {
@@ -344,6 +362,7 @@
        }
       ],
       "frame_data": [
+       "a man standing next to a microphone on top of a plane . ",
        "a man standing on top of an airplane . ",
        "a red and white elephant logo on top of stars . "
       ]
@@ -402,6 +421,7 @@
       ],
       "frame_data": [
        "a blurry image of a crowd of people in a stadium . ",
+       "a blurry image of a train on the tracks . ",
        "a man in a black jacket is on a plane . "
       ]
      },
@@ -411,6 +431,7 @@
       "endtime": "62.96",
       "verbs": [],
       "frame_data": [
+       "a man standing in front of a crowd of people . ",
        "a man standing in front of a group of people . ",
        "the republican party logo is shown in this image . "
       ]
@@ -440,10 +461,12 @@
        }
       ],
       "frame_data": [
+       "a group of men standing next to each other . ",
        "a group of men standing next to each other on a stage . ",
        "a group of people holding up their cell phones . ",
        "a man in a black suit and blue tie . ",
-       "a man standing in front of a group of people "
+       "a man standing in front of a group of people ",
+       "a man standing in front of an american flag . "
       ]
      },
      {
@@ -483,7 +506,9 @@
       ],
       "frame_data": [
        "a group of people sitting around a table . ",
-       "a television screen showing the results of the presidential election . "
+       "a news room with a large television screen . ",
+       "a television screen showing the results of the presidential election . ",
+       "a tv screen showing three different candidates for the 2 0 1 6 presidential election . "
       ]
      },
      {
@@ -499,7 +524,10 @@
        }
       ],
       "frame_data": [
-       "a tv screen showing a presidential debate between clinton and sanders . "
+       "a television screen showing the results of the presidential election . ",
+       "a tv screen showing a presidential debate between clinton and sanders . ",
+       "a tv screen showing a presidential election results . ",
+       "a tv screen with a picture of a woman and man . "
       ]
      },
      {
@@ -515,6 +543,8 @@
        }
       ],
       "frame_data": [
+       "a tv screen with a picture of a woman and man . ",
+       "a tv screen with a picture of hillary clinton on it ",
        "an image of a tv screen with a picture of hillary clinton . "
       ]
      },
@@ -543,7 +573,9 @@
        }
       ],
       "frame_data": [
-       "a group of people standing in front of a television . "
+       "a group of people standing in front of a television . ",
+       "a group of people standing in front of a tv . ",
+       "a tv screen showing a group of people on a street . "
       ]
      },
      {
@@ -565,7 +597,10 @@
        }
       ],
       "frame_data": [
+       "a group of people sitting in a room . ",
+       "a tv screen showing a group of people in a room . ",
        "a tv screen showing a group of people on a street . ",
+       "a tv screen with a picture of people at a table . ",
        "there is an image of a tv screen on the wall "
       ]
      },
@@ -606,8 +641,11 @@
        }
       ],
       "frame_data": [
+       "a group of people hugging in front of a crowd . ",
+       "a group of people sitting at a table in a room . ",
        "a tv screen showing a group of people in a room . ",
-       "two women are hugging in front of a crowd . "
+       "two women are hugging in front of a crowd . ",
+       "two women hugging in front of a crowd . "
       ]
      },
      {
@@ -629,7 +667,9 @@
        }
       ],
       "frame_data": [
+       "a group of people hugging in front of a crowd . ",
        "a group of people hugging in front of an audience . ",
+       "a woman and a man sitting at a table . ",
        "a woman and a man sitting in front of a news desk . "
       ]
      },
@@ -652,7 +692,8 @@
        }
       ],
       "frame_data": [
-       "a woman and a man sitting at a news desk . "
+       "a woman and a man sitting at a news desk . ",
+       "a woman and a man sitting in front of a news desk . "
       ]
      },
      {
@@ -720,7 +761,10 @@
        }
       ],
       "frame_data": [
-       "a woman and a man sitting in front of a news desk . "
+       "a woman and a man sitting at a table . ",
+       "a woman and a man sitting in front of a news desk . ",
+       "a woman and a man sitting in front of a television . ",
+       "a woman and a man sitting in front of a tv . "
       ]
      },
      {
@@ -761,6 +805,10 @@
       ],
       "frame_data": [
        "a person standing in a room with a laptop . ",
+       "a woman and a man sitting at a table . ",
+       "a woman and a man sitting in front of a news desk . ",
+       "a woman and a man sitting in front of a tv . ",
+       "a woman and a man sitting next to each other . ",
        "a woman and a man sitting next to each other on a news set . "
       ]
      },
@@ -808,8 +856,14 @@
       ],
       "frame_data": [
        "a man wearing a suit and tie ",
+       "a man wearing a suit and tie . ",
        "a person standing in a room with a laptop . ",
-       "three people are featured on a news channel . "
+       "three people are featured on a news channel . ",
+       "three people are on a news channel . ",
+       "three people are on a news set . ",
+       "three people are shown in front of a tv screen . ",
+       "three people are sitting in front of a tv screen . ",
+       "three people are standing next to each other on a tv screen . "
       ]
      },
      {
@@ -818,6 +872,7 @@
       "endtime": "155.15",
       "verbs": [],
       "frame_data": [
+       "a man in a suit and glasses on a news set . ",
        "a man wearing a suit and tie . "
       ]
      },
@@ -827,7 +882,9 @@
       "endtime": "157.68",
       "verbs": [],
       "frame_data": [
-       "a man in a suit and tie on a news set . "
+       "a man in a suit and glasses is talking on tv . ",
+       "a man in a suit and tie on a news set . ",
+       "a man wearing a suit and tie . "
       ]
      },
      {
@@ -862,6 +919,8 @@
       ],
       "frame_data": [
        "a man in a suit and glasses is on a news set ",
+       "a man in glasses and a suit is talking on a television . ",
+       "a man in glasses and a suit is talking on cnn . ",
        "a man wearing a suit and tie . "
       ]
      },
@@ -871,6 +930,8 @@
       "endtime": "170.22",
       "verbs": [],
       "frame_data": [
+       "a crowd of people holding up signs at a political event . ",
+       "a group of people standing next to each other . ",
        "a group of people standing next to each other holding signs . "
       ]
      },
@@ -880,6 +941,7 @@
       "endtime": "172.25",
       "verbs": [],
       "frame_data": [
+       "a crowd of people holding up signs at a political event . ",
        "a group of people holding up signs at a political event . ",
        "a man in a suit and tie standing in front of a building . "
       ]
@@ -904,8 +966,10 @@
       ],
       "frame_data": [
        "a man is holding a microphone in front of a crowd . ",
-       "a picture of a tv screen that has a lot of red in it ",
-       "ted cruz speaking at a political event in los angeles . "
+       "a man is speaking at a political event . ",
+       "a picture of a tv screen that has a lot of red in it . ",
+       "ted cruz speaking at a political event in los angeles . ",
+       "ted cruz speaking at a press conference in 2 0 1 6 "
       ]
      },
      {
@@ -939,6 +1003,10 @@
        }
       ],
       "frame_data": [
+       "a group of people standing next to each other on a street . ",
+       "a man is standing next to a crowd of people . ",
+       "a man standing in front of a building . ",
+       "a man standing in the grass near a street . ",
        "a man standing in the street with a camera . ",
        "a person is holding a cell phone in their hand . "
       ]
@@ -975,7 +1043,9 @@
       "endtime": "188.66",
       "verbs": [],
       "frame_data": [
-       "a couple of men standing next to each other . "
+       "a couple of men standing next to each other . ",
+       "a group of men standing next to each other . ",
+       "a man standing next to another man in a suit . "
       ]
      },
      {
@@ -984,6 +1054,7 @@
       "endtime": "189.14",
       "verbs": [],
       "frame_data": [
+       "a group of men standing next to each other . ",
        "a man and a woman standing next to each other . ",
        "a picture of a group of people that are standing in the grass . "
       ]
@@ -1010,6 +1081,7 @@
        "a group of men standing next to each other . ",
        "a group of people that are sitting in a room . ",
        "a red and white striped background with the words \" cruz tops trump in iowa \". ",
+       "two men hug and smile for the cameras . ",
        "two men hug in front of a television screen . "
       ]
      },
@@ -1026,6 +1098,7 @@
        }
       ],
       "frame_data": [
+       "a group of people standing next to each other . ",
        "a group of people that are sitting in a room . ",
        "a man in a suit and tie standing in front of a crowd . ",
        "a tv screen with a blurry image of a crowd of onlookers "
@@ -1073,7 +1146,12 @@
        }
       ],
       "frame_data": [
+       "ted cruz is interviewed by a cnn reporter . ",
+       "ted cruz talks to a news anchor in iowa . ",
+       "ted cruz talks to a reporter on cnn . ",
+       "ted cruz talks to a reporter on the set of a tv show . ",
        "ted cruz talks to an audience member at a political event . ",
+       "ted cruz tops trump in iowa to win the republican presidential nomination . ",
        "two men are talking to each other in front of a wall . "
       ]
      },
@@ -1115,7 +1193,11 @@
       ],
       "frame_data": [
        "a tv screen with a red and white striped background . ",
-       "ted cruz tops trump in iowa to be upset in gop caucus . "
+       "ted cruz talks to a cnn reporter about the iowa caucuses ",
+       "ted cruz talks to a reporter on cnn . ",
+       "ted cruz tops donald trump in iowa ",
+       "ted cruz tops trump in iowa to be upset in gop caucus . ",
+       "ted cruz tops trump in iowa to win the republican presidential nomination . "
       ]
      },
      {
@@ -1139,6 +1221,7 @@
       "frame_data": [
        "a group of men standing next to each other on a stage . ",
        "a person standing in a room with a laptop . ",
+       "a tv screen showing a group of people on a street . ",
        "a tv screen with a red and white striped background . ",
        "ted cruz speaking at an event in iowa . "
       ]
@@ -1156,6 +1239,9 @@
        }
       ],
       "frame_data": [
+       "republican presidential candidate , sen . ted cruz speaks at an event . ",
+       "republican presidential candidate ted cruz speaking at a campaign event . ",
+       "republican presidential candidate ted cruz speaking at a political event . ",
        "ted cruz speaking at an event in iowa . "
       ]
      },
@@ -1179,7 +1265,9 @@
       ],
       "frame_data": [
        "a group of people standing in front of a crowd . ",
-       "a man and a woman standing next to each other . "
+       "a group of people standing next to each other . ",
+       "a man and a woman standing next to each other . ",
+       "a man and a woman standing on a stage . "
       ]
      },
      {
@@ -1208,7 +1296,9 @@
       ],
       "frame_data": [
        "a group of people sitting on a stage with microphones ",
-       "a group of people standing next to each other . "
+       "a group of people standing in front of a crowd . ",
+       "a group of people standing next to each other . ",
+       "a group of people that are standing in front of a crowd . "
       ]
      },
      {
@@ -1249,6 +1339,11 @@
       ],
       "frame_data": [
        "a man in a red tie is giving a speech . ",
+       "a man in a red tie is speaking at a press conference . ",
+       "a man in a suit and red neck tie is speaking . ",
+       "a man in a suit and tie standing at a podium . ",
+       "a man standing at a podium in front of american flags . ",
+       "a man standing at a podium in front of an american flag . ",
        "a man standing in front of a microphone . "
       ]
      },
@@ -1284,6 +1379,8 @@
       ],
       "frame_data": [
        "a man in a red tie is speaking at a press conference . ",
+       "a man in a suit and red tie standing at a podium ",
+       "a man in a suit and tie standing in front of a microphone . ",
        "a man in a suit is giving a speech . ",
        "a man standing at a podium in front of american flags . "
       ]
@@ -1307,7 +1404,9 @@
        }
       ],
       "frame_data": [
-       "a group of people standing in front of a crowd . "
+       "a group of people standing in front of a crowd . ",
+       "a group of people standing in front of microphones . ",
+       "a group of people standing next to each other . "
       ]
      },
      {
@@ -1323,7 +1422,8 @@
        }
       ],
       "frame_data": [
-       "a group of people standing next to each other . "
+       "a group of people standing next to each other . ",
+       "a man and a woman standing next to each other . "
       ]
      },
      {
@@ -1375,7 +1475,13 @@
        }
       ],
       "frame_data": [
+       "a man in a red suit is speaking at an event . ",
+       "a man in a red tie is giving a speech . ",
+       "a man in a red tie is speaking at a press conference . ",
        "a man in a suit and tie standing in front of a microphone . ",
+       "a man in a suit and tie standing in front of microphones ",
+       "a man standing in front of a microphone on a stage . ",
+       "a man standing in front of microphones . ",
        "a picture of a red white and blue striped background . "
       ]
      },
@@ -1393,6 +1499,7 @@
       ],
       "frame_data": [
        "a man in a red tie is giving a speech . ",
+       "a man in a suit and tie standing in front of a microphone . ",
        "a man in a suit is speaking at a press conference . "
       ]
      },
@@ -1409,7 +1516,9 @@
        }
       ],
       "frame_data": [
-       "a man in a red tie is speaking at a press conference . "
+       "a man in a red tie is speaking at a press conference . ",
+       "a man in a red tie is speaking at an event . ",
+       "a man in a suit and tie standing in front of microphones . "
       ]
      },
      {
@@ -1425,7 +1534,9 @@
        }
       ],
       "frame_data": [
-       "a man in a suit and tie holding a microphone . "
+       "a man in a red tie is speaking into a microphone . ",
+       "a man in a suit and tie holding a microphone . ",
+       "a man in a suit and tie with a microphone . "
       ]
      },
      {
@@ -1471,7 +1582,13 @@
        }
       ],
       "frame_data": [
-       "a man in a suit and tie standing in front of an american flag . "
+       "a man in a red tie is speaking at an event . ",
+       "a man in a suit and tie holding a microphone . ",
+       "a man in a suit and tie standing at a podium . ",
+       "a man in a suit and tie standing in front of an american flag . ",
+       "a man in a suit and tie standing in front of microphones ",
+       "a man in a suit is speaking at a press conference . ",
+       "a man standing in front of an american flag . "
       ]
      },
      {
@@ -1487,6 +1604,7 @@
        }
       ],
       "frame_data": [
+       "a man in a red tie is speaking at an event . ",
        "a man in a suit and tie standing in front of a microphone . "
       ]
      },
@@ -1515,7 +1633,9 @@
        }
       ],
       "frame_data": [
+       "a group of people standing next to each other on a stage . ",
        "a group of people that are standing in a room . ",
+       "a group of people that are standing up . ",
        "a man in a suit standing next to another man in a suit . "
       ]
      },
@@ -1551,8 +1671,11 @@
       ],
       "frame_data": [
        "a man in a suit and tie standing in front of microphones . ",
+       "a man in a suit is speaking at an event ",
+       "a man is speaking at a news conference . ",
        "a man is speaking at an event . ",
-       "marco rubio speaking at a news conference in 2 0 1 6 . "
+       "marco rubio speaking at a news conference in 2 0 1 6 . ",
+       "marco rubio speaking at a political event . "
       ]
      },
      {
@@ -1586,7 +1709,11 @@
        }
       ],
       "frame_data": [
-       "a man wearing a suit and tie . "
+       "a man wearing a suit and tie ",
+       "a man wearing a suit and tie . ",
+       "a man wearing a suit and tie standing in front of a tv ",
+       "a man wearing glasses and a suit and tie . ",
+       "a man wearing glasses and a tie "
       ]
      },
      {
@@ -1620,7 +1747,11 @@
        }
       ],
       "frame_data": [
-       "a man in a suit and tie on a news set . "
+       "a man in a suit and tie on a news set . ",
+       "a man wearing a suit and tie ",
+       "a man wearing a suit and tie . ",
+       "a man wearing a suit and tie in front of a television . ",
+       "a man wearing glasses and a tie . "
       ]
      },
      {
@@ -1649,7 +1780,9 @@
       ],
       "frame_data": [
        "a man in a suit and tie on a news set . ",
-       "a woman and two men sitting next to each other . "
+       "a man wearing a suit and tie . ",
+       "a man wearing glasses and a suit and tie ",
+       "a woman and two men are sitting next to each other . "
       ]
      },
      {
@@ -1665,7 +1798,9 @@
        }
       ],
       "frame_data": [
-       "a woman and two men sitting next to each other . ",
+       "a couple of people sitting next to each other on tv . ",
+       "a woman and two men are sitting next to each other . ",
+       "two people and a news anchor in front of a building . ",
        "two people and a news anchor on a news set . "
       ]
      },
@@ -1682,6 +1817,8 @@
        }
       ],
       "frame_data": [
+       "two people and a news anchor in front of a building . ",
+       "two people and a news anchor on a news set . ",
        "two people sitting next to each other in front of a microphone . "
       ]
      },
@@ -1691,6 +1828,7 @@
       "endtime": "314.12",
       "verbs": [],
       "frame_data": [
+       "two people and a news anchor in front of a building . ",
        "two people and a news anchor on a news set . "
       ]
      },
@@ -1731,8 +1869,12 @@
        }
       ],
       "frame_data": [
+       "a couple of people sitting next to each other on tv . ",
        "a couple of people that are sitting next to each other . ",
-       "two people and a news anchor in front of a building . "
+       "a woman and two men sitting next to each other . ",
+       "two people and a news anchor in front of a building . ",
+       "two people and a news anchor on a news set . ",
+       "two people are sitting next to each other . "
       ]
      },
      {
@@ -1748,7 +1890,8 @@
        }
       ],
       "frame_data": [
-       "a graphic showing the results of the republican presidential debate . "
+       "a graphic showing the results of the republican presidential debate . ",
+       "a tv screen with a poll showing the results of the presidential election "
       ]
      },
      {
@@ -1764,6 +1907,7 @@
        }
       ],
       "frame_data": [
+       "a tv screen showing the results of the republican presidential debate . ",
        "a tv screen with a poll showing the results of the presidential election "
       ]
      },
@@ -1792,6 +1936,9 @@
        }
       ],
       "frame_data": [
+       "a screen shot of the results of the republican presidential debate . ",
+       "a tv screen showing the results of the presidential election . ",
+       "a tv screen with a poll showing the results of the presidential election ",
        "a tv screen with a poll showing the results of the presidential election . "
       ]
      },
@@ -1808,8 +1955,10 @@
        }
       ],
       "frame_data": [
+       "a graphic showing the results of the presidential election . ",
        "a graphic showing the results of the republican presidential debate . ",
-       "a tv screen with a poll showing ted cruz , marco rubio , and donald trump . "
+       "a tv screen with a poll showing ted cruz , marco rubio , and donald trump . ",
+       "a tv screen with a poll showing the results of the presidential election "
       ]
      },
      {
@@ -1862,6 +2011,12 @@
       ],
       "frame_data": [
        "a graphic showing the results of the presidential election . ",
+       "a man in a suit and glasses on a news set . ",
+       "a man in a suit and tie . ",
+       "a man in a tv studio wearing glasses . ",
+       "a man in glasses and a suit and tie . ",
+       "a man wearing a suit and tie . ",
+       "a man wearing glasses and a blue tie . ",
        "a man wearing glasses and a suit and tie . "
       ]
      },
@@ -1897,7 +2052,11 @@
       ],
       "frame_data": [
        "a couple of people sitting next to each other . ",
-       "a man in a suit and tie on a news set . "
+       "a man in a suit and glasses on a news set . ",
+       "a man in a suit and tie . ",
+       "a man in a suit and tie on a news set . ",
+       "a man in a suit and tie standing in front of a tv . ",
+       "a man wearing glasses and a blue suit . "
       ]
      },
      {
@@ -1906,6 +2065,7 @@
       "endtime": "344.84",
       "verbs": [],
       "frame_data": [
+       "a couple of people sitting next to each other . ",
        "a couple of people that are sitting next to each other . "
       ]
      },
@@ -1934,6 +2094,7 @@
        }
       ],
       "frame_data": [
+       "a couple of people that are sitting next to each other . ",
        "a woman and a man sitting next to each other . "
       ]
      },
@@ -1958,7 +2119,7 @@
       "frame_data": [
        "a screen shot of a tv show with a picture of hillary clinton and bernie sanders ",
        "a woman and a man sitting next to each other . ",
-       "two people sitting in front of each other . "
+       "two people sitting in front of each other on a news set "
       ]
      },
      {
@@ -2022,8 +2183,12 @@
       ],
       "frame_data": [
        "a man in a news room with a microphone . ",
+       "a man in a suit and tie on a news set . ",
        "a man wearing a suit and tie ",
+       "a screen shot of a political ad for the 2 0 1 6 presidential election . ",
+       "a screen shot of a political ad for the presidential election . ",
        "a screen shot of a tv ad for the presidential campaign . ",
+       "a screen shot of a tv ad for the presidential election . ",
        "a television screen showing a news story about hillary clinton and bernie sanders . "
       ]
      },
@@ -2051,7 +2216,9 @@
       "endtime": "368.06",
       "verbs": [],
       "frame_data": [
-       "a man and a woman are on a news set . "
+       "a man and a woman are on a news set . ",
+       "a man and a woman are talking on a television screen . ",
+       "a man and a woman on a news set . "
       ]
      },
      {
@@ -2109,7 +2276,12 @@
       "frame_data": [
        "a woman is covering her face while standing in front of a building . ",
        "a woman is holding a microphone in her hand . ",
-       "a woman wearing a tan scarf and a brown jacket . "
+       "a woman is holding her hands in front of her face . ",
+       "a woman is standing in front of a building . ",
+       "a woman wearing a brown scarf and a brown jacket . ",
+       "a woman wearing a scarf and a jacket . ",
+       "a woman wearing a tan scarf and a brown jacket . ",
+       "a woman wearing a tan scarf and holding a microphone . "
       ]
      },
      {
@@ -2138,7 +2310,9 @@
       ],
       "frame_data": [
        "a woman in a black top is holding a microphone . ",
-       "a woman is standing in front of a building . "
+       "a woman is holding her hands in front of her face . ",
+       "a woman is standing in front of a building . ",
+       "a woman wearing a black jacket is standing in front of a building . "
       ]
      },
      {
@@ -2154,7 +2328,10 @@
        }
       ],
       "frame_data": [
-       "a woman is standing in front of a television . "
+       "a woman is standing in front of a building . ",
+       "a woman is standing in front of a television . ",
+       "a woman is standing in front of the camera . ",
+       "a woman is wearing a scarf while standing in front of a building . "
       ]
      },
      {
@@ -2171,7 +2348,9 @@
       ],
       "frame_data": [
        "a picture of a tv screen that has a picture on it . ",
-       "a woman in a red suit is smiling . "
+       "a woman in a red suit is smiling . ",
+       "a woman in a red suit is standing in front of a crowd ",
+       "a woman in a red suit is standing in front of a crowd . "
       ]
      },
      {
@@ -2180,7 +2359,9 @@
       "endtime": "397.67",
       "verbs": [],
       "frame_data": [
-       "two women and a man standing in front of a crowd . "
+       "a woman standing next to a man and a woman . ",
+       "two women and a man standing in front of a crowd . ",
+       "two women and a man standing next to each other . "
       ]
      },
      {
@@ -2190,6 +2371,7 @@
       "verbs": [],
       "frame_data": [
        "a couple of people standing next to each other . ",
+       "a group of people standing next to each other . ",
        "two women and a man standing in front of a crowd . "
       ]
      },
@@ -2199,7 +2381,8 @@
       "endtime": "400.56",
       "verbs": [],
       "frame_data": [
-       "a group of people standing next to each other in a room . ",
+       "a group of people standing next to each other . ",
+       "a woman standing in front of a crowd of people . ",
        "a woman standing in front of two men . "
       ]
      },
@@ -2217,7 +2400,8 @@
       ],
       "frame_data": [
        "a woman in a red dress is giving a speech . ",
-       "a woman standing in front of a crowd of people . "
+       "a woman standing in front of a crowd of people . ",
+       "a woman standing next to a crowd of people . "
       ]
      },
      {
@@ -2246,7 +2430,10 @@
       ],
       "frame_data": [
        "a picture of hillary clinton on tv . ",
-       "a woman in a red coat and a man in a red suit . "
+       "a woman in a red coat and a man in a red suit . ",
+       "a woman in a red coat is speaking . ",
+       "a woman in a red coat is speaking at a podium . ",
+       "a woman in a red suit is standing in front of a crowd . "
       ]
      },
      {
@@ -2310,8 +2497,16 @@
        }
       ],
       "frame_data": [
+       "a couple of people that are hugging in a room . ",
+       "a crowd of people standing in front of a building . ",
+       "a group of people standing in front of a crowd . ",
+       "a group of people standing next to each other . ",
        "a group of people standing next to each other in a room . ",
+       "a group of people that are standing up . ",
+       "a woman and a man standing next to each other . ",
        "a woman in a red dress is holding a microphone . ",
+       "a woman in a red dress is holding her arms up . ",
+       "a woman in a red dress raises her hand . ",
        "a woman is hugging a man in a crowd . "
       ]
      },
@@ -2335,7 +2530,10 @@
       ],
       "frame_data": [
        "a group of people standing in a gym . ",
-       "a woman holding a clipboard in front of a man . "
+       "a group of people standing in a gymnasium . ",
+       "a group of people standing on top of a basketball court . ",
+       "a woman holding a clipboard in front of a man . ",
+       "an older woman is holding a bunch of papers . "
       ]
      },
      {
@@ -2357,6 +2555,8 @@
        }
       ],
       "frame_data": [
+       "a group of people standing around each other . ",
+       "a group of people standing in a room . ",
        "a group of people standing in front of a building . "
       ]
      },
@@ -2366,7 +2566,9 @@
       "endtime": "445.67",
       "verbs": [],
       "frame_data": [
-       "a group of people standing around a building . "
+       "a group of people standing around a building . ",
+       "a group of people standing in a room . ",
+       "a group of people standing next to each other . "
       ]
      },
      {
@@ -2382,7 +2584,8 @@
        }
       ],
       "frame_data": [
-       "a woman standing in front of a man . "
+       "a woman standing in front of a man . ",
+       "a woman standing next to a man in a room . "
       ]
      },
      {
@@ -2418,6 +2621,9 @@
       "frame_data": [
        "a man in a crowd of people . ",
        "a man in a suit and glasses is speaking . ",
+       "a man in a suit and tie sitting in front of a microphone . ",
+       "a man in a suit and tie sitting in front of an audience . ",
+       "a man is sitting in front of a microphone . ",
        "a man sitting in front of a microphone . "
       ]
      },
@@ -2458,6 +2664,13 @@
        }
       ],
       "frame_data": [
+       "a man holding up his fist in front of a crowd of people . ",
+       "a man holding up his fist while standing in front of a crowd . ",
+       "a man in a crowd of people holding up a sign . ",
+       "a man in a crowd of people holding up signs . ",
+       "a man in a crowd of people waving at a crowd . ",
+       "a man in a suit and tie standing in front of a crowd . ",
+       "a man is holding up his fist at a political rally . ",
        "a man waves to the crowd at a political event . "
       ]
      },
@@ -2488,6 +2701,7 @@
       "frame_data": [
        "a man in a suit and tie sitting in front of a microphone . ",
        "a man is speaking at a political event . ",
+       "a man is speaking at an election rally . ",
        "a television screen showing a news story about clinton victory . "
       ]
      },
@@ -2522,6 +2736,7 @@
        }
       ],
       "frame_data": [
+       "a group of people standing next to each other . ",
        "a man and a woman standing next to each other . ",
        "a person is holding a cell phone in their hand . ",
        "a picture of a person in the dark . ",
@@ -2567,7 +2782,12 @@
       ],
       "frame_data": [
        "a man in a black suit is standing in front of a camera . ",
-       "a man in a crowd of people with glasses . "
+       "a man in a crowd of people with glasses . ",
+       "a man in a suit and tie standing next to another man in a suit . ",
+       "a man in black jacket standing on top of a plane . ",
+       "a man in glasses is talking to a crowd . ",
+       "a man is standing in front of the camera . ",
+       "a man is standing on a plane in front of a camera . "
       ]
      },
      {
@@ -2589,7 +2809,11 @@
        }
       ],
       "frame_data": [
-       "a woman is wearing a scarf while standing in front . "
+       "a woman is talking on the phone while wearing a scarf . ",
+       "a woman is wearing a scarf while standing in front . ",
+       "a woman wearing a scarf is on a news set . ",
+       "a woman wearing a scarf is on a television set . ",
+       "a woman wearing a tan scarf and a black jacket . "
       ]
      },
      {
@@ -2624,7 +2848,11 @@
       ],
       "frame_data": [
        "a woman is standing in front of a camera . ",
-       "a woman wearing a scarf and a black jacket . "
+       "a woman wearing a black jacket and a brown scarf . ",
+       "a woman wearing a black jacket and a scarf . ",
+       "a woman wearing a scarf and a black jacket . ",
+       "a woman wearing a scarf is on a news set . ",
+       "a woman wearing a tan scarf and a black jacket . "
       ]
      },
      {
@@ -2652,7 +2880,9 @@
        }
       ],
       "frame_data": [
+       "a woman in a black jacket is talking to a camera . ",
        "a woman is holding a scarf over her face . ",
+       "a woman is standing in front of a building . ",
        "a woman is standing in front of a camera . "
       ]
      },
@@ -2669,6 +2899,7 @@
        }
       ],
       "frame_data": [
+       "a woman and a man are talking on a news channel . ",
        "a woman and a man are talking on a television screen . ",
        "a woman is holding a scarf over her face . ",
        "two women are talking on a news channel . "
@@ -2715,6 +2946,7 @@
        "a person standing in a room with a laptop . ",
        "a woman and a man are talking on a tv . ",
        "a woman in a black shirt is on a news set ",
+       "a woman is talking on the news . ",
        "marco rubio reacts to iowa results ",
        "two women are talking on a news channel . "
       ]
@@ -2745,6 +2977,8 @@
       ],
       "frame_data": [
        "a woman and a man are talking on a television screen . ",
+       "a woman and a man sitting next to each other . ",
+       "a woman sitting next to a man in front of an image . ",
        "marco rubio reacts to iowa results "
       ]
      },
@@ -2789,7 +3023,10 @@
        }
       ],
       "frame_data": [
-       "a woman and a man are talking to each other . "
+       "a woman and a man are sitting next to each other . ",
+       "a woman and a man are talking on a television . ",
+       "a woman and a man are talking to each other . ",
+       "a woman and a man sitting next to each other . "
       ]
      },
      {
@@ -2829,6 +3066,9 @@
        }
       ],
       "frame_data": [
+       "a graphic showing the results of the republican presidential debate . ",
+       "a screen shot of the results of the republican presidential debate . ",
+       "a tv screen showing the results of a poll . ",
        "a tv screen with a picture of three people . ",
        "a tv screen with a poll showing the results of the presidential election ",
        "a woman and a man sitting next to each other . "
@@ -2950,6 +3190,7 @@
       ],
       "frame_data": [
        "a graphic showing the results of the republican presidential debate . ",
+       "a screen shot of the results of the republican presidential debate . ",
        "marco rubio reacts to iowa results "
       ]
      },
@@ -3074,6 +3315,8 @@
       ],
       "frame_data": [
        "a woman and a man are sitting next to each other . ",
+       "a woman and a man sitting next to each other . ",
+       "a woman sitting next to a man in a suit . ",
        "marco rubio reacts to iowa results "
       ]
      },
@@ -3102,6 +3345,7 @@
        }
       ],
       "frame_data": [
+       "a woman and a man are sitting next to each other . ",
        "a woman and a man sitting next to each other . "
       ]
      },
@@ -3206,6 +3450,7 @@
       ],
       "frame_data": [
        "a person standing in a room with a laptop . ",
+       "a screen shot of the results of the 2 0 1 6 presidential election . ",
        "a screen shot of the results of the presidential election . "
       ]
      },
@@ -3247,6 +3492,8 @@
       ],
       "frame_data": [
        "a screen shot of the results of the presidential election . ",
+       "a television screen showing the results of the presidential election . ",
+       "a tv screen showing the results of the presidential election . ",
        "marco rubio reacts to iowa results "
       ]
      },
@@ -3354,7 +3601,9 @@
       ],
       "frame_data": [
        "a person standing in a room with a laptop . ",
-       "marco rubio reacts to iowa results "
+       "marco rubio reacts to iowa results ",
+       "marco rubio reacts to iowa results on one - on - one ",
+       "marco rubio reacts to the results of the iowa caucus . "
       ]
      },
      {
@@ -3431,7 +3680,10 @@
       ],
       "frame_data": [
        "a woman and a man sitting next to each other . ",
-       "marco rubio reacts to iowa results "
+       "marco rubio reacts to iowa results ",
+       "marco rubio reacts to iowa results on abc news ",
+       "marco rubio reacts to iowa results on cnn ",
+       "marco rubio reacts to iowa results on cnn . "
       ]
      },
      {
@@ -3490,6 +3742,8 @@
       ],
       "frame_data": [
        "a woman and a man sitting next to each other . ",
+       "marco rubio reacts to iowa results ",
+       "marco rubio reacts to iowa results on abc news ",
        "marco rubio reacts to iowa results on cnn "
       ]
      },
@@ -3507,6 +3761,7 @@
       ],
       "frame_data": [
        "a woman and a man are sitting next to each other . ",
+       "a woman and a man sitting next to each other . ",
        "marco rubio reacts to iowa results "
       ]
      },
@@ -3529,7 +3784,8 @@
        }
       ],
       "frame_data": [
-       "a woman and a man are sitting next to each other . "
+       "a woman and a man are sitting next to each other . ",
+       "a woman and a man sitting next to each other . "
       ]
      },
      {
@@ -3552,6 +3808,7 @@
       ],
       "frame_data": [
        "a woman and a man are sitting next to each other . ",
+       "a woman and a man sitting next to each other . ",
        "marco rubio reacts to iowa results "
       ]
      },
@@ -3886,6 +4143,7 @@
        }
       ],
       "frame_data": [
+       "a woman and a man are sitting in front of an audience . ",
        "a woman and a man are sitting next to each other . ",
        "marco rubio reacts to iowa results "
       ]
@@ -3927,8 +4185,12 @@
        }
       ],
       "frame_data": [
+       "a woman and a man are sitting in front of an audience . ",
+       "a woman and a man are sitting next to each other . ",
        "a woman and a man sitting next to each other . ",
-       "marco rubio reacts to iowa results "
+       "a woman sitting next to a man in a suit . ",
+       "marco rubio reacts to iowa results ",
+       "marco rubio reacts to iowa results on abc news "
       ]
      },
      {
@@ -4184,7 +4446,8 @@
        }
       ],
       "frame_data": [
-       "marco rubio reacts to iowa results "
+       "marco rubio reacts to iowa results ",
+       "marco rubio reacts to iowa results on cnn "
       ]
      },
      {
@@ -4289,7 +4552,8 @@
       ],
       "frame_data": [
        "a person standing in a room with a laptop . ",
-       "marco rubio reacts to iowa results "
+       "marco rubio reacts to iowa results ",
+       "marco rubio reacts to iowa results on cnn "
       ]
      },
      {
@@ -4298,6 +4562,7 @@
       "endtime": "776.30",
       "verbs": [],
       "frame_data": [
+       "a woman and a man are sitting next to each other . ",
        "a woman and a man sitting next to each other . ",
        "marco rubio reacts to iowa results "
       ]
@@ -4379,6 +4644,7 @@
       "verbs": [],
       "frame_data": [
        "a woman and a man are sitting next to each other . ",
+       "a woman sitting next to a man in a suit . ",
        "marco rubio reacts to iowa results "
       ]
      },
@@ -4395,6 +4661,7 @@
        }
       ],
       "frame_data": [
+       "a man wearing a suit and tie ",
        "a man wearing a suit and tie sitting in front of a microphone ",
        "a woman and a man sitting next to each other . "
       ]
@@ -4425,6 +4692,7 @@
       ],
       "frame_data": [
        "a man wearing a suit and tie sitting in front of a microphone ",
+       "a woman and a man sitting in front of a microphone . ",
        "a woman and a man sitting next to each other . ",
        "three people sitting at a round table in front of a news desk . "
       ]
@@ -4508,8 +4776,12 @@
        }
       ],
       "frame_data": [
+       "a screen shot of the results of the presidential election . ",
+       "three people sitting at a round table in front of a news desk . ",
        "three republican presidential candidates are shown on a tv screen . ",
-       "two men and a woman sitting at a round table . "
+       "two men and a woman sitting at a round table . ",
+       "two men and a woman sitting at a table . ",
+       "two people sitting at a round table in front of a tv . "
       ]
      },
      {
@@ -4586,7 +4858,10 @@
       ],
       "frame_data": [
        "a man in suit and tie sitting in front of a microphone . ",
-       "a tv screen showing the results of the presidential election . "
+       "a man sitting in front of a microphone on a television . ",
+       "a screen shot of the results of the presidential election . ",
+       "a tv screen showing the results of the presidential election . ",
+       "three republican presidential candidates are shown on a tv screen . "
       ]
      },
      {
@@ -4602,6 +4877,8 @@
        }
       ],
       "frame_data": [
+       "a man in a suit and tie sitting in front of a microphone . ",
+       "a man sitting in front of a building . ",
        "a man sitting in front of a tv on top of a table . "
       ]
      },
@@ -4624,7 +4901,10 @@
        }
       ],
       "frame_data": [
-       "a man sitting in front of a tv on top of a table . "
+       "a man sitting in front of a tv on top of a table . ",
+       "two men and a woman sitting at a round table . ",
+       "two men and a woman sitting at a table . ",
+       "two people sitting at a table with a news anchor . "
       ]
      },
      {
@@ -4676,8 +4956,13 @@
        }
       ],
       "frame_data": [
+       "a man in a suit and tie talking on a television . ",
+       "a man is sitting in front of a microphone . ",
+       "a man is speaking to a crowd in front of a microphone . ",
        "a man sitting in front of a camera on a television . ",
+       "a man sitting in front of a tv on top of a table . ",
        "a picture of president donald trump speaking at a campaign event . ",
+       "a picture of president donald trump speaking at an event . ",
        "two men and a woman sitting at a table . "
       ]
      },
@@ -4738,6 +5023,9 @@
       "frame_data": [
        "a man in a suit and tie next to a microphone ",
        "a picture of a person and a picture of a man . ",
+       "a picture of president donald trump and a man . ",
+       "a picture of president donald trump speaking at a press conference . ",
+       "a picture of president donald trump speaking at an event . ",
        "a picture of president donald trump talking to a reporter . "
       ]
      },
@@ -4770,8 +5058,10 @@
        }
       ],
       "frame_data": [
+       "a man sitting in front of a blue background . ",
        "a man sitting in front of a blue wall . ",
-       "two men and a woman sitting at a table . "
+       "two men and a woman sitting at a table . ",
+       "two men and a woman sitting in front of a tv . "
       ]
      },
      {
@@ -4805,7 +5095,11 @@
        }
       ],
       "frame_data": [
-       "three people sitting at a table in front of a tv . "
+       "three people sitting at a table in front of a news desk . ",
+       "three people sitting at a table in front of a tv . ",
+       "two men and a woman sitting in front of a tv . ",
+       "two people sitting at a table in front of a tv . ",
+       "two people sitting at a table with a news anchor . "
       ]
      },
      {
@@ -4814,7 +5108,8 @@
       "endtime": "845.98",
       "verbs": [],
       "frame_data": [
-       "a woman sitting in front of a microphone . "
+       "a woman sitting in front of a microphone . ",
+       "three people sitting at a table in front of a tv . "
       ]
      },
      {
@@ -4848,7 +5143,10 @@
        }
       ],
       "frame_data": [
-       "a woman is sitting in front of a television . "
+       "a woman is sitting in front of a microphone . ",
+       "a woman is sitting in front of a television . ",
+       "a woman is talking on a television set . ",
+       "a woman sitting in front of a microphone . "
       ]
      },
      {
@@ -4912,8 +5210,14 @@
        }
       ],
       "frame_data": [
+       "a group of people that are standing in front of a microphone . ",
        "a picture of a group of people that are talking . ",
+       "a picture of a group of people that are talking to each other ",
        "a woman in a purple wig is sitting in front of a television . ",
+       "a woman is talking on a television set . ",
+       "a woman sitting in front of a microphone . ",
+       "a woman with gray hair is sitting in front . ",
+       "a woman with gray hair sitting in front of a microphone . ",
        "a woman with gray hair talking on a tv show . "
       ]
      },
@@ -4937,6 +5241,8 @@
       ],
       "frame_data": [
        "a group of people sitting next to each other on a stage . ",
+       "a group of people standing next to each other . ",
+       "a group of people that are standing in front of a microphone . ",
        "a group of people that are standing in front of microphones "
       ]
      },
@@ -5019,7 +5325,13 @@
        }
       ],
       "frame_data": [
+       "a group of people sitting next to each other . ",
+       "a group of people sitting next to each other on a stage . ",
+       "a group of people sitting next to each other on top of a stage . ",
        "a group of people standing next to each other . ",
+       "a group of people that are standing in front of each other ",
+       "a picture of a group of people that are standing up . ",
+       "a picture of a group of people that are talking . ",
        "a picture of president donald trump and a woman . "
       ]
      },
@@ -5055,7 +5367,10 @@
       ],
       "frame_data": [
        "a group of people that are sitting next to each other . ",
-       "a woman is sitting in front of a tv . "
+       "a woman is sitting in front of a tv . ",
+       "three people sitting at a table in front of a tv . ",
+       "two men and a woman sitting at a table . ",
+       "two men and a woman sitting in front of a news desk . "
       ]
      },
      {
@@ -5119,10 +5434,16 @@
        }
       ],
       "frame_data": [
+       "a picture of a person and a newspaper . ",
        "a picture of a person and a picture of a person ",
        "a picture of a person and a picture of a person . ",
+       "a picture of a woman and a man in front of a building . ",
        "a screen shot of a news story with a picture of hillary clinton and bernie sanders . ",
-       "two men and a woman sitting in front of a microphone . "
+       "three people sitting at a table in front of a tv . ",
+       "two men and a woman sitting at a table . ",
+       "two men and a woman sitting in front of a microphone . ",
+       "two men and a woman sitting in front of a news desk . ",
+       "two people sitting in front of a tv . "
       ]
      },
      {
@@ -5144,7 +5465,10 @@
        }
       ],
       "frame_data": [
-       "three people sitting at a table in front of a news desk . "
+       "a man in a black suit is sitting in front of a tv . ",
+       "three people sitting at a table in front of a news desk . ",
+       "two men and a woman sitting at a table . ",
+       "two men and a woman sitting in front of a table . "
       ]
      },
      {
@@ -5190,7 +5514,9 @@
        }
       ],
       "frame_data": [
-       "a couple of people sitting next to each other on a table . "
+       "a couple of people sitting next to each other . ",
+       "a couple of people sitting next to each other on a table . ",
+       "a woman and a man sitting next to each other . "
       ]
      },
      {
@@ -5243,7 +5569,12 @@
       ],
       "frame_data": [
        "a couple of people sitting next to each other . ",
+       "a couple of people sitting next to each other on a news set . ",
+       "a man in a suit and tie on a television set . ",
+       "a man in a suit and tie sitting in front of a camera . ",
        "a man in a suit is talking on a television . ",
+       "a woman and a man sitting next to each other . ",
+       "three people sitting at a table in front of a tv . ",
        "two men and a woman sitting in front of a news desk . "
       ]
      },
@@ -5292,7 +5623,13 @@
       "frame_data": [
        "a couple of people sitting next to each other . ",
        "a man holding a sign that says \" cruz tops trump in iowa \". ",
-       "a man in a suit and tie standing on a stage . "
+       "a man in a suit and tie on a news set . ",
+       "a man in a suit and tie standing next to another man in a suit . ",
+       "a man in a suit and tie standing on a stage . ",
+       "a man in a suit and tie walking on a stage . ",
+       "a man standing in front of a large screen . ",
+       "a man standing in front of an american flag . ",
+       "two people sitting next to each other in front of an orange background . "
       ]
      },
      {
@@ -5302,6 +5639,7 @@
       "verbs": [],
       "frame_data": [
        "a man in a suit and tie standing next to another man in a suit . ",
+       "a man is speaking to a crowd in front of a television . ",
        "a man is talking on a television screen . "
       ]
      },
@@ -5337,7 +5675,11 @@
       ],
       "frame_data": [
        "a man in a suit and tie sitting in a room . ",
-       "three people sitting at a table in front of a tv . "
+       "a man in a suit and tie sitting in front of a tv . ",
+       "a man in a suit is talking on a television . ",
+       "a man sitting in front of a television . ",
+       "three people sitting at a table in front of a tv . ",
+       "two men and a woman sitting at a round table . "
       ]
      },
      {
@@ -5359,6 +5701,8 @@
        }
       ],
       "frame_data": [
+       "a man in a suit and tie sitting in front of a window . ",
+       "a man is sitting in front of a television . ",
        "a man sitting in front of a television . "
       ]
      },
@@ -5381,6 +5725,10 @@
        }
       ],
       "frame_data": [
+       "a man in a suit and tie sitting in front of a camera . ",
+       "a man in a suit and tie sitting in front of a mirror . ",
+       "a man in a suit and tie sitting in front of a window . ",
+       "a man is sitting in front of a television . ",
        "a man sitting in front of a tv on top of a table . "
       ]
      },
@@ -5404,6 +5752,8 @@
       ],
       "frame_data": [
        "a man in a suit and tie . ",
+       "a man in a suit and tie sitting in front of a microphone . ",
+       "a man in a suit and tie sitting in front of a mirror . ",
        "a man sitting in front of a microphone on a television . "
       ]
      },
@@ -5451,7 +5801,12 @@
       ],
       "frame_data": [
        "a man sitting in front of a blue background . ",
-       "two men and a woman sitting at a table . "
+       "a man sitting in front of a camera on a television . ",
+       "a man sitting in front of a microphone . ",
+       "a man sitting in front of a microphone on a television . ",
+       "two men and a woman sitting at a table . ",
+       "two men sitting at a table with a woman . ",
+       "two men sitting next to each other in front of a tv screen . "
       ]
      },
      {
@@ -5479,7 +5834,10 @@
        }
       ],
       "frame_data": [
+       "a picture of hillary clinton giving a victory speech . ",
        "a picture of hillary clinton on the air . ",
+       "a picture of hillary clinton on the news . ",
+       "a woman is sitting in front of a microphone . ",
        "a woman is talking on the news . ",
        "two men and a woman sitting in front of a tv . "
       ]
@@ -5527,7 +5885,12 @@
        }
       ],
       "frame_data": [
+       "a man and a woman in front of a crowd . ",
+       "a man and a woman in front of a microphone . ",
+       "a man and a woman in front of an audience . ",
        "a screen shot of a tv show with a picture of bernie sanders . ",
+       "a woman sitting in front of a microphone . ",
+       "two men and a woman sitting at a table . ",
        "two men and a woman sitting in front of a table . "
       ]
      },
@@ -5537,6 +5900,7 @@
       "endtime": "968.48",
       "verbs": [],
       "frame_data": [
+       "a woman sitting in front of a microphone . ",
        "a woman sitting in front of a microphone on top of a table . "
       ]
      },
@@ -5559,7 +5923,9 @@
        }
       ],
       "frame_data": [
-       "a woman sitting in front of a microphone . "
+       "a woman sitting in front of a microphone . ",
+       "three people sitting in front of a news desk . ",
+       "two men and a woman sitting at a table . "
       ]
      },
      {
@@ -5577,7 +5943,8 @@
       "frame_data": [
        "a man in a suit and tie on a news set . ",
        "a new hampshire republican debate is being held in new hampshire . ",
-       "three people sitting at a table with a cup . "
+       "a poster for the new hampshire republican debate . ",
+       "three people sitting in front of a news desk . "
       ]
      },
      {
@@ -5617,6 +5984,8 @@
       ],
       "frame_data": [
        "a man wearing a suit and tie sitting in front of a blue wall . ",
+       "a man wearing a suit and tie sitting in front of a microphone . ",
+       "a woman in a gray top is on a news set ",
        "a woman wearing a necklace is on a news set . "
       ]
      },
@@ -5669,10 +6038,14 @@
        }
       ],
       "frame_data": [
+       "a baby with a pink pacifier in its mouth . ",
+       "a close up of a baby with a pacifier ",
        "a close up of a baby with a pacifier . ",
        "a person is holding a stethoscope in a room . ",
+       "a woman in a gray dress is on the news . ",
        "a woman in a gray dress is sitting in front of a building ",
-       "a woman wearing a necklace is on a news set . "
+       "a woman wearing a necklace is on a news set . ",
+       "a woman with short blonde hair wearing a gray top . "
       ]
      },
      {
@@ -5714,6 +6087,8 @@
       "frame_data": [
        "a doctor is holding a stethoscope in his mouth . ",
        "a map shows the locations of the zika virus outbreak . ",
+       "a map shows the locations of zika virus outbreaks in latin america . ",
+       "a map shows where zika is located in the world . ",
        "a person with a stethoscop in a room . ",
        "a woman wearing a stethoscope is standing in front of a wall . "
       ]
@@ -5731,7 +6106,10 @@
        }
       ],
       "frame_data": [
-       "a map shows the locations of zika virus outbreaks in latin america . "
+       "a map shows the location of the zika virus outbreak . ",
+       "a map shows the locations of zika virus outbreaks . ",
+       "a map shows the locations of zika virus outbreaks in latin america . ",
+       "a map shows where zika virus has been spread . "
       ]
      },
      {
@@ -5765,7 +6143,13 @@
        }
       ],
       "frame_data": [
-       "a map shows the locations of the zika virus outbreak . "
+       "a map of the zika outbreak in the americas . ",
+       "a map of the zika virus in the americas . ",
+       "a map shows the location of the zika virus outbreak . ",
+       "a map shows the locations of the zika virus outbreak . ",
+       "a map shows the locations of the zika virus outbreak in costa rica and nicaragua . ",
+       "a map shows the locations of zika virus outbreaks . ",
+       "a map shows where zika is located in the world . "
       ]
      },
      {
@@ -5799,8 +6183,11 @@
        }
       ],
       "frame_data": [
+       "a couple of men standing next to each other in a room . ",
        "a group of men standing next to each other . ",
+       "a group of men standing next to each other in a room . ",
        "a woman is talking to a man in front of a tv . ",
+       "a woman is talking to a man on a tv . ",
        "two men in suits and ties are walking in front of a building . "
       ]
      },
@@ -5853,7 +6240,12 @@
        }
       ],
       "frame_data": [
+       "a couple of men standing next to each other in a room . ",
+       "a group of men standing next to each other in a courtroom . ",
+       "a group of men standing next to each other in a room . ",
        "a group of people standing next to each other . ",
+       "a man in a police uniform standing in front of a building . ",
+       "a man in a police uniform standing in front of a door . ",
        "two men are standing in front of a judge . "
       ]
      },
@@ -5890,6 +6282,7 @@
       "frame_data": [
        "a group of people standing on top of train tracks . ",
        "a man standing in front of an american flag . ",
+       "there are a lot of people that are standing around . ",
        "there is a fire that is burning on the ground . ",
        "there is a fire that is burning on the side of the road ",
        "there is no image here to provide a caption for . "
@@ -5932,7 +6325,9 @@
        }
       ],
       "frame_data": [
+       "a group of people standing next to each other on a street . ",
        "a group of people standing on top of a building . ",
+       "a group of people standing on top of a hill . ",
        "a view of a busy highway at night . ",
        "cars are stopped at a red light at night . ",
        "there is no image here to provide a caption for . "
@@ -5945,6 +6340,7 @@
       "verbs": [],
       "frame_data": [
        "a close - up of the side of a political campaign sign . ",
+       "a picture of a building that has a logo on it . ",
        "a picture of a building with a google sign on it . "
       ]
      },
@@ -5986,8 +6382,10 @@
        }
       ],
       "frame_data": [
+       "a picture of a computer screen that is showing a computer screen . ",
        "a picture of a phone screen with the google logo on it . ",
-       "a sign that says google surpasses apple . "
+       "a sign that says google surpasses apple . ",
+       "google surpasses apple as its world 's most valuable company "
       ]
      },
      {
@@ -6009,6 +6407,9 @@
        }
       ],
       "frame_data": [
+       "a woman in a gray dress is on the news . ",
+       "a woman in a gray dress is sitting in front of a tv . ",
+       "a woman in a gray top is on a news set . ",
        "a woman with short blonde hair wearing a gray dress . "
       ]
      },
@@ -6038,6 +6439,8 @@
       ],
       "frame_data": [
        "a woman with short blonde hair wearing a gray dress . ",
+       "there is a bird flying in the air . ",
+       "there is a bird that is flying in the air ",
        "there is a video of a bird that is flying in the air ",
        "there is a white and green helicopter on the ground . ",
        "there is an image of an eagle drone . "
@@ -6062,7 +6465,10 @@
        }
       ],
       "frame_data": [
-       "a bird that is flying in the air . "
+       "a bird flying in the air next to a building . ",
+       "a bird that is flying in the air . ",
+       "there is a bird flying in the air . ",
+       "there is an eagle flying in the air . "
       ]
      },
      {
@@ -6090,7 +6496,10 @@
        }
       ],
       "frame_data": [
+       "a man flying a bird in the air . ",
        "an eagle is flying in the air with its wings spread . ",
+       "there is a bird flying in the air ",
+       "there is an eagle flying in the air . ",
        "there is an eagle in the middle of a field . "
       ]
      },
@@ -6132,7 +6541,10 @@
       ],
       "frame_data": [
        "a bird flying in the air with its wings spread . ",
+       "a bird is flying in the air near a building . ",
+       "a man flying a kite on top of a skateboard . ",
        "there is a man that is flying a kite ",
+       "there is an eagle flying in the air . ",
        "there is an eagle in the middle of a field . ",
        "there is no image here to provide a caption for . "
       ]
@@ -6222,6 +6634,7 @@
        }
       ],
       "frame_data": [
+       "a group of people sitting around a table . ",
        "a group of people sitting at a table in a room . ",
        "a woman in a purple shirt is sitting in front of a microphone . "
       ]
@@ -6258,7 +6671,10 @@
       ],
       "frame_data": [
        "a group of people sitting at a table . ",
-       "a woman sitting in front of a news desk . "
+       "a woman sitting in front of a news desk . ",
+       "a woman sitting in front of a tv on top of a desk . ",
+       "a woman sitting in front of a tv on top of a news desk . ",
+       "a woman sitting in front of a tv on top of a news set . "
       ]
      },
      {
@@ -6276,6 +6692,7 @@
       "endtime": "1096.24",
       "verbs": [],
       "frame_data": [
+       "a group of people sitting around a table . ",
        "a group of people sitting at a table in a room . ",
        "a woman sitting in front of a news desk . "
       ]
@@ -6315,6 +6732,8 @@
        }
       ],
       "frame_data": [
+       "a group of people sitting around a table . ",
+       "a woman and a man sitting in front of a television . ",
        "two people sitting in front of a news desk . "
       ]
      },
@@ -6350,7 +6769,10 @@
       ],
       "frame_data": [
        "a man in a blue suit and a woman in a blue dress ",
+       "a man in a suit and tie standing in front of a television . ",
        "a man in a suit and tie standing in front of a tv . ",
+       "a man in a suit and tie standing in front of a woman in a dress . ",
+       "a man standing in front of a large screen . ",
        "two people sitting in front of a news desk . "
       ]
      },
@@ -6375,7 +6797,9 @@
       "frame_data": [
        "a group of people are laying in the snow . ",
        "a man standing in front of a tv . ",
-       "a truck driving down a road covered in snow . "
+       "a truck driving down a road covered in snow . ",
+       "a truck driving down a snowy road at night . ",
+       "a truck driving down a snowy road in the dark . "
       ]
      },
      {
@@ -6384,7 +6808,9 @@
       "endtime": "1111.86",
       "verbs": [],
       "frame_data": [
-       "a man standing in front of a tv "
+       "a man standing in front of a large screen . ",
+       "a man standing in front of a tv ",
+       "a man wearing a suit and tie standing in front of a tv . "
       ]
      },
      {
@@ -6407,6 +6833,9 @@
       ],
       "frame_data": [
        "a man in a blue suit is standing in front of a map . ",
+       "a man in a suit and tie standing in front of a tv . ",
+       "a man standing in front of a large screen . ",
+       "a man standing in front of a tv in front of a map . ",
        "a person standing in a room with a laptop . "
       ]
      },
@@ -6429,7 +6858,9 @@
        }
       ],
       "frame_data": [
-       "a man standing in front of a tv in front of a map . "
+       "a man in a suit and tie standing in front of a tv . ",
+       "a man standing in front of a tv in front of a map . ",
+       "a man standing in front of a tv in front of a sign . "
       ]
      },
      {
@@ -6445,7 +6876,9 @@
        }
       ],
       "frame_data": [
-       "a man standing in front of a tv . "
+       "a man standing in front of a tv . ",
+       "a man standing in front of a tv in front of a map . ",
+       "a man standing in front of a tv in front of a sign . "
       ]
      },
      {
@@ -6461,7 +6894,10 @@
        }
       ],
       "frame_data": [
-       "a man standing in front of an open window . "
+       "a man in a suit and tie sitting in front of a camera . ",
+       "a man standing in front of an open window . ",
+       "a woman standing in front of a big screen . ",
+       "a woman standing in front of a large window . "
       ]
      },
      {
@@ -6470,6 +6906,7 @@
       "endtime": "1170.58",
       "verbs": [],
       "frame_data": [
+       "a woman standing in front of a big screen . ",
        "a woman standing in front of a tv . "
       ]
      },
@@ -6522,7 +6959,8 @@
        }
       ],
       "frame_data": [
-       "a woman standing in front of a tv . "
+       "a woman standing in front of a tv . ",
+       "a woman standing in front of a weather station . "
       ]
      },
      {
@@ -6538,6 +6976,9 @@
        }
       ],
       "frame_data": [
+       "a woman standing in front of a building . ",
+       "a woman standing in front of a sign that says day ahead . ",
+       "a woman standing in front of a weather chart . ",
        "a woman standing in front of a weather sign . "
       ]
      },
@@ -6560,6 +7001,8 @@
        }
       ],
       "frame_data": [
+       "a woman standing in front of a building . ",
+       "a woman standing in front of a weather chart . ",
        "a woman standing in front of some weather signs . "
       ]
      },
@@ -6617,7 +7060,7 @@
        }
       ],
       "frame_data": [
-       "a blue and yellow super bowl banner with the words \" coming up \" on it ",
+       "a blue and yellow super bowl banner with the words \" coming up .\" ",
        "a boat on a river in the middle of a freeway . ",
        "a couple of people that are sitting in a room "
       ]
@@ -6684,6 +7127,7 @@
        }
       ],
       "frame_data": [
+       "a close up of a person laying in a bed ",
        "a close up of a person sleeping on a bed ",
        "a group of people sitting around a table . ",
        "a woman walking down a hallway in an office building . "
@@ -6732,7 +7176,10 @@
        }
       ],
       "frame_data": [
-       "an older man and a younger woman looking at one another . "
+       "a man and a woman sitting next to each other . ",
+       "a woman touching a man 's shoulder while sitting down . ",
+       "an older man and a younger woman looking at one another . ",
+       "an older woman and a younger man are talking . "
       ]
      },
      {
@@ -6754,7 +7201,9 @@
        }
       ],
       "frame_data": [
-       "a man and a woman are hugging outside . "
+       "a man and a woman are hugging outside . ",
+       "a man and a woman sitting next to each other . ",
+       "a woman sitting on a bed laughing at a man . "
       ]
      },
      {
@@ -6777,7 +7226,9 @@
       ],
       "frame_data": [
        "a man and a woman embracing each other outside . ",
-       "a person holding a diamond ring in a box . "
+       "a man and a woman in a bed . ",
+       "a person holding a diamond ring in a box . ",
+       "a woman and a man sitting in front of a bowl . "
       ]
      },
      {
@@ -6794,7 +7245,8 @@
       ],
       "frame_data": [
        "a close - up of a large diamond on a table . ",
-       "a person holding a diamond ring in a box . "
+       "a person holding a diamond ring in a box . ",
+       "a person is holding a ring in a box . "
       ]
      },
      {
@@ -6804,6 +7256,7 @@
       "verbs": [],
       "frame_data": [
        "a close up picture of a diamond ring . ",
+       "a picture of a diamond ring on a blue background . ",
        "there is a diamond that is on the table "
       ]
      },
@@ -6822,6 +7275,7 @@
       "frame_data": [
        "a close up of a person smiling ",
        "a close up of a person talking on a cell phone ",
+       "a man and a woman are smiling for the camera . ",
        "an older woman and a younger man embracing . "
       ]
      },
@@ -6832,7 +7286,8 @@
       "verbs": [],
       "frame_data": [
        "a woman smiling while holding her hand to her face . ",
-       "an image of an advertisement for a diamond ring . "
+       "an image of an advertisement for a diamond ring . ",
+       "an image of an advertisement for an engagement ring . "
       ]
      },
      {
@@ -6841,9 +7296,9 @@
       "endtime": "1272.19",
       "verbs": [],
       "frame_data": [
+       "a picture of a diamond engagement ring on top of a blue background . ",
        "a picture of an advertisement for a jewelery store . ",
-       "an image of an advertisement for an engagement ring . ",
-       "there is a diamond ring on the banner . "
+       "an image of an advertisement for an engagement ring . "
       ]
      },
      {
@@ -6866,7 +7321,9 @@
       ],
       "frame_data": [
        "a close up of a tube of abreva ",
-       "a person holding abreva in their hand . "
+       "a hand holding a tube of abreva . ",
+       "a person holding abreva in their hand . ",
+       "a person holding abreva on their hand . "
       ]
      },
      {
@@ -6897,6 +7354,7 @@
        "a blurry image of a red object in a gray background . ",
        "a hand holding a tube of abreva toothpaste . ",
        "a picture of a 2 1 / 2 days sign . ",
+       "a video of a 1 / 2 day period showing a clock . ",
        "an image of an animated clock "
       ]
      },
@@ -6939,6 +7397,7 @@
       "frame_data": [
        "a black - and - white photo of a woman 's face . ",
        "a blurry image of a pink cloud with a caption . ",
+       "a close - up of a woman 's lips with a flower on it . ",
        "a close - up view of a video game . ",
        "a glass of wine is being poured into a wine glass . ",
        "a red ball is flying in the air . ",
@@ -6966,6 +7425,8 @@
       ],
       "frame_data": [
        "a black - and - white photo of a woman 's face . ",
+       "a black - and - white photo of a woman brushing her teeth . ",
+       "a black - and - white photo of a woman holding a toothbrush . ",
        "a close up of a person holding an abreva tube . "
       ]
      },
@@ -6992,6 +7453,7 @@
       ],
       "frame_data": [
        "a bag of blue freedom grain - free dog food next to a pile of food . ",
+       "a dog sitting on top of a sandy beach next to water . ",
        "a man and a woman standing in front of a waterfall . ",
        "a person swimming in a body of water . "
       ]
@@ -7017,7 +7479,8 @@
       "frame_data": [
        "a man and a woman standing in front of a waterfall . ",
        "a picture of the royal caribbean logo on a building . ",
-       "a woman riding on a surfboard in the water . "
+       "a woman riding on a surfboard in the water . ",
+       "two people are standing in front of a waterfall . "
       ]
      },
      {
@@ -7033,7 +7496,8 @@
        }
       ],
       "frame_data": [
-       "a cruise ship is shown at night with the royal caribbean logo . "
+       "a cruise ship is shown at night with the royal caribbean logo . ",
+       "a picture of a cruise ship at night . "
       ]
      },
      {
@@ -7050,6 +7514,7 @@
       ],
       "frame_data": [
        "a woman holding an umbrella in front of a colorful wall . ",
+       "a woman wearing a yellow hat and a polka dot shirt . ",
        "a woman wearing a yellow hat and sunglasses . "
       ]
      },
@@ -7073,6 +7538,8 @@
       ],
       "frame_data": [
        "a close - up picture of a yellow and orange umbrella . ",
+       "a woman holding a cell phone in her hand . ",
+       "a woman holding a piece of food in her hands . ",
        "a woman in a white shirt holding a banana . "
       ]
      },
@@ -7096,6 +7563,7 @@
       ],
       "frame_data": [
        "a woman holding up a camera in a room . ",
+       "a woman standing in front of a counter . ",
        "a woman standing in front of a shelf . ",
        "a woman with curly brown hair is smiling . "
       ]
@@ -7113,7 +7581,9 @@
        }
       ],
       "frame_data": [
-       "a woman is holding a cup of yogurt . "
+       "a woman holding a remote control in her hand . ",
+       "a woman is holding a cup of yogurt . ",
+       "a woman sitting on a couch holding a yogurt container . "
       ]
      },
      {
@@ -7123,6 +7593,7 @@
       "verbs": [],
       "frame_data": [
        "a close - up of a person brushing their teeth . ",
+       "a cup of yogurt sitting on top of a purple table . ",
        "a yogurt cup sitting on top of a purple table . "
       ]
      },
@@ -7145,6 +7616,7 @@
        }
       ],
       "frame_data": [
+       "a cup of greek yogurt sitting on top of a table . ",
        "a cup of yogurt sitting on top of a table . "
       ]
      },
@@ -7167,7 +7639,9 @@
        }
       ],
       "frame_data": [
+       "a man holding a book in his hands . ",
        "a man is holding a blue notebook in his hands . ",
+       "a man is holding a notebook in his hands . ",
        "a person opening up an office depot box . "
       ]
      },
@@ -7190,6 +7664,8 @@
        }
       ],
       "frame_data": [
+       "a man sitting at a table looking at a cell phone . ",
+       "a man sitting at a table with a cell phone . ",
        "a person is holding a folder in front of a bunch of folders . ",
        "a person using a keyboard with a cell phone on it . "
       ]
@@ -7214,6 +7690,7 @@
       ],
       "frame_data": [
        "a hand is holding a folder over a bunch of folders ",
+       "a woman in a pink shirt holding a tablet . ",
        "a woman standing in front of a bookshelf . ",
        "a woman with long black hair wearing a white shirt . "
       ]
@@ -7239,6 +7716,7 @@
       "frame_data": [
        "a black printer sitting on top of a desk . ",
        "a group of people in an office setting . ",
+       "a woman is walking in an office holding papers . ",
        "a woman standing in front of a window holding an ipad . "
       ]
      },
@@ -7262,6 +7740,7 @@
       ],
       "frame_data": [
        "a group of people sitting around a table . ",
+       "a man in a red shirt standing in front of other people . ",
        "a man in a red shirt standing in front of some people . ",
        "a woman in a pink shirt is holding a frisbee . "
       ]
@@ -7292,6 +7771,7 @@
       ],
       "frame_data": [
        "a man sitting in front of a laptop computer . ",
+       "a man sitting in front of an open laptop . ",
        "a white background with a circle in the middle . ",
        "a woman holding a tablet in her hands . "
       ]
@@ -7316,7 +7796,10 @@
       ],
       "frame_data": [
        "an assortment of office supplies laid out neatly . ",
-       "an overhead view of a desk with a keyboard , pencils , a pencil case and a cup . "
+       "an overhead view of a desk with a keyboard , pencils , a cup and a wallet . ",
+       "an overhead view of a desk with a keyboard , pencils , a pencil case and a cup . ",
+       "an overhead view of a desk with various office supplies . ",
+       "an overhead view of various pens , pencils , and other office supplies . "
       ]
      },
      {
@@ -7358,7 +7841,9 @@
       ],
       "frame_data": [
        "a close - up of a person standing on a stage . ",
-       "a person holding a guitar in their hand . "
+       "a person holding a guitar in their hand . ",
+       "a person standing next to a microphone on a stage . ",
+       "a person standing on a stage holding a microphone . "
       ]
      },
      {
@@ -7380,6 +7865,8 @@
        }
       ],
       "frame_data": [
+       "a close up of a person playing a guitar . ",
+       "a man holding a pink electric guitar in his hand . ",
        "a man with a beard is holding a guitar ",
        "a person playing a guitar in a field . "
       ]
@@ -7416,9 +7903,11 @@
       ],
       "frame_data": [
        "a group of men standing next to each other on a field . ",
+       "a group of people standing next to each other on a field . ",
        "a man holding a guitar while sitting down . ",
        "a man is playing an electric guitar outside ",
-       "two men are playing guitar in front of an audience . "
+       "two men are playing guitar in front of an audience . ",
+       "two people on a stage with a guitar . "
       ]
      },
      {
@@ -7440,6 +7929,9 @@
        }
       ],
       "frame_data": [
+       "a man holding a guitar while sitting down . ",
+       "a man holding a guitar while sitting on a bench . ",
+       "a man holding a pink electric guitar in his hands . ",
        "a man sitting down holding a guitar . "
       ]
      },
@@ -7525,7 +8017,13 @@
        }
       ],
       "frame_data": [
-       "an older man sitting in a chair with a guitar . "
+       "a man sitting in front of an electric guitar . ",
+       "a man sitting on the ground holding a guitar . ",
+       "an older man holding an electric guitar in front of an advertisement . ",
+       "an older man is sitting in front of an advertisement . ",
+       "an older man sitting in a chair with a guitar . ",
+       "an older man sitting in front of a blood test . ",
+       "an older man sitting in front of a purple and white background . "
       ]
      },
      {
@@ -7571,7 +8069,13 @@
        }
       ],
       "frame_data": [
-       "a group of people on a stage playing music . "
+       "a group of people on a stage playing music . ",
+       "a group of people playing guitar and drums . ",
+       "a group of people playing instruments on a sunny day . ",
+       "a group of people sitting around a stage . ",
+       "a group of people sitting in front of an audience . ",
+       "a group of people sitting on a stage . ",
+       "a group of people sitting on top of an outdoor stage . "
       ]
      },
      {
@@ -7594,6 +8098,8 @@
       ],
       "frame_data": [
        "a blurry image of a person holding a cell phone . ",
+       "a close - up of a person holding something in their hand . ",
+       "a close up of a person holding a cigarette . ",
        "a close up of a person playing a guitar ",
        "an older man playing a guitar in front of an audience . "
       ]
@@ -7624,7 +8130,10 @@
       ],
       "frame_data": [
        "a group of people on a field with guitars . ",
-       "a man playing a guitar while sitting on a bench . "
+       "a man playing a guitar in front of a crowd . ",
+       "a man playing a guitar while another man plays a guitar . ",
+       "a man playing a guitar while sitting on a bench . ",
+       "a man playing a guitar while sitting on top of a table . "
       ]
      },
      {
@@ -7672,7 +8181,10 @@
       "frame_data": [
        "a group of men playing instruments in a park . ",
        "a man playing a guitar in front of a crowd . ",
+       "a man playing a guitar in front of an audience . ",
+       "an older man is smiling for the camera . ",
        "an older man is talking to someone outside . ",
+       "two men are talking in the sunlight . ",
        "two men standing next to each other on a sunny day . "
       ]
      },
@@ -7689,7 +8201,9 @@
        }
       ],
       "frame_data": [
-       "an older man is standing in front of a crowd of people . "
+       "a man is playing guitar in front of an audience . ",
+       "an older man is standing in front of a crowd of people . ",
+       "an older man standing in front of an audience . "
       ]
      },
      {
@@ -7717,7 +8231,9 @@
        }
       ],
       "frame_data": [
+       "a group of people playing instruments in a field . ",
        "a group of people playing instruments in a park . ",
+       "a group of people standing on a field playing instruments . ",
        "a man playing a guitar in front of a crowd . ",
        "two men are walking on a path together . "
       ]
@@ -7743,7 +8259,8 @@
       "frame_data": [
        "an older man is walking in the sun . ",
        "an older man with a beard is looking down ",
-       "two men standing next to each other on a field . "
+       "two men standing next to each other on a field . ",
+       "two older men standing next to each other on a field . "
       ]
      },
      {
@@ -7777,8 +8294,13 @@
        }
       ],
       "frame_data": [
+       "a man holding a guitar while sitting on top of a bench . ",
        "a man sitting on a ledge with a guitar . ",
-       "an older man with a beard is looking up . "
+       "a man sitting on top of a boat holding a guitar . ",
+       "an older man wearing a white shirt and a white beard . ",
+       "an older man with a beard is looking up . ",
+       "an older man with his eyes closed and his head tilted down . ",
+       "an older man with white hair is looking out at the sky . "
       ]
      },
      {
@@ -7800,6 +8322,7 @@
        }
       ],
       "frame_data": [
+       "a man playing guitar in front of an audience . ",
        "a man sitting on top of a boat holding a guitar . "
       ]
      },
@@ -7816,7 +8339,9 @@
        }
       ],
       "frame_data": [
-       "a man playing a guitar in front of a crowd . "
+       "a group of people sitting in a field playing guitar . ",
+       "a man playing a guitar in front of a crowd . ",
+       "a man playing guitar in front of a crowd . "
       ]
      },
      {
@@ -7857,6 +8382,7 @@
       ],
       "frame_data": [
        "a group of people sitting in front of an audience . ",
+       "an advertisement for eliquis , an electronic instrument company . ",
        "an advertisement for eliquis tablets . ",
        "two men standing in front of an audience with trees in the background "
       ]
@@ -7880,7 +8406,9 @@
        }
       ],
       "frame_data": [
+       "a blue and yellow background with the words \" eyewitness news \" written on it . ",
        "a blue and yellow sign that reads \" breaking news \". ",
+       "a blue background with a yellow and white breaking news sign . ",
        "eyewitness news 7 los angeles "
       ]
      },
@@ -7909,6 +8437,7 @@
        }
       ],
       "frame_data": [
+       "a man wearing a suit and tie . ",
        "a man wearing a suit and tie on a news set . "
       ]
      },
@@ -7918,7 +8447,8 @@
       "endtime": "1481.96",
       "verbs": [],
       "frame_data": [
-       "an aerial view of a car accident on a freeway . "
+       "an aerial view of a car accident on a freeway . ",
+       "an aerial view of a car on a freeway . "
       ]
      },
      {
@@ -7950,7 +8480,9 @@
        }
       ],
       "frame_data": [
-       "aerial view of a freeway with cars driving on it . "
+       "aerial view of a freeway in the middle of the day . ",
+       "aerial view of a freeway with cars driving on it . ",
+       "an aerial view of a car accident on a freeway . "
       ]
      },
      {
@@ -7972,6 +8504,9 @@
        }
       ],
       "frame_data": [
+       "aerial view of a freeway accident scene in a coastal area . ",
+       "aerial view of a freeway in the middle of the day . ",
+       "an aerial view of a freeway with cars driving on it . ",
        "an aerial view of an accident scene on a freeway . "
       ]
      },
@@ -7988,6 +8523,9 @@
        }
       ],
       "frame_data": [
+       "aerial view of a freeway accident scene in a city . ",
+       "aerial view of a freeway accident scene in a coastal area . ",
+       "aerial view of a freeway in the middle of the day . ",
        "an aerial view of a freeway and a bridge . "
       ]
      },
@@ -8027,6 +8565,8 @@
       ],
       "frame_data": [
        "a close - up of a screen showing the stock price . ",
+       "a close up of a screen with a stock market ticker ",
+       "an aerial view of a freeway and a city . ",
        "an aerial view of a freeway with a lot of traffic . ",
        "the dow jones industrial average fell 2 6 2 . 9 9 points to 1 6 , 1 8 "
       ]
@@ -8037,7 +8577,8 @@
       "endtime": "1516.36",
       "verbs": [],
       "frame_data": [
-       "a close up of a screen showing the stock market "
+       "a close up of a screen showing the stock market ",
+       "a close up of a screen with a stock market ticker "
       ]
      },
      {
@@ -8106,7 +8647,9 @@
        }
       ],
       "frame_data": [
-       "a woman standing in front of a city skyline . "
+       "a woman standing in front of a city skyline . ",
+       "a woman standing in front of a television screen . ",
+       "a woman standing in front of a weather station . "
       ]
      },
      {
@@ -8128,6 +8671,7 @@
        }
       ],
       "frame_data": [
+       "a 7 - day forecast for the los angeles / orange county area . ",
        "a 7 - day weather forecast for los angeles and orange county . ",
        "a yellow and blue traffic sign next to the words \" traffic alert \". "
       ]
@@ -8146,7 +8690,8 @@
       ],
       "frame_data": [
        "a screen shot of an interactive traffic map . ",
-       "a woman standing in front of a map of a freeway . "
+       "a woman standing in front of a map of a freeway . ",
+       "a woman standing in front of an interactive map . "
       ]
      },
      {
@@ -8162,6 +8707,8 @@
        }
       ],
       "frame_data": [
+       "a close up of a person wearing a suit and tie ",
+       "a man in a suit and tie ",
        "a man wearing a suit and tie on a tv set . "
       ]
      },
@@ -8171,6 +8718,8 @@
       "endtime": "1656.28",
       "verbs": [],
       "frame_data": [
+       "a close up of a person wearing a suit and tie ",
+       "a man wearing a suit and tie ",
        "a man wearing a suit and tie . "
       ]
      },
@@ -8189,7 +8738,9 @@
       "endtime": "1657.32",
       "verbs": [],
       "frame_data": [
-       "a man wearing a suit and tie "
+       "a man in a suit and tie ",
+       "a man wearing a suit and tie ",
+       "a man wearing a suit and tie on a tv set . "
       ]
      },
      {
@@ -8255,7 +8806,8 @@
       ],
       "frame_data": [
        "a box of cinnamon chex cereal sitting next to a basket . ",
-       "a young child in a spacesuit holding a frying pan . "
+       "a young child in a spacesuit holding a frying pan . ",
+       "a young child wearing headphones with stuffed monkeys in the background . "
       ]
      },
      {
@@ -8293,7 +8845,9 @@
        }
       ],
       "frame_data": [
-       "a young boy wearing a helmet and holding a monkey . "
+       "a young boy wearing a headset with stuffed monkeys in the background . ",
+       "a young boy wearing a helmet and holding a monkey . ",
+       "a young child wearing headphones with stuffed monkeys in the background . "
       ]
      },
      {
@@ -8302,7 +8856,9 @@
       "endtime": "1793.81",
       "verbs": [],
       "frame_data": [
-       "a man is standing in front of a checkerboard pattern . "
+       "a man is standing in front of a checkerboard pattern . ",
+       "a man standing in front of a checkerboard wall . ",
+       "a person jumping in the air in front of a checkerboard background . "
       ]
      },
      {
@@ -8432,6 +8988,7 @@
        }
       ],
       "frame_data": [
+       "a group of people standing around a table . ",
        "a group of people standing in a room . ",
        "the illusionists live from broadway "
       ]
@@ -8455,7 +9012,9 @@
        }
       ],
       "frame_data": [
-       "a group of people standing around a table . "
+       "a group of people standing around a room . ",
+       "a group of people standing around a table . ",
+       "a group of people standing in a room . "
       ]
      },
      {
@@ -8472,6 +9031,7 @@
       ],
       "frame_data": [
        "a group of people sitting around a room . ",
+       "a group of people standing around a room . ",
        "a screen shot of a tv news program . "
       ]
      },
@@ -8530,6 +9090,8 @@
        }
       ],
       "frame_data": [
+       "a screen shot of a tv news program . ",
+       "a screen shot of the presidential election results . ",
        "a screen shot of the results of the 2 0 1 6 presidential election . "
       ]
      },
@@ -8565,6 +9127,8 @@
       ],
       "frame_data": [
        "a group of people sitting around a table . ",
+       "a group of people sitting at a table in a room . ",
+       "a screen shot of the results of the 2 0 1 6 presidential election . ",
        "a television screen showing the results of the presidential election . "
       ]
      },
@@ -8643,6 +9207,8 @@
       ],
       "frame_data": [
        "a close - up of a person 's face in a yellow background . ",
+       "a group of men in black coats and black hats . ",
+       "a group of men standing next to each other on a field . ",
        "there is a group of men standing in front of each other . "
       ]
      },
@@ -8677,7 +9243,9 @@
        }
       ],
       "frame_data": [
+       "a close up of a groundhog in the snow . ",
        "a close up of a person wearing a hat ",
+       "a close up picture of a groundhog 's head . ",
        "a close up picture of a groundhog looking at the camera . ",
        "a person standing in a room with a laptop . ",
        "there is an animal that is holding in his mouth ",
@@ -8706,6 +9274,7 @@
        "a close up of a groundhog on a tree . ",
        "there is a groundhog that is sitting on top of a tree ",
        "there is an animal that is standing in the grass ",
+       "there is an image of a groundhog day forecast . ",
        "there is an image of a groundhog in the background . "
       ]
      },
@@ -8716,7 +9285,8 @@
       "verbs": [],
       "frame_data": [
        "a close up of a groundhog on a tree . ",
-       "a woman and a man sitting in front of a television . "
+       "a woman and a man sitting in front of a television . ",
+       "two people sitting in front of a television set . "
       ]
      },
      {
@@ -8786,8 +9356,10 @@
        }
       ],
       "frame_data": [
+       "a man and a woman sitting in front of a television . ",
        "a woman and a man sitting in front of a television . ",
-       "a young child riding a snow board on a ramp . "
+       "a young child riding a snow board on a ramp . ",
+       "two people sitting in front of a television . "
       ]
      },
      {
@@ -8813,7 +9385,9 @@
       "endtime": "1867.92",
       "verbs": [],
       "frame_data": [
-       "a young child is standing on a snow board . "
+       "a baby is standing on a snowboard in the snow . ",
+       "a young child is standing on a snow board . ",
+       "a young child riding a snow board in the snow . "
       ]
      },
      {
@@ -8848,6 +9422,8 @@
       ],
       "frame_data": [
        "a baby is standing in the snow on a snowboard . ",
+       "a baby is standing on a snowboard in the snow . ",
+       "a young child is snowboarding in the snow . ",
        "a young child riding a snow board in the snow . "
       ]
      },
@@ -8877,6 +9453,7 @@
       ],
       "frame_data": [
        "a baby in a blue hat and a snowboard . ",
+       "a young child is standing in the snow on a snowboard . ",
        "a young child riding a snow board in the snow . "
       ]
      },
@@ -8912,7 +9489,10 @@
       ],
       "frame_data": [
        "a man and a woman holding a baby . ",
+       "a young child is standing on a snow board . ",
        "a young child riding a snow board in the snow . ",
+       "two people and a baby in a living room . ",
+       "two people and a baby wave at the camera . ",
        "two people and a baby waving at the camera . "
       ]
      },
@@ -8967,6 +9547,7 @@
       "endtime": "1884.88",
       "verbs": [],
       "frame_data": [
+       "a couple of people sitting at a table . ",
        "a group of people sitting at a table in a room . "
       ]
      },
@@ -8983,7 +9564,10 @@
        }
       ],
       "frame_data": [
-       "a group of people sitting at a table in a room . "
+       "a couple of people sitting in front of a television . ",
+       "a group of people sitting at a table . ",
+       "a group of people sitting at a table in a room . ",
+       "two people are sitting at a desk in front of a television . "
       ]
      },
      {
@@ -9026,7 +9610,8 @@
        "a couple of people that are hugging in a room ",
        "a group of people that are standing up . ",
        "a woman and a man sitting in front of a television . ",
-       "a woman is talking on the news . "
+       "a woman is talking on the news . ",
+       "two people sitting in front of a news desk . "
       ]
      },
      {
@@ -9050,6 +9635,7 @@
       "frame_data": [
        "a group of people sitting in front of a wall . ",
        "a man and a woman hugging in front of a crowd . ",
+       "a man standing in front of a crowd of people . ",
        "chris christie and his wife , mary pat christie , in front of a bus . "
       ]
      },
@@ -9077,7 +9663,8 @@
       "endtime": "1906.64",
       "verbs": [],
       "frame_data": [
-       "a man standing in front of a building . "
+       "a man standing in front of a building . ",
+       "a man standing in front of an american flag . "
       ]
      },
      {
@@ -9186,7 +9773,9 @@
       "frame_data": [
        "a crowd of onlookers gathered around a bus . ",
        "a group of people standing next to each other . ",
+       "a man is talking to two men in a room . ",
        "chris christie and his wife , mary pat , on cnn . ",
+       "chris christie and his wife , mary pat christie . ",
        "two men are talking to each other in front of a camera . "
       ]
      },
@@ -9258,8 +9847,15 @@
       ],
       "frame_data": [
        "a crowd of people watching a man in a suit . ",
+       "a group of people sitting in front of a building . ",
+       "a group of people sitting in front of a sign . ",
        "a group of people sitting in front of an american flag . ",
-       "a man standing in front of a building with trees in the background . "
+       "a group of people sitting in front of jeb bush . ",
+       "a group of people standing in front of a flag . ",
+       "a group of people standing in front of an american flag . ",
+       "a man standing in front of a building . ",
+       "a man standing in front of a building with trees in the background . ",
+       "a man standing in front of a crowd of people . "
       ]
      },
      {
@@ -9275,6 +9871,7 @@
        }
       ],
       "frame_data": [
+       "a man is talking to a news reporter . ",
        "a man standing in front of a building . "
       ]
      },
@@ -9333,9 +9930,15 @@
        }
       ],
       "frame_data": [
+       "a man in a blue suit is giving a speech . ",
        "a man in a blue suit is speaking at a podium . ",
+       "a man in a suit and tie . ",
+       "a man in a suit and tie at a podium . ",
+       "a man in a suit and tie sitting at a podium . ",
+       "a man is speaking at a microphone in front of a crowd . ",
        "a man is standing in front of a building . ",
-       "a man is talking to a news reporter . "
+       "a man is talking to a news reporter . ",
+       "a man standing in front of a building . "
       ]
      },
      {
@@ -9363,7 +9966,10 @@
        }
       ],
       "frame_data": [
-       "a man is speaking at a press conference . "
+       "a man is speaking at a microphone in front of a crowd . ",
+       "a man is speaking at a press conference . ",
+       "a man is speaking into a microphone . ",
+       "a man speaking into a microphone while wearing a suit . "
       ]
      },
      {
@@ -9391,7 +9997,10 @@
        }
       ],
       "frame_data": [
+       "a man in a blue suit is giving a speech . ",
+       "a man in a suit and tie at a podium . ",
        "a man in a suit and tie sitting at a podium . ",
+       "a man in a suit and tie sitting in front of microphones ",
        "a man is speaking at an event in front of a crowd . ",
        "a television screen with a person in the background . "
       ]
@@ -9421,7 +10030,10 @@
        }
       ],
       "frame_data": [
+       "a man is speaking at a news conference . ",
+       "a man is speaking at a podium in front of a crowd . ",
        "a man is speaking at a press conference . ",
+       "a man is speaking into a microphone . ",
        "a man standing in front of microphones in a room . "
       ]
      },
@@ -9438,7 +10050,7 @@
        }
       ],
       "frame_data": [
-       "a man is speaking at an event with a microphone . ",
+       "a man in a blue suit is speaking at an event ",
        "a man is standing in front of a building . ",
        "a picture of a man laughing at a news conference . "
       ]
@@ -9515,7 +10127,10 @@
        }
       ],
       "frame_data": [
-       "a man in a blue jacket is talking on a television . ",
+       "a man in a blue jacket is standing in front of a building . ",
+       "a man is standing in front of a building . ",
+       "a man is talking on the news . ",
+       "a man is talking to the camera while standing outside . ",
        "a man standing in front of a building . "
       ]
      },
@@ -9540,6 +10155,7 @@
       "frame_data": [
        "a couple of people that are sitting next to each other . ",
        "a man is talking to the camera while standing outside . ",
+       "two men and a woman are sitting in front of a tv . ",
        "two people and a news anchor in front of a building . "
       ]
      },
@@ -9549,7 +10165,9 @@
       "endtime": "1991.79",
       "verbs": [],
       "frame_data": [
-       "a couple of people that are sitting next to each other . "
+       "a couple of people that are sitting next to each other . ",
+       "two men and a woman are sitting next to each other . ",
+       "two men and a woman sitting next to each other . "
       ]
      },
      {
@@ -9565,7 +10183,8 @@
        }
       ],
       "frame_data": [
-       "a couple of people sitting next to each other . "
+       "a couple of people sitting next to each other . ",
+       "a couple of people that are sitting next to each other . "
       ]
      },
      {
@@ -9581,7 +10200,9 @@
        }
       ],
       "frame_data": [
-       "a couple of people sitting next to each other . "
+       "a couple of people sitting next to each other . ",
+       "a couple of people that are sitting down . ",
+       "two men and a woman sitting next to each other . "
       ]
      },
      {
@@ -9590,7 +10211,8 @@
       "endtime": "1993.81",
       "verbs": [],
       "frame_data": [
-       "a couple of people that are sitting next to each other . "
+       "a couple of people that are sitting next to each other . ",
+       "two men and a woman sitting next to each other . "
       ]
      },
      {
@@ -9600,7 +10222,8 @@
       "verbs": [],
       "frame_data": [
        "a couple of people that are sitting down . ",
-       "a woman and a man sitting next to each other . "
+       "a woman and a man sitting next to each other . ",
+       "two men and a woman sitting next to each other . "
       ]
      },
      {
@@ -9610,7 +10233,8 @@
       "verbs": [],
       "frame_data": [
        "a woman and a man sitting next to each other . ",
-       "two people sitting at a desk in a room . "
+       "two people sitting at a desk in a room . ",
+       "two people sitting at a table in a room . "
       ]
      },
      {
@@ -9626,6 +10250,7 @@
        }
       ],
       "frame_data": [
+       "a woman and a man sitting in front of a camera . ",
        "a woman and a man sitting next to each other . ",
        "two people sitting at a table on a news set . "
       ]
@@ -9644,7 +10269,9 @@
       ],
       "frame_data": [
        "a couple of people that are sitting in a room ",
-       "two people sitting at a table in front of a laptop . "
+       "a woman and a man sitting in front of a tv . ",
+       "two people sitting at a table in front of a laptop . ",
+       "two people sitting at a table on a news set . "
       ]
      },
      {
@@ -9690,7 +10317,9 @@
        }
       ],
       "frame_data": [
+       "a couple of people that are posing for a picture . ",
        "a couple of people that are sitting down . ",
+       "a couple of people that are sitting in a room ",
        "a man and a woman are arrested for the murder . "
       ]
      },
@@ -9707,6 +10336,7 @@
        }
       ],
       "frame_data": [
+       "a couple of people that are sitting next to each other ",
        "a couple of people that are sitting next to each other . ",
        "a map shows the locations of the zika virus outbreak . ",
        "a person standing in a room with a laptop . "
@@ -9718,6 +10348,7 @@
       "endtime": "2009.10",
       "verbs": [],
       "frame_data": [
+       "a couple of people that are sitting next to each other ",
        "a couple of people that are sitting next to each other . "
       ]
      },
@@ -9746,8 +10377,11 @@
        }
       ],
       "frame_data": [
-       "a news reporter is talking to a camera . ",
+       "a news anchor is talking to a camera . ",
+       "a news reporter is talking about a murder case . ",
+       "a woman in a purple jacket is talking to a camera . ",
        "a woman in a red coat is on the news . ",
+       "a woman in a red jacket is talking to a camera . ",
        "a woman is sitting in front of a building . "
       ]
      },
@@ -9782,8 +10416,12 @@
        }
       ],
       "frame_data": [
+       "a news reporter is talking about a murder case . ",
        "a news reporter is talking to a camera . ",
-       "a woman in a red jacket is on the news . "
+       "a woman in a pink top is talking to a camera . ",
+       "a woman in a red jacket is on the news . ",
+       "a woman is talking to a camera on a television . ",
+       "a woman is talking to a news reporter . "
       ]
      },
      {
@@ -9799,7 +10437,8 @@
        }
       ],
       "frame_data": [
-       "a close up of a person with a picture of a girl ",
+       "a close up of a person 's face with a picture of a girl ",
+       "a couple of people that are sitting in a room . ",
        "a couple of people that are sitting next to each other . ",
        "a picture of a college student arrested in 1 3 - year - old 's murder . "
       ]
@@ -9830,6 +10469,9 @@
       ],
       "frame_data": [
        "a man is sitting in front of a camera . ",
+       "a man is talking to the camera in front of a bookshelf . ",
+       "a man is talking to the camera in front of a shelf . ",
+       "a picture of a young girl is posted on a television screen . ",
        "a picture of a young girl is shown on a news story . "
       ]
      },
@@ -9846,6 +10488,7 @@
        }
       ],
       "frame_data": [
+       "a young man in a blue shirt is on the news . ",
        "a young man in a suit and tie . "
       ]
      },
@@ -9868,7 +10511,10 @@
        }
       ],
       "frame_data": [
+       "a picture of a young man in a blue shirt . ",
+       "a picture of a young man with a picture of himself . ",
        "a police officer talking to the press . ",
+       "a young man in a blue shirt is on the news . ",
        "a young man is shown in a news story . "
       ]
      },
@@ -9897,6 +10543,8 @@
        }
       ],
       "frame_data": [
+       "a police officer is speaking at a press conference . ",
+       "a police officer standing in front of a microphone . ",
        "a police officer talking to the press . "
       ]
      },
@@ -9920,7 +10568,8 @@
       ],
       "frame_data": [
        "a close up of a person typing on a computer ",
-       "a picture of a young girl is shown . "
+       "a picture of a young girl is shown . ",
+       "a picture of a young girl is shown in a news story . "
       ]
      },
      {
@@ -9948,6 +10597,7 @@
        }
       ],
       "frame_data": [
+       "a cell phone is being held up by a person . ",
        "a close up of a person typing on a computer ",
        "a person holding a cell phone in their hand . "
       ]
@@ -9977,7 +10627,11 @@
        }
       ],
       "frame_data": [
-       "a man in a green shirt is standing next to a brick wall . "
+       "a man in a green shirt is standing in front of a brick wall . ",
+       "a man in a green shirt is standing next to a brick wall . ",
+       "a man in a yellow shirt is standing in front of a brick wall . ",
+       "a young man in a green shirt is holding a gun . ",
+       "a young man in a yellow shirt is standing in a field . "
       ]
      },
      {
@@ -9999,7 +10653,9 @@
        }
       ],
       "frame_data": [
-       "a man in a green shirt is standing in front of a brick wall . "
+       "a man in a green shirt is standing in front of a brick wall . ",
+       "a man in a suit and tie standing in a parking lot . ",
+       "a man in a suit and tie standing in front of a building . "
       ]
      },
      {
@@ -10038,7 +10694,9 @@
       "endtime": "2079.53",
       "verbs": [],
       "frame_data": [
-       "a man running on a track in a field . "
+       "a man running on a field with a fence in the background ",
+       "a man running on a track in a field . ",
+       "a young man is running on a field . "
       ]
      },
      {
@@ -10073,6 +10731,7 @@
       ],
       "frame_data": [
        "a couple of people that are sitting in a room . ",
+       "a couple of young people are in front of a camera . ",
        "a picture of a person in a motion blur . ",
        "a young woman with long brown hair is in an orange shirt . "
       ]
@@ -10132,7 +10791,12 @@
        }
       ],
       "frame_data": [
-       "a young woman is standing in front of a tree . "
+       "a young black woman is standing in front of a building . ",
+       "a young black woman is standing in front of a tree . ",
+       "a young woman is standing in front of a camera . ",
+       "a young woman is standing in front of a tree . ",
+       "a young woman is talking to a news reporter . ",
+       "a young woman with long brown hair is shown in a mugshot . "
       ]
      },
      {
@@ -10161,7 +10825,10 @@
       ],
       "frame_data": [
        "a group of people standing next to each other on a street . ",
-       "a picture of a young girl in a black shirt . "
+       "a picture of a young girl and a picture of a young woman . ",
+       "a picture of a young girl in a black shirt . ",
+       "a picture of a young woman in a black dress . ",
+       "a picture of a young woman in a black shirt . "
       ]
      },
      {
@@ -10183,6 +10850,8 @@
        }
       ],
       "frame_data": [
+       "a picture of a woman in a crowd of people . ",
+       "a picture of a young girl and a picture of a woman . ",
        "a picture of a young woman in front of a poster . ",
        "a woman standing next to a group of people . ",
        "a young girl is shown in a photo on the news . "
@@ -10250,7 +10919,13 @@
       ],
       "frame_data": [
        "a news reporter is talking to a camera . ",
-       "a woman in a red coat is talking on tv . "
+       "a woman in a purple coat is talking on a television . ",
+       "a woman in a red coat is talking on tv . ",
+       "a woman wearing a pink coat is standing outside . ",
+       "a woman wearing a purple coat is standing in front . ",
+       "a woman wearing a purple coat is standing in front of buildings . ",
+       "a woman wearing a purple coat is standing outside . ",
+       "a woman wearing a purple coat is talking to a camera . "
       ]
      },
      {
@@ -10260,7 +10935,8 @@
       "verbs": [],
       "frame_data": [
        "a news anchor is talking to a camera . ",
-       "a woman in a purple coat is standing in front of a building . "
+       "a woman in a purple coat is standing in front of a building . ",
+       "a woman in a red coat is standing in front of a building . "
       ]
      },
      {
@@ -10283,6 +10959,8 @@
       ],
       "frame_data": [
        "a man and a woman are talking on a news set . ",
+       "a man and a woman are talking on tv . ",
+       "a man in a suit and tie sitting in front of a microphone . ",
        "a man is sitting in front of a tv . "
       ]
      },
@@ -10305,6 +10983,8 @@
        }
       ],
       "frame_data": [
+       "a man in a suit and tie sitting in front of a camera . ",
+       "two men sitting in front of each other on a news set . ",
        "two men sitting next to each other in front of a building . "
       ]
      },
@@ -10334,7 +11014,11 @@
       ],
       "frame_data": [
        "a couple of people that are sitting next to each other . ",
-       "two men are sitting in front of a building . "
+       "a man is sitting in front of a tv . ",
+       "two men are sitting in front of a building . ",
+       "two men sitting in front of a television . ",
+       "two men sitting in front of each other on a news set . ",
+       "two men sitting next to each other in front of a building . "
       ]
      },
      {
@@ -10368,6 +11052,7 @@
        }
       ],
       "frame_data": [
+       "a couple of people that are sitting in a room . ",
        "a couple of people that are sitting next to each other . "
       ]
      },
@@ -10409,6 +11094,7 @@
       ],
       "frame_data": [
        "a couple of people that are sitting in a room . ",
+       "a couple of people that are sitting next to each other . ",
        "a young man in a suit and tie . "
       ]
      },
@@ -10473,7 +11159,12 @@
        }
       ],
       "frame_data": [
+       "a man in a suit and a tie . ",
+       "a man in a suit and tie on a news set . ",
+       "a man in a suit and tie sitting in front of a camera . ",
        "a man in a suit and tie talking on a tv . ",
+       "a man sitting in front of a tv on top of a desk . ",
+       "a young man in a suit and tie . ",
        "a young man is shown in a mug shot . "
       ]
      },
@@ -10544,8 +11235,15 @@
        }
       ],
       "frame_data": [
+       "a picture of a man in a suit and tie . ",
+       "a picture of a young girl in a black shirt . ",
+       "a young girl is shown in a mugshot . ",
        "a young girl is shown in a picture . ",
-       "a young man in a suit and tie . "
+       "a young man in a suit and tie . ",
+       "a young man is shown in a mug shot . ",
+       "a young man is shown in a police mugshot . ",
+       "a young woman is shown in a mugshot . ",
+       "a young woman is shown in a picture . "
       ]
      },
      {
@@ -10639,9 +11337,19 @@
        }
       ],
       "frame_data": [
+       "a man in a suit and a tie . ",
+       "a man in a suit and tie on a news set ",
+       "a man in a suit and tie sitting in front of a camera . ",
+       "a man in a suit and tie sitting in front of a microphone . ",
+       "a man in a suit and tie sitting in front of a television . ",
+       "a man in a suit and tie sitting in front of an audience . ",
+       "a man in a suit and tie talking on a television . ",
+       "a man is sitting in front of a camera . ",
+       "a man is sitting in front of a tv . ",
        "a man sitting in front of a television . ",
        "a man wearing a suit and tie . ",
-       "a picture of a young girl in a black shirt . "
+       "a picture of a young girl in a black shirt . ",
+       "two men sitting in front of each other on a news set . "
       ]
      },
      {
@@ -10664,7 +11372,9 @@
       ],
       "frame_data": [
        "a man sitting next to another man in a suit . ",
-       "two men are talking on a news desk . "
+       "two men are talking on a news desk . ",
+       "two men are talking on a television set . ",
+       "two men sitting in front of a tv on a news set . "
       ]
      },
      {
@@ -10674,7 +11384,8 @@
       "verbs": [],
       "frame_data": [
        "a man in a suit and a tie . ",
-       "a man sitting in front of another man . "
+       "a man sitting in front of another man . ",
+       "a man sitting next to another man in a suit . "
       ]
      },
      {
@@ -10684,6 +11395,7 @@
       "verbs": [],
       "frame_data": [
        "a group of people sitting in front of a table . ",
+       "a man in a suit and a tie . ",
        "a man in a suit and tie . "
       ]
      },
@@ -10700,8 +11412,10 @@
        }
       ],
       "frame_data": [
+       "a group of people sitting in front of a television . ",
        "a news reporter is talking to a camera . ",
-       "a woman is sitting in front of a building . "
+       "a woman is sitting in front of a building . ",
+       "a woman is sitting in front of a tv . "
       ]
      },
      {
@@ -10724,8 +11438,10 @@
       ],
       "frame_data": [
        "a man in a suit and tie standing next to another man in a suit . ",
-       "a news reporter is talking to a camera . ",
-       "a young man is walking down the street . "
+       "a news reporter is talking to a news anchor . ",
+       "a young man is walking down the street . ",
+       "a young man is walking in a parking lot . ",
+       "a young man is walking in front of a car . "
       ]
      },
      {
@@ -10774,7 +11490,8 @@
       "frame_data": [
        "a group of people sitting around a table . ",
        "a news reporter is talking to a camera . ",
-       "a person standing in a room with a laptop . "
+       "a person standing in a room with a laptop . ",
+       "a woman is talking on the news . "
       ]
      },
      {
@@ -10804,7 +11521,9 @@
       "frame_data": [
        "a group of men standing next to each other . ",
        "a picture of a person with a knife in their hand ",
-       "a young man in a black shirt is standing in front of a building "
+       "a young man in a black shirt is standing in front of a building ",
+       "a young man standing in front of a television . ",
+       "two men are standing next to each other in a building . "
       ]
      },
      {
@@ -10832,9 +11551,12 @@
        }
       ],
       "frame_data": [
+       "a picture of a young man in a black shirt . ",
        "a picture of dr . sullivan is shown . ",
        "a young man in a black shirt and a red and white wall ",
-       "a young man is seen in a mirror . "
+       "a young man in a black shirt and a red brick wall . ",
+       "a young man is seen in a mirror . ",
+       "a young man is shown in a news story . "
       ]
      },
      {
@@ -10850,6 +11572,7 @@
        }
       ],
       "frame_data": [
+       "a picture of a young man in a black shirt . ",
        "a young man is shown in a news story . "
       ]
      },
@@ -10859,6 +11582,7 @@
       "endtime": "2208.39",
       "verbs": [],
       "frame_data": [
+       "a man in a black shirt is on the news . ",
        "a young man is on the news about the arrest . "
       ]
      },
@@ -10906,8 +11630,11 @@
       ],
       "frame_data": [
        "a group of people in orange shirts are in a van . ",
+       "a group of people standing next to each other on a street . ",
        "a man in black shirt next to a white car . ",
-       "a young man is shown in an arrest photo . "
+       "a young man is shown in an arrest photo . ",
+       "a young man is shown in an orange shirt . ",
+       "a young man is walking away from a car . "
       ]
      },
      {
@@ -10949,6 +11676,9 @@
       "frame_data": [
        "a blurry picture of a person in a car . ",
        "a man with long hair and a long beard . ",
+       "a man with long hair and a long beard is standing in the grass . ",
+       "a picture of a house that has a tree in front . ",
+       "a picture of a young man in front of a house . ",
        "a young child is in the grass near a tree . ",
        "a young man in front of a house . "
       ]
@@ -10995,6 +11725,8 @@
        "a man with long white hair and a red beard is standing in front of a newspaper . ",
        "a new twist in terror arrest : a teenage suspect accused of killing neighbor ",
        "a picture of a man with a $ 6 8 9 bill in his hand . ",
+       "a picture of a man with a beard . ",
+       "a picture of a person and a picture of a man . ",
        "a picture of a person that is in the news . "
       ]
      },
@@ -11054,8 +11786,13 @@
       ],
       "frame_data": [
        "a group of men in black suits are holding guns . ",
+       "a group of people and a cat in a room . ",
        "a group of people in the dirt with trees . ",
+       "a man in a suit and hat standing in front of a car . ",
        "a person laying on a bed in a room . ",
+       "a young man is standing in front of a wall . ",
+       "a young man is standing in front of a window . ",
+       "a young man standing in front of a wall . ",
        "a young man standing in front of a window . "
       ]
      },
@@ -11120,6 +11857,10 @@
       ],
       "frame_data": [
        "a picture of a person that is in the news . ",
+       "a picture of a young man in front of a mirror . ",
+       "a picture of a young man with a knife in his hand . ",
+       "a young man is shown in a news story . ",
+       "a young man is shown in an arrest photo . ",
        "a young man is shown in an image . "
       ]
      },
@@ -11166,9 +11907,12 @@
        }
       ],
       "frame_data": [
+       "a group of people standing next to each other on a street . ",
        "a group of young men standing next to each other . ",
+       "a picture of a person that is in jail . ",
        "a picture of a person with a gun . ",
        "a young man in a black shirt and a red tie . ",
+       "a young man in a black shirt is on the news . ",
        "a young man is sitting in front of a fire hydrant "
       ]
      },
@@ -11192,6 +11936,8 @@
       ],
       "frame_data": [
        "a group of men are standing in the dirt . ",
+       "a group of men standing on top of a dirt field . ",
+       "a group of people standing next to each other on a street . ",
        "a man is holding a gun in the dirt . "
       ]
      },
@@ -11228,7 +11974,10 @@
       "frame_data": [
        "a close up of a person 's face on top of a poster . ",
        "a man in black shirt and blue jeans . ",
+       "a man is standing in front of a newspaper . ",
        "a picture of a person that is in the dark . ",
+       "a picture of a person that is in the news . ",
+       "a picture of a person with a gun . ",
        "a young man is standing in front of a picture . "
       ]
      },
@@ -11269,8 +12018,11 @@
        }
       ],
       "frame_data": [
+       "a man and a woman walking in front of a tree . ",
+       "a man and a woman walking on the sidewalk . ",
        "a man in a suit and tie standing next to another man in a suit . ",
        "a person is standing in front of a building . ",
+       "a young man is walking down the street . ",
        "a young man is walking in front of a car . "
       ]
      },
@@ -11294,6 +12046,8 @@
       ],
       "frame_data": [
        "a group of people walking down a street . ",
+       "a man and a woman walking down a street . ",
+       "a man is standing in front of a group of people . ",
        "a picture of a person in the news . "
       ]
      },
@@ -11330,7 +12084,10 @@
       "frame_data": [
        "a group of people standing next to each other . ",
        "a man in a tan shirt is walking outside . ",
-       "a man is standing in front of a building . "
+       "a man is standing in front of a building . ",
+       "a man is standing in front of a group of people . ",
+       "a man is walking in front of the camera . ",
+       "a man is walking on the sidewalk in front of a building . "
       ]
      },
      {
@@ -11339,7 +12096,9 @@
       "endtime": "2282.74",
       "verbs": [],
       "frame_data": [
-       "a man is standing in front of a building . "
+       "a man in a pink shirt is standing outside . ",
+       "a man is standing in front of a building . ",
+       "a man is walking down the street in front of a building . "
       ]
      },
      {
@@ -11379,6 +12138,7 @@
       "endtime": "2292.39",
       "verbs": [],
       "frame_data": [
+       "a group of people in orange shirts are in a van . ",
        "a group of people in orange vests are standing in front of a truck . ",
        "a yellow bouquet of flowers in the middle of a field . "
       ]
@@ -11398,6 +12158,7 @@
       "frame_data": [
        "a group of people standing around a body of water . ",
        "a woman and a man sitting at a table . ",
+       "a woman and a man sitting in front of a tv . ",
        "two people are sitting at a desk in front of a television . "
       ]
      },
@@ -11428,6 +12189,8 @@
       "frame_data": [
        "a person standing in a room with a laptop . ",
        "a train traveling down a track near a forest . ",
+       "a woman and a man sitting in front of a television . ",
+       "two people sitting at a table in a room . ",
        "two people sitting at a table in front of a tv . "
       ]
      },
@@ -11456,8 +12219,12 @@
        }
       ],
       "frame_data": [
+       "a train traveling down a track near a forest . ",
+       "a truck driving down a road near a forest . ",
        "a truck is driving down the road near a forest . ",
-       "a truck that has been smashed in a glass window . "
+       "a truck that has a smashed window on it . ",
+       "a truck that has been smashed in a glass window . ",
+       "a truck that has been smashed into a bus . "
       ]
      },
      {
@@ -11486,6 +12253,9 @@
       ],
       "frame_data": [
        "a bus that has been hit by a truck . ",
+       "a bus that has been smashed by a truck . ",
+       "a bus that has been smashed into a wall . ",
+       "a group of people standing on top of a football field . ",
        "a group of people that are standing in a stadium . ",
        "a truck that has been smashed into a wall . "
       ]
@@ -11509,6 +12279,7 @@
        }
       ],
       "frame_data": [
+       "a group of people standing on top of a football field . ",
        "a group of people that are standing in the grass . "
       ]
      },
@@ -11526,7 +12297,9 @@
       ],
       "frame_data": [
        "a group of people standing in a stadium . ",
-       "a young child riding a snow board down the side of a slope . "
+       "a group of people standing on top of a football field . ",
+       "a young child riding a snow board down the side of a slope . ",
+       "a young child riding a snowboard down a hill . "
       ]
      },
      {
@@ -11548,7 +12321,11 @@
        }
       ],
       "frame_data": [
-       "a young child is snowboarding down a hill . "
+       "a young child is snowboarding down a hill . ",
+       "a young child is snowboarding down a snowy hill . ",
+       "a young child riding a snow board down the side of a slope . ",
+       "a young child riding a snow board on top of a snow covered slope . ",
+       "a young child riding a snowboard down a ramp . "
       ]
      },
      {
@@ -11564,6 +12341,8 @@
        }
       ],
       "frame_data": [
+       "a young child riding a snow board down a snow covered slope . ",
+       "a young child riding a snow board on top of a snow covered slope . ",
        "a young child riding a snowboard down a hill . "
       ]
      },
@@ -11586,7 +12365,10 @@
        }
       ],
       "frame_data": [
-       "a young child riding a snow board in the snow . "
+       "a person riding a snow board in the snow . ",
+       "a young child in the snow holding a snowboard . ",
+       "a young child riding a snow board in the snow . ",
+       "a young child riding a snowboard down a hill . "
       ]
      },
      {
@@ -11615,7 +12397,9 @@
       "endtime": "2319.65",
       "verbs": [],
       "frame_data": [
-       "a woman in a white outfit holding her sunglasses . "
+       "a woman holding a pair of sunglasses over her face . ",
+       "a woman in a white outfit holding her sunglasses . ",
+       "a woman standing on top of a deck holding onto sunglasses . "
       ]
      },
      {
@@ -11724,6 +12508,7 @@
       "frame_data": [
        "a beach with a large bubble in the middle of it . ",
        "a man and a woman standing next to each other . ",
+       "a man and a woman standing next to each other in a vineyard . ",
        "a man in a red shirt hanging on a rock . "
       ]
      },
@@ -11751,7 +12536,9 @@
        }
       ],
       "frame_data": [
-       "a man riding a skateboard on top of a ramp in the ocean . "
+       "a man holding a snow board on top of a snow covered slope . ",
+       "a man riding a skateboard on top of a ramp in the ocean . ",
+       "a man standing on top of a snow covered slope . "
       ]
      },
      {
@@ -11760,6 +12547,8 @@
       "endtime": "2341.19",
       "verbs": [],
       "frame_data": [
+       "a man riding a skateboard on top of a ramp in the ocean . ",
+       "a man standing in front of a body of water . ",
        "a man standing on a dock holding a skateboard . "
       ]
      },
@@ -11770,7 +12559,7 @@
       "verbs": [],
       "frame_data": [
        "a close - up of a woman 's face smiling . ",
-       "a woman holding a volleyball in a crowd of people . ",
+       "a woman holding a volleyball on a crowded street . ",
        "a woman in a red dress standing in front of two giant trees . "
       ]
      },
@@ -11804,7 +12593,10 @@
        }
       ],
       "frame_data": [
-       "an older man holding a football in front of a city skyline . "
+       "an older man holding a football in front of a city . ",
+       "an older man holding a football in front of a city skyline . ",
+       "an older man holding a football in his hands . ",
+       "an older man is throwing a football . "
       ]
      },
      {
@@ -11828,6 +12620,7 @@
       "frame_data": [
        "a group of children standing in a room . ",
        "a group of people playing a game of football in a park . ",
+       "a group of people standing on top of a grass covered field . ",
        "a picture of the ocean and the sky with the words \" california dream big \". "
       ]
      },
@@ -11838,6 +12631,7 @@
       "verbs": [],
       "frame_data": [
        "a little girl that is standing in front of the camera . ",
+       "a woman standing in front of a television screen . ",
        "a young girl with curly brown hair wearing a yellow shirt . "
       ]
      },
@@ -11870,7 +12664,8 @@
        }
       ],
       "frame_data": [
-       "a man sitting in the back seat of a car . "
+       "a man sitting in the back seat of a car . ",
+       "a young girl sitting in the back seat of a car . "
       ]
      },
      {
@@ -11879,7 +12674,8 @@
       "endtime": "2360.14",
       "verbs": [],
       "frame_data": [
-       "a close up of a child with curly hair "
+       "a close up of a child with curly hair ",
+       "a close up of a child with curly hair . "
       ]
      },
      {
@@ -11889,6 +12685,7 @@
       "verbs": [],
       "frame_data": [
        "a woman sitting in the back seat of a car . ",
+       "an orange sitting next to a happy meal bag . ",
        "an orange sitting on top of a bag of food . "
       ]
      },
@@ -11898,6 +12695,7 @@
       "endtime": "2364.18",
       "verbs": [],
       "frame_data": [
+       "an orange sitting in front of a red bag . ",
        "an orange sitting next to a red bag of food . "
       ]
      },
@@ -11945,6 +12743,7 @@
       ],
       "frame_data": [
        "there is a advertisement for a cold remedy . ",
+       "there is an advertisement for a cold remedy . ",
        "zicam nasal swabs with cold remedy "
       ]
      },
@@ -11981,6 +12780,7 @@
       "endtime": "2380.39",
       "verbs": [],
       "frame_data": [
+       "a woman sitting on a couch talking on a phone . ",
        "a woman sitting on a couch talking on the phone . "
       ]
      },
@@ -12004,7 +12804,8 @@
       ],
       "frame_data": [
        "a tablet showing a credit score of 7 7 3 . ",
-       "a woman sitting on a couch talking on a phone . "
+       "a woman sitting on a couch talking on a phone . ",
+       "a woman sitting on a couch talking on the phone . "
       ]
      },
      {
@@ -12035,7 +12836,9 @@
        }
       ],
       "frame_data": [
-       "a woman sitting in front of a computer . "
+       "a woman sitting at a computer desk with a headset on . ",
+       "a woman sitting in front of a computer . ",
+       "a woman talking on a cell phone while sitting on a couch . "
       ]
      },
      {
@@ -12044,7 +12847,8 @@
       "endtime": "2385.16",
       "verbs": [],
       "frame_data": [
-       "a woman sitting on a couch talking on a phone . "
+       "a woman sitting on a couch talking on a phone . ",
+       "a woman talking on a cell phone while sitting on a couch . "
       ]
      },
      {
@@ -12053,6 +12857,7 @@
       "endtime": "2386.21",
       "verbs": [],
       "frame_data": [
+       "a woman sitting at a computer in an office . ",
        "a woman sitting in front of a computer . "
       ]
      },
@@ -12081,7 +12886,9 @@
        }
       ],
       "frame_data": [
-       "a woman sitting in front of a computer . "
+       "a woman sitting at a computer in an office . ",
+       "a woman sitting in front of a computer . ",
+       "a woman sitting on a couch talking on a phone . "
       ]
      },
      {
@@ -12090,7 +12897,9 @@
       "endtime": "2388.77",
       "verbs": [],
       "frame_data": [
-       "a woman sitting on top of a couch holding a laptop . "
+       "a woman sitting on a couch talking on a phone . ",
+       "a woman sitting on top of a couch holding a laptop . ",
+       "a woman talking on a cell phone while sitting on a couch . "
       ]
      },
      {
@@ -12112,8 +12921,11 @@
        }
       ],
       "frame_data": [
+       "a close - up of a credit card with the word \" discover it \" on it . ",
        "a close - up of the logo of the it service provider . ",
-       "a screen shot of a credit score for free . "
+       "a close - up view of the discover it logo . ",
+       "a screen shot of a credit score for free . ",
+       "a screen shot of a video showing the number 3 9 million fico credit scores . "
       ]
      },
      {
@@ -12147,8 +12959,10 @@
        }
       ],
       "frame_data": [
+       "a man sitting at a desk writing on a piece of paper . ",
        "a man sitting at a table with papers . ",
        "a person holding a pencil and a ring . ",
+       "a person is holding a wedding ring in their hand . ",
        "a picture of a free credit score sign . "
       ]
      },
@@ -12165,6 +12979,8 @@
        }
       ],
       "frame_data": [
+       "a close - up of a man 's face in front of blurry lights . ",
+       "a man and a woman are praying together . ",
        "a man and a woman sitting in front of each other . ",
        "a person holding a box with a ring in it . "
       ]
@@ -12176,6 +12992,7 @@
       "verbs": [],
       "frame_data": [
        "a close - up of a man 's face in front of blurry lights . ",
+       "a close - up of a man in a suit . ",
        "a woman is standing next to a man . "
       ]
      },
@@ -12186,6 +13003,7 @@
       "verbs": [],
       "frame_data": [
        "a woman is smiling while holding her hands on her chest . ",
+       "a young woman smiles at a young man . ",
        "a young woman standing in front of a young man . "
       ]
      },
@@ -12195,6 +13013,7 @@
       "endtime": "2439.28",
       "verbs": [],
       "frame_data": [
+       "a woman smiling at a man in a suit . ",
        "a woman smiling while standing next to a man . "
       ]
      },
@@ -12215,7 +13034,8 @@
       "verbs": [],
       "frame_data": [
        "a man sitting at a table in a room . ",
-       "kay jewelers ad featuring a neil lane bridal ring . "
+       "kay jewelers ad featuring a neil lane bridal ring . ",
+       "kay jewelers advertisement featuring a diamond ring . "
       ]
      },
      {
@@ -12249,10 +13069,13 @@
        }
       ],
       "frame_data": [
+       "a close - up of a square diamond ring . ",
        "a close up of a diamond ring on a black surface . ",
+       "a close up view of a diamond ring . ",
        "a man in a black suit and white shirt . ",
        "a man putting a wedding ring on his finger . ",
-       "a man sitting at a table holding a pen . "
+       "a man sitting at a table holding a pen . ",
+       "a man sitting at a table writing on a piece of paper "
       ]
      },
      {
@@ -12274,7 +13097,10 @@
        }
       ],
       "frame_data": [
+       "a man and a woman are kissing in the dark . ",
+       "a man and a woman kissing in the dark . ",
        "a man and a woman looking at a cell phone . ",
+       "a woman clapping her hands at a party . ",
        "a woman in a blue dress claps her hands . "
       ]
      },
@@ -12315,7 +13141,8 @@
       ],
       "frame_data": [
        "a man and a woman standing next to each other . ",
-       "a red car is parked in a parking lot . "
+       "a red car is parked in a parking lot . ",
+       "a red car with the word \" hot price \" painted on it . "
       ]
      },
      {
@@ -12324,6 +13151,7 @@
       "endtime": "2461.63",
       "verbs": [],
       "frame_data": [
+       "a silver car with the words \" sweet deal \" written on it . ",
        "a white car with a sweet deal on the windshield . "
       ]
      },
@@ -12346,6 +13174,7 @@
        }
       ],
       "frame_data": [
+       "the back of a car that has the words \" cash - tastic bargain \" written on it ",
        "the back of a car that has the words \" cash - tastic bargain \". "
       ]
      },
@@ -12355,6 +13184,7 @@
       "endtime": "2468.04",
       "verbs": [],
       "frame_data": [
+       "a car with a sign on the back of it . ",
        "the back of a car that has a sticker on it . "
       ]
      },
@@ -12382,7 +13212,8 @@
       "endtime": "2474.82",
       "verbs": [],
       "frame_data": [
-       "a blue car parked on the side of the road . "
+       "a blue car parked on the side of the road . ",
+       "a blue car with a sign on the windshield . "
       ]
      },
      {
@@ -12404,8 +13235,10 @@
        }
       ],
       "frame_data": [
+       "a car dealership with cars parked in front of it . ",
        "a carmax store with a bunch of cars parked in front . ",
        "a man and a woman sitting in the back of a car . ",
+       "a man driving a car in a parking lot . ",
        "two people in a car talking to each other . "
       ]
      },
@@ -12423,7 +13256,8 @@
       ],
       "frame_data": [
        "a car dealership with cars parked in front of it . ",
-       "an open refrigerator filled with lots of food . "
+       "an open refrigerator filled with lots of food . ",
+       "an open refrigerator with food inside of it . "
       ]
      },
      {
@@ -12446,7 +13280,9 @@
       ],
       "frame_data": [
        "a group of different foods and drinks on a table . ",
+       "an assortment of food and drinks are displayed on a table . ",
        "an assortment of food items including a bottle of milk and a carrot . ",
+       "an assortment of food items on a table . ",
        "an open refrigerator filled with lots of food . "
       ]
      },
@@ -12469,6 +13305,8 @@
        }
       ],
       "frame_data": [
+       "a variety of food items are displayed on a table . ",
+       "an assortment of food items including milk , carrots , apples , tomatoes , and a bottle . ",
        "an assortment of food items on a table . ",
        "an image of a person holding a yogurt container "
       ]
@@ -12487,7 +13325,9 @@
       ],
       "frame_data": [
        "an assortment of food and drinks on a table . ",
-       "an image of a person holding a yogurt container "
+       "an assortment of food items on a table . ",
+       "an image of a person holding a yogurt container ",
+       "an image of an assortment of food on a table "
       ]
      },
      {
@@ -12496,6 +13336,7 @@
       "endtime": "2491.50",
       "verbs": [],
       "frame_data": [
+       "an assortment of food and drinks on a table . ",
        "an assortment of food items including a bottle of milk and an apple . "
       ]
      },
@@ -12524,6 +13365,7 @@
       "endtime": "2497.40",
       "verbs": [],
       "frame_data": [
+       "a close - up view of a protein shake . ",
        "a close - up view of a woman 's leg . ",
        "a group of bottles and a glass on a table . "
       ]
@@ -12541,6 +13383,7 @@
        }
       ],
       "frame_data": [
+       "a group of bottles and a glass of chocolate milk . ",
        "a group of bottles and a glass on a table . "
       ]
      },
@@ -12557,7 +13400,8 @@
        }
       ],
       "frame_data": [
-       "a group of bottles and a glass of chocolate milk . "
+       "a group of bottles and a glass of chocolate milk . ",
+       "a group of bottles and a glass on a table . "
       ]
      },
      {
@@ -12585,8 +13429,12 @@
        }
       ],
       "frame_data": [
+       "a man and a woman dancing on top of a mattress . ",
+       "a man laying in a bed with a mattress on top . ",
        "a man sitting on top of a mattress on a bed . ",
-       "there 's a tempur - pedic mattress for everyone "
+       "a person doing a handstand on top of a bed . ",
+       "there 's a tempur - pedic mattress for everyone ",
+       "two people standing on top of a tempur - pedic mattress . "
       ]
      },
      {
@@ -12609,6 +13457,9 @@
       ],
       "frame_data": [
        "a man and a woman sitting on top of a bed . ",
+       "a man laying in a bed with a mattress on top . ",
+       "two people standing on a mattress in a living room . ",
+       "two people standing on a mattress in a room . ",
        "two people standing on top of a mattress . "
       ]
      },
@@ -12643,7 +13494,9 @@
       ],
       "frame_data": [
        "a couple of people standing next to each other . ",
-       "a woman laying on a bed in a room . "
+       "a woman laying on a bed in a room . ",
+       "a woman laying on a bed with her arms in the air ",
+       "a woman laying on a mattress in a bedroom . "
       ]
      },
      {
@@ -12666,6 +13519,7 @@
       ],
       "frame_data": [
        "a mattress is on sale for up to $ 3 0 0 . ",
+       "a woman laying on a mattress in a bedroom . ",
        "a woman laying on a tempur - pedic mattress . "
       ]
      },
@@ -12689,7 +13543,8 @@
       ],
       "frame_data": [
        "a mattress sale ad with a mattress on it . ",
-       "mattress firm tempur - pedic 0 % apr for 5 years "
+       "mattress firm tempur - pedic 0 % apr for 5 years ",
+       "mattress firm tempur - pedic mattress sale "
       ]
      },
      {
@@ -12744,6 +13599,7 @@
        }
       ],
       "frame_data": [
+       "a mattress firm logo is shown on a red background . ",
        "a mattress firm logo on a red background . "
       ]
      },
@@ -12760,6 +13616,7 @@
        }
       ],
       "frame_data": [
+       "a logo for the asian yunnan performing arts . ",
        "a logo for the shen yun performing arts . ",
        "a video screen shot of a person jumping in the air . "
       ]
@@ -12784,6 +13641,9 @@
       ],
       "frame_data": [
        "a bus that has been hit by a truck . ",
+       "a woman in a purple dress is talking to a camera . ",
+       "a woman in a purple dress talking on a television . ",
+       "a woman in a purple shirt is on a news set . ",
        "a woman in a purple shirt is talking on a tv . "
       ]
      },
@@ -12793,7 +13653,8 @@
       "endtime": "2572.60",
       "verbs": [],
       "frame_data": [
-       "a bus that has been hit by a truck . "
+       "a bus that has been hit by a truck . ",
+       "a bus that has been hit by a truck on a highway . "
       ]
      },
      {
@@ -12815,6 +13676,8 @@
        }
       ],
       "frame_data": [
+       "a bus that has been hit by a car . ",
+       "a bus that has been hit by a car on the street . ",
        "a bus that has been hit by a truck . "
       ]
      },
@@ -12883,8 +13746,9 @@
        }
       ],
       "frame_data": [
+       "a close up of a person holding up a trophy . ",
        "a group of men standing next to each other on a field . ",
-       "a man holding a trophy on top of a football field . ",
+       "a man holding a trophy in front of a crowd . ",
        "a picture of a person wearing a helmet . "
       ]
      },
@@ -12908,6 +13772,7 @@
       ],
       "frame_data": [
        "a brown football is sitting on top of a table . ",
+       "a close up of a football player holding a trophy . ",
        "a football player is jumping in the air . "
       ]
      },
@@ -12924,7 +13789,8 @@
        }
       ],
       "frame_data": [
-       "a group of people standing in a stadium . "
+       "a group of people standing in a stadium . ",
+       "a group of people standing on top of a football field . "
       ]
      },
      {
@@ -12976,6 +13842,7 @@
       "frame_data": [
        "a close up of a person wearing a hat ",
        "a man is talking to the camera while wearing a football jersey . ",
+       "there is a man talking to the camera ",
        "there is an image of peyton manning talking "
       ]
      },
@@ -13027,9 +13894,12 @@
        }
       ],
       "frame_data": [
+       "a man in a white shirt is holding his arm up ",
        "a man in a white shirt is standing in front of a building . ",
        "a picture of a tv screen that has a picture on it . ",
-       "a sign that says \" opening night countdown to super bowl face - off .\" "
+       "a sign that says \" countdown to super bowl face - off .\" ",
+       "a sign that says \" opening night countdown to super bowl face - off .\" ",
+       "a sign that says , \" countdown to super bowl face - off .\" "
       ]
      },
      {
@@ -13067,6 +13937,7 @@
        "a man is talking to the camera while wearing a helmet . ",
        "a man sitting in front of a microphone . ",
        "a picture of a man in a suit and tie . ",
+       "a picture of a man with a face mask on . ",
        "there is a man that is sitting down "
       ]
      },
@@ -13090,7 +13961,8 @@
       ],
       "frame_data": [
        "a close up of a person holding a football ",
-       "a close up of a person wearing a hat "
+       "a close up of a person wearing a hat ",
+       "a close up of a person with a hat "
       ]
      },
      {
@@ -13099,8 +13971,9 @@
       "endtime": "2622.94",
       "verbs": [],
       "frame_data": [
-       "a close - up of a football on the news . ",
-       "a man in a football uniform standing in front of an audience . "
+       "a close - up of a football on a television screen . ",
+       "a man in a football uniform standing in front of an audience . ",
+       "a man in a football uniform walking across a field . "
       ]
      },
      {
@@ -13148,8 +14021,12 @@
       "frame_data": [
        "a couple of people that are hugging each other . ",
        "a group of men playing football on a field . ",
+       "a group of men standing on top of a football field . ",
        "a group of people standing next to each other . ",
-       "a man in a football jersey is holding a football . "
+       "a group of people that are standing in the grass . ",
+       "a group of young people hugging each other in a stadium . ",
+       "a man in a football jersey is holding a football . ",
+       "a man in a football uniform standing on top of a field . "
       ]
      },
      {
@@ -13189,6 +14066,7 @@
        }
       ],
       "frame_data": [
+       "a crowd of people standing next to each other on a field . ",
        "a crowd of people standing on top of a football field . ",
        "a man in a white jacket is talking into a microphone . "
       ]
@@ -13212,6 +14090,9 @@
        }
       ],
       "frame_data": [
+       "a man in a white jacket is talking into a microphone . ",
+       "a man in a white jacket talking into a microphone . ",
+       "a man is sitting in front of microphones . ",
        "a man is talking into a microphone . ",
        "a man sitting in front of microphones at a press conference . "
       ]
@@ -13242,7 +14123,11 @@
       ],
       "frame_data": [
        "a man holding a football and wearing a helmet . ",
-       "a man sitting in front of microphones in a room . "
+       "a man in a white jacket is sitting at a microphone . ",
+       "a man in white jacket sitting in front of a microphone . ",
+       "a man sitting in front of microphones at a press conference . ",
+       "a man sitting in front of microphones in a room . ",
+       "a picture of a football player with a helmet on . "
       ]
      },
      {
@@ -13283,7 +14168,10 @@
       ],
       "frame_data": [
        "a close up of a football player 's gloves . ",
-       "a group of men playing a game of football . "
+       "a group of football players playing a game . ",
+       "a group of men on a field playing football . ",
+       "a group of men playing a game of football . ",
+       "a group of men playing football on a field . "
       ]
      },
      {
@@ -13318,7 +14206,10 @@
       ],
       "frame_data": [
        "a couple of men standing next to each other . ",
+       "a couple of people that are standing up . ",
        "a group of football players playing a game . ",
+       "a group of men standing next to each other on a field . ",
+       "a woman carrying a bag of luggage on the side of a road . ",
        "a woman carrying a bag of luggage on top of her head . "
       ]
      },
@@ -13336,7 +14227,8 @@
       ],
       "frame_data": [
        "a couple of men standing next to each other . ",
-       "a group of men playing football on a field . "
+       "a group of men playing football on a field . ",
+       "a group of men standing on top of a football field . "
       ]
      },
      {
@@ -13352,8 +14244,10 @@
        }
       ],
       "frame_data": [
+       "a football player is talking to a woman . ",
        "a group of people standing on top of a field . ",
-       "a picture of a woman in a football uniform . "
+       "a picture of a woman in a football uniform . ",
+       "a woman is talking to a football player . "
       ]
      },
      {
@@ -13396,7 +14290,10 @@
        "a couple of men sitting next to each other on a field . ",
        "a couple of people that are laughing together . ",
        "a couple of people that are sitting in a room ",
+       "a couple of people that are smiling at the camera . ",
+       "a group of football players are standing together . ",
        "a group of football players standing on top of a field . ",
+       "a group of men standing next to each other on a field . ",
        "a woman is standing in front of a camera . "
       ]
      },
@@ -13426,7 +14323,11 @@
       ],
       "frame_data": [
        "a crowd of people standing in a stadium . ",
-       "a man is talking to the camera at a football game . "
+       "a man in a football helmet is talking to the camera . ",
+       "a man is talking to the camera at a football game . ",
+       "a man is talking to the camera while wearing a hat . ",
+       "a man wearing a football cap is standing in front of a camera . ",
+       "a man wearing a hat is talking to the camera . "
       ]
      },
      {
@@ -13443,6 +14344,7 @@
       ],
       "frame_data": [
        "a close - up of a football on a television screen . ",
+       "a group of people standing next to each other on a field . ",
        "a group of people that are standing in a stadium . ",
        "a picture of two different teams in the same picture . "
       ]
@@ -13453,7 +14355,9 @@
       "endtime": "2685.59",
       "verbs": [],
       "frame_data": [
-       "a picture of a football player and a picture of a football player . "
+       "a football player wearing a football helmet . ",
+       "a picture of a football player and a picture of a football player . ",
+       "a picture of two football players with helmets on . "
       ]
      },
      {
@@ -13539,6 +14443,8 @@
       "frame_data": [
        "a group of people sitting around a table . ",
        "a person on a snow board in the snow . ",
+       "a woman holding a baby and a snowboarder . ",
+       "a woman holding a baby in front of a building . ",
        "a woman holding a baby on a snowboard . "
       ]
      },
@@ -13567,7 +14473,12 @@
        }
       ],
       "frame_data": [
-       "a woman holding a child on a snow board . "
+       "a video of a young girl riding a snow board . ",
+       "a woman holding a baby in front of a building . ",
+       "a woman holding a baby on a snowboard . ",
+       "a woman holding a baby on top of a snow board . ",
+       "a woman holding a child on a snow board . ",
+       "a woman riding a snowboard while holding a baby . "
       ]
      },
      {
@@ -13577,7 +14488,8 @@
       "verbs": [],
       "frame_data": [
        "a macy 's home sale logo with a red star . ",
-       "a woman in a red dress holding a white box . "
+       "a woman in a red dress holding a white box . ",
+       "a woman in a red dress holding up a sign . "
       ]
      },
      {
@@ -13615,7 +14527,10 @@
        }
       ],
       "frame_data": [
-       "a woman holding onto a white pillow on top of a bed . "
+       "a woman holding onto a white pillow on top of a bed . ",
+       "a woman is holding a pillow on top of a bed . ",
+       "a woman sitting on top of a bed holding a pillow . ",
+       "a woman sitting on top of a white bed . "
       ]
      },
      {
@@ -13650,7 +14565,8 @@
       ],
       "frame_data": [
        "a man and a woman helping a child ride a bike . ",
-       "a young boy wearing a blue bike helmet . "
+       "a young boy wearing a blue bike helmet . ",
+       "a young boy wearing a blue bike helmet with a woman taking a picture . "
       ]
      },
      {
@@ -13687,6 +14603,8 @@
        "a little boy riding a bike on the sidewalk ",
        "a man and a woman in a park . ",
        "a man taking a picture of a child riding a bike . ",
+       "a young boy riding a bike down a sidewalk . ",
+       "a young boy riding a bike with a helmet on . ",
        "a young boy wearing a blue bike helmet . "
       ]
      },
@@ -13696,6 +14614,8 @@
       "endtime": "2747.54",
       "verbs": [],
       "frame_data": [
+       "a young boy riding a bike down a sidewalk . ",
+       "a young boy wearing a helmet and riding a bike . ",
        "a young child riding a bike down a sidewalk . "
       ]
      },
@@ -13712,7 +14632,8 @@
        }
       ],
       "frame_data": [
-       "a can of quaker oats on a red background . "
+       "a can of quaker oats on a red background . ",
+       "a can of quaker oats with an image of a man on it . "
       ]
      },
      {
@@ -13746,8 +14667,10 @@
        }
       ],
       "frame_data": [
+       "a person pruning a bonsai tree in a pot . ",
        "a woman in a white dress holding a bonsai tree . ",
-       "kelly ripa holding a plant in her hand . "
+       "kelly ripa holding a plant in her hand . ",
+       "kelly ripa is holding a bonsai tree in her hand . "
       ]
      },
      {
@@ -13773,7 +14696,8 @@
        }
       ],
       "frame_data": [
-       "a close - up view of a tooth with plaque and gingivitis . "
+       "a close - up view of a tooth with plaque and gingivitis . ",
+       "a close up view of a tooth with plaque and gingivitis . "
       ]
      },
      {
@@ -13835,7 +14759,10 @@
       ],
       "frame_data": [
        "a bottle of theraflu express maxx is shown . ",
+       "a man is standing in a hallway with a bunch of pillows . ",
+       "a man laying in a bed with a pillow on top of him . ",
        "a man standing in a hallway with a mattress on top . ",
+       "a man standing next to a bed in a room . ",
        "a woman in a fire department uniform holding a fork . ",
        "this friday is the beginning of the end of the week . "
       ]
@@ -13846,6 +14773,7 @@
       "endtime": "2807.43",
       "verbs": [],
       "frame_data": [
+       "a bottle of theraflu express maxx is shown . ",
        "a bottle of theraflu extreme is shown . ",
        "a close - up view of the lips of a person . "
       ]
@@ -13863,7 +14791,8 @@
        }
       ],
       "frame_data": [
-       "a bottle of theraflu is shown on a blue background . "
+       "a bottle of theraflu is shown on a blue background . ",
+       "a theraflu bottle is sitting on a table . "
       ]
      },
      {
@@ -13886,7 +14815,8 @@
       ],
       "frame_data": [
        "a boy and a woman in a grocery store . ",
-       "a person reaching for a can of tomato soup . "
+       "a person reaching for a can of tomato soup . ",
+       "a woman pushing a shopping cart in a store . "
       ]
      },
      {
@@ -13896,6 +14826,7 @@
       "verbs": [],
       "frame_data": [
        "a person reaching for a can of tomato soup . ",
+       "a woman in a purple jacket and a child in a shopping cart . ",
        "a woman pushing a shopping cart in a grocery store . "
       ]
      },
@@ -13925,7 +14856,10 @@
       ],
       "frame_data": [
        "a group of people shopping in a store . ",
+       "a person holding a can of tomato soup in front of a shelf . ",
        "a person in a pink jacket is holding a can of soup . ",
+       "a person in a pink jacket is holding a can of tomato soup . ",
+       "a woman is holding a can of tomato soup . ",
        "a woman pushing a shopping cart down a sidewalk . "
       ]
      },
@@ -13948,8 +14882,10 @@
        }
       ],
       "frame_data": [
+       "a metal cage filled with lots of food . ",
        "a metal cage filled with lots of food and drinks . ",
-       "a woman and a little girl looking at wine bottles . "
+       "a woman and a little girl looking at wine bottles . ",
+       "a woman in a pink coat is standing in front of wine bottles . "
       ]
      },
      {
@@ -13966,6 +14902,8 @@
       ],
       "frame_data": [
        "a woman and a child in a wine store . ",
+       "a woman and a child in front of a wine display . ",
+       "a woman in a wine store looking at bottles . ",
        "campbell soup company logo on a wall . "
       ]
      },
@@ -14004,7 +14942,9 @@
        }
       ],
       "frame_data": [
+       "a crowd of people walking down a street . ",
        "an older bald man wearing a blue shirt . ",
+       "an older bald man wearing glasses and a blue shirt . ",
        "an overhead view of a crowd of people walking down a street . "
       ]
      },
@@ -14033,8 +14973,11 @@
        }
       ],
       "frame_data": [
+       "a group of people running in the rain . ",
        "a group of people running on a street . ",
-       "an older man in a blue shirt and glasses . "
+       "a group of people walking across a street . ",
+       "an older man in a blue shirt and glasses . ",
+       "an older man with a bald head wearing glasses . "
       ]
      },
      {
@@ -14051,6 +14994,7 @@
       ],
       "frame_data": [
        "a group of people running in the rain . ",
+       "a group of people walking on a street under a banner . ",
        "a sign that reads \" stay , mostly prepared \". "
       ]
      },
@@ -14073,6 +15017,8 @@
        }
       ],
       "frame_data": [
+       "a group of people running in a race . ",
+       "a group of people running on a road . ",
        "a group of people walking on a wet road . ",
        "an older man in a blue shirt and glasses . "
       ]
@@ -14115,7 +15061,12 @@
       ],
       "frame_data": [
        "a couple of people that are running in the street ",
-       "a group of people running in the rain . "
+       "a group of people running in the rain . ",
+       "a group of people that are standing in the rain . ",
+       "a group of people walking across a street . ",
+       "a large group of people running in a race . ",
+       "a large group of people walking on a street . ",
+       "two people are running on the street . "
       ]
      },
      {
@@ -14144,7 +15095,10 @@
       ],
       "frame_data": [
        "a close up of a person wearing a purple shirt ",
-       "two women are talking to each other in front of a crowd . "
+       "two women are talking to each other in front of a crowd . ",
+       "two women standing next to each other on a street . ",
+       "two women standing next to each other on the street . ",
+       "two women talking to each other while standing on a sidewalk . "
       ]
      },
      {
@@ -14173,7 +15127,9 @@
       ],
       "frame_data": [
        "a blue background with the words \" take the 1 % more pledge at raceforretirement . com ",
-       "a close up of a person wearing a purple shirt "
+       "a close up of a person wearing a purple shirt ",
+       "a close up of a person wearing glasses and a purple shirt ",
+       "a sign that says take the 1 % more pledge at raceforretirement . com "
       ]
      },
      {
@@ -14201,8 +15157,10 @@
        }
       ],
       "frame_data": [
+       "a close up view of a bunch of ping pong balls . ",
        "a close up view of some food on a plate . ",
        "a hand is holding a ping pong ball . ",
+       "a logo of a dog that is sitting on top of a table . ",
        "a person holding an egg carton on top of a table . ",
        "a sign that says take the 1 % more pledge at raceforretirement "
       ]
@@ -14213,7 +15171,9 @@
       "endtime": "2861.13",
       "verbs": [],
       "frame_data": [
-       "an egg carton with eggs inside of it . "
+       "an egg carton with eggs in it on a table . ",
+       "an egg carton with eggs inside of it . ",
+       "an eggland 's best egg carton with eggs in it . "
       ]
      },
      {
@@ -14222,6 +15182,8 @@
       "endtime": "2862.18",
       "verbs": [],
       "frame_data": [
+       "a box of eggs is sitting on a table . ",
+       "a box of eggs that are cage - free . ",
        "a box of eggs that are cage free . "
       ]
      },
@@ -14231,6 +15193,7 @@
       "endtime": "2862.98",
       "verbs": [],
       "frame_data": [
+       "a box of organic eggs sitting on top of a counter . ",
        "a box that has eggs inside of it . ",
        "a box that is sitting on a table . "
       ]
@@ -14287,6 +15250,7 @@
       "frame_data": [
        "a car is parked on the side of a snowy road . ",
        "a group of people sitting around a table on top of a tv . ",
+       "a group of people sitting on chairs in a room . ",
        "a man and a woman standing next to each other . "
       ]
      },
@@ -14346,6 +15310,7 @@
       ],
       "frame_data": [
        "a baby on a board and a toddler on a snowboard ",
+       "a young child is standing on a snow board . ",
        "a young child riding a snow board in the snow . "
       ]
      },
@@ -14356,6 +15321,7 @@
       "verbs": [],
       "frame_data": [
        "a baby on a board and a toddler on a snowboard ",
+       "a baby on a snowboard and a man on a snowboard . ",
        "a baby on a snowboard is being interviewed by the gma . "
       ]
      },
@@ -14372,7 +15338,10 @@
        }
       ],
       "frame_data": [
-       "a baby on a snowboard and a woman on a snowboard . "
+       "a baby on a snowboard and a child on a snowboard . ",
+       "a baby on a snowboard and a man on a snowboard . ",
+       "a baby on a snowboard and a woman on a snowboard . ",
+       "a woman and a baby on a snowboard . "
       ]
      },
      {
@@ -14395,6 +15364,7 @@
       ],
       "frame_data": [
        "a baby on a baby on a baby on a board . ",
+       "a baby on a board and a woman on a snowboard . ",
        "a baby on a snowboard and a woman on a snowboard . ",
        "a person standing in a room with a laptop . "
       ]
@@ -14431,7 +15401,10 @@
       ],
       "frame_data": [
        "a baby on a snowboard and a woman on a snowboard . ",
-       "a group of people sitting around a tv . "
+       "a group of people sitting around a tv . ",
+       "a group of people sitting in front of a tv . ",
+       "a group of people sitting on a stage in front of a tv . ",
+       "a group of people sitting on a tv set . "
       ]
      },
      {
@@ -14453,7 +15426,8 @@
        }
       ],
       "frame_data": [
-       "a group of people sitting on a couch in a room . "
+       "a group of people sitting on a couch in a room . ",
+       "a group of people sitting on a tv set . "
       ]
      },
      {
@@ -14475,7 +15449,10 @@
        }
       ],
       "frame_data": [
-       "a group of people sitting on a couch in a room . "
+       "a group of people sitting on a couch in a room . ",
+       "a group of people sitting on a stage in front of a tv . ",
+       "a group of people sitting on a stage talking . ",
+       "a group of people sitting on a tv set . "
       ]
      },
      {
@@ -14534,9 +15511,14 @@
       ],
       "frame_data": [
        "a baby on a skateboard in a room . ",
+       "a baby on a snowboard in the middle of a video . ",
        "a baby on a snowboard in the snow . ",
+       "a baby sitting on the ground on top of a skateboard . ",
+       "a group of people sitting in a room . ",
        "a group of people sitting on a stage talking . ",
+       "a man and a little girl playing in the snow . ",
        "a person standing in a yard covered in snow . ",
+       "a woman on a snow board in the snow . ",
        "a young child is playing with a remote control . ",
        "a young girl riding a snow board on top of a snow board . "
       ]
@@ -14554,7 +15536,9 @@
        }
       ],
       "frame_data": [
-       "a man and a child are playing in the snow . "
+       "a man and a child are playing in the snow . ",
+       "a man and a child playing in the snow . ",
+       "a man walking in the snow with a child on a snowboard . "
       ]
      },
      {
@@ -14570,6 +15554,8 @@
        }
       ],
       "frame_data": [
+       "a child is riding a snowboard in the snow . ",
+       "a man and a child are playing in the snow . ",
        "a young child on a snow board in the snow . "
       ]
      },
@@ -14592,7 +15578,8 @@
        }
       ],
       "frame_data": [
-       "a child riding a snow board in the snow . "
+       "a child riding a snow board in the snow . ",
+       "a young child riding a snow board in the snow . "
       ]
      },
      {
@@ -14633,7 +15620,10 @@
       ],
       "frame_data": [
        "a couple of women sitting next to each other on top of a table . ",
-       "a group of people sitting on a stage in front of a tv . "
+       "a group of people sitting in a room talking . ",
+       "a group of people sitting on a couch in a room . ",
+       "a group of people sitting on a stage in front of a tv . ",
+       "a group of people sitting on a tv set . "
       ]
      },
      {
@@ -14674,7 +15664,9 @@
       ],
       "frame_data": [
        "a baby is riding a snow board in the snow . ",
-       "a group of people sitting on a stage in front of a tv . "
+       "a group of people sitting in a room . ",
+       "a group of people sitting on a stage in front of a tv . ",
+       "a group of people sitting on a tv set . "
       ]
      },
      {
@@ -14690,6 +15682,7 @@
        }
       ],
       "frame_data": [
+       "a baby on a board in the snow . ",
        "a baby on a snowboard in the snow . "
       ]
      },
@@ -14699,7 +15692,8 @@
       "endtime": "2997.50",
       "verbs": [],
       "frame_data": [
-       "a baby on a snowboard and a child on a snowboard . "
+       "a baby on a snowboard and a child on a snowboard . ",
+       "a baby on a snowboard and a woman with a baby . "
       ]
      },
      {
@@ -14715,6 +15709,8 @@
        }
       ],
       "frame_data": [
+       "a baby on a snowboard and a video of a toddler on a snowboard . ",
+       "a baby on a snowboard and a woman on a snowboard . ",
        "a woman and a baby on a snowboard . "
       ]
      },
@@ -14737,6 +15733,7 @@
        }
       ],
       "frame_data": [
+       "a baby on a snowboard and a child on a snowboard . ",
        "a baby on a snowboard and a woman on a snowboard . ",
        "a woman riding a snow board on top of snow covered ground . "
       ]
@@ -14760,8 +15757,11 @@
        }
       ],
       "frame_data": [
+       "a baby on a board and a video of a toddler on a slope ",
+       "a baby on a snowboard and a child on a snowboard . ",
        "a baby on a snowboard and a video of a toddler on slopes goes viral ",
-       "a baby on a snowboard and a woman on a snowboard . "
+       "a baby on a snowboard and a woman on a snowboard . ",
+       "a woman riding a snowboard down a snow covered slope . "
       ]
      },
      {
@@ -14849,9 +15849,20 @@
        }
       ],
       "frame_data": [
+       "a baby on a board and a toddler on a snowboard . ",
+       "a baby on a board and a video of a toddler on a slope ",
+       "a baby on a snowboard and a child on a snowboard . ",
        "a baby on a snowboard and a video of a toddler on slopes ",
+       "a baby on a snowboard and a woman on a snowboard . ",
+       "a baby on a snowboard is riding on the slopes . ",
+       "a child is riding a snowboard on the snow . ",
+       "a man riding a snowboard down the side of a snow covered slope . ",
+       "a woman holding a baby on top of a snowboard . ",
        "a woman holding a baby while riding a snowboard . ",
-       "a woman is sitting on a couch in front of a snowy hill . "
+       "a woman is sitting on a couch in front of a snowy hill . ",
+       "a woman riding skis on top of a snow covered slope . ",
+       "a woman sitting on a couch in front of a snow covered hill . ",
+       "a young child riding a snowboard on top of a snow covered slope . "
       ]
      },
      {
@@ -14879,9 +15890,12 @@
        }
       ],
       "frame_data": [
+       "a baby on a board in the snow . ",
        "a baby on a board is riding on the slopes . ",
        "a baby on a snowboard in the snow . ",
-       "a woman sitting in a living room on top of a snow covered slope . "
+       "a woman is sitting on a couch in front of a snowy hill . ",
+       "a woman sitting in a living room on top of a snow covered slope . ",
+       "there is a baby on a snowboard in the snow "
       ]
      },
      {
@@ -14898,6 +15912,7 @@
       ],
       "frame_data": [
        "a baby on a board is riding a snowboard . ",
+       "a baby on a snowboard with a person on a snow board . ",
        "a video of a toddler on a snowboard goes viral . ",
        "a woman on a snowboard in the snow . "
       ]
@@ -14921,6 +15936,7 @@
        }
       ],
       "frame_data": [
+       "a group of people sitting in front of a television . ",
        "a group of people sitting in front of a tv . ",
        "a video of a toddler on a snowboard goes viral . "
       ]
@@ -14938,7 +15954,8 @@
        }
       ],
       "frame_data": [
-       "a group of people sitting in front of a screen . "
+       "a group of people sitting in front of a screen . ",
+       "a group of people sitting in front of a television . "
       ]
      },
      {
@@ -14954,6 +15971,7 @@
        }
       ],
       "frame_data": [
+       "a group of people sitting in front of a screen . ",
        "a group of people sitting in front of a tv . ",
        "a man and a woman sitting on a couch . "
       ]
@@ -14972,6 +15990,7 @@
       ],
       "frame_data": [
        "a couple of people sitting in a living room . ",
+       "a man and a woman sitting in a living room . ",
        "a man and a woman sitting next to each other . "
       ]
      },
@@ -14995,6 +16014,7 @@
       ],
       "frame_data": [
        "a baby on a board in the snow . ",
+       "a couple of people sitting in a living room . ",
        "a man and a woman sitting in a living room . ",
        "there is a baby on a snowboard in the snow "
       ]
@@ -15055,7 +16075,8 @@
       "endtime": "3048.76",
       "verbs": [],
       "frame_data": [
-       "a group of people sitting in a room . "
+       "a group of people sitting in a room . ",
+       "a group of people sitting in front of a tv . "
       ]
      },
      {
@@ -15082,6 +16103,7 @@
       "endtime": "3085.89",
       "verbs": [],
       "frame_data": [
+       "a group of people sitting at a table . ",
        "a woman and a man standing next to each other on the sidewalk . ",
        "two women sitting at a table in front of two men . "
       ]
@@ -15111,6 +16133,8 @@
       ],
       "frame_data": [
        "a woman sitting on a couch holding a wii controller . ",
+       "a woman sitting on a couch next to a child . ",
+       "a woman sitting on top of a couch in a room . ",
        "two people are sitting at a table talking . "
       ]
      },
@@ -15161,6 +16185,7 @@
        }
       ],
       "frame_data": [
+       "a close - up of a computer screen with a logo on it . ",
        "a close - up of a person 's hand on a coffee pot . ",
        "a close up of a person holding a cell phone ",
        "a hand is holding a pair of scissors . ",
@@ -15182,6 +16207,7 @@
       ],
       "frame_data": [
        "a close up of a person holding a cell phone ",
+       "a person standing in a room with a laptop . ",
        "two people standing in front of a sculpture in a room . "
       ]
      },
@@ -15205,6 +16231,7 @@
       ],
       "frame_data": [
        "a close up of a person with their hand on her neck ",
+       "a woman getting her teeth examined by a doctor . ",
        "a woman getting her throat examined by a doctor . ",
        "two women are talking on their cell phones . "
       ]
@@ -15233,6 +16260,7 @@
        }
       ],
       "frame_data": [
+       "a close - up of a computer screen with the words \" know your numbers \". ",
        "a close - up of a tablet screen with the cigna logo . ",
        "a tablet that is sitting on top of a table . "
       ]
@@ -15243,6 +16271,7 @@
       "endtime": "3107.67",
       "verbs": [],
       "frame_data": [
+       "a close - up of a woman 's face as she looks at something . ",
        "a close - up of a woman 's face as she stares at something . ",
        "a close up of a person with a candle "
       ]
@@ -15270,6 +16299,7 @@
       "verbs": [],
       "frame_data": [
        "a woman sitting on a bench in front of a building . ",
+       "a woman sitting on a porch with a man . ",
        "two people sitting on a porch with a tree in the background . "
       ]
      },
@@ -15280,7 +16310,8 @@
       "verbs": [],
       "frame_data": [
        "people sitting on a bench in front of a building . ",
-       "there is an advertisement for cigna . "
+       "there is an advertisement for cigna . ",
+       "two people sitting on a bench talking on a cell phone . "
       ]
      },
      {
@@ -15289,7 +16320,8 @@
       "endtime": "3133.38",
       "verbs": [],
       "frame_data": [
-       "a close up of a person holding a bar "
+       "a close up of a person holding a bar ",
+       "a person holding a bar of larabar in their hand . "
       ]
      },
      {
@@ -15317,7 +16349,9 @@
        }
       ],
       "frame_data": [
-       "a close up of a person holding a bar "
+       "a close up of a person holding a bar ",
+       "a person holding a bar of larabar in their hand . ",
+       "a person is holding a bar in their hand . "
       ]
      },
      {
@@ -15385,7 +16419,8 @@
       "frame_data": [
        "a man and a woman standing in front of a waterfall . ",
        "a person riding a surf board in the ocean . ",
-       "a picture of a cruise ship at night . "
+       "a picture of a cruise ship at night . ",
+       "two women in bikinis standing in front of a waterfall . "
       ]
      },
      {
@@ -15446,6 +16481,7 @@
        }
       ],
       "frame_data": [
+       "a man sitting in the back seat of a car . ",
        "a young girl sitting in the back seat of a car . "
       ]
      },
@@ -15455,7 +16491,8 @@
       "endtime": "3183.93",
       "verbs": [],
       "frame_data": [
-       "a close up of a child with curly hair "
+       "a close up of a child with curly hair ",
+       "a close up of a child with curly hair . "
       ]
      },
      {
@@ -15465,6 +16502,7 @@
       "verbs": [],
       "frame_data": [
        "a young girl sitting in the back seat of a car . ",
+       "an orange sitting next to a happy meal bag . ",
        "an orange sitting next to a red bag of food . "
       ]
      },
@@ -15474,7 +16512,9 @@
       "endtime": "3187.78",
       "verbs": [],
       "frame_data": [
-       "an orange sitting on top of a bag next to an advertisement . "
+       "an orange sitting in front of a bag of food . ",
+       "an orange sitting on top of a bag next to an advertisement . ",
+       "an orange sitting on top of a red bag next to an advertisement . "
       ]
      },
      {
@@ -15538,7 +16578,10 @@
       ],
       "frame_data": [
        "a group of men in blue shirts working on a machine . ",
+       "a truck driving down a street near a large city . ",
        "a truck driving down a street near a tall building . ",
+       "a truck driving down a street past a tall building . ",
+       "a truck driving down a street past tall buildings . ",
        "a woman holding a book in a kitchen . "
       ]
      },
@@ -15557,6 +16600,7 @@
       "frame_data": [
        "a group of chefs preparing food in a commercial kitchen . ",
        "a group of men in blue shirts working on a machine . ",
+       "a man standing next to a trailer holding a phone . ",
        "a man standing next to a white trailer . "
       ]
      },
@@ -15580,6 +16624,7 @@
       ],
       "frame_data": [
        "a group of people standing in front of a wall . ",
+       "there is a row of polo shirts on a rack . ",
        "there is a row of purple polo shirts hanging . "
       ]
      },
@@ -15614,7 +16659,9 @@
        }
       ],
       "frame_data": [
+       "a close up of a person wearing a suit ",
        "a close up of a person wearing a suit and tie ",
+       "a close up of a person with long hair ",
        "a close up of a person with long hair . "
       ]
      },
@@ -15625,7 +16672,8 @@
       "verbs": [],
       "frame_data": [
        "a close up of a person wearing a suit and tie ",
-       "a mop on the floor with the word ready written on it . "
+       "a mop on the floor with the word ready written on it . ",
+       "a person holding onto a mat with the word \" ready \" on it . "
       ]
      },
      {
@@ -15635,6 +16683,7 @@
       "verbs": [],
       "frame_data": [
        "a man in a gray suit and a red neck tie . ",
+       "a man in a suit and tie standing in front of a building . ",
        "a person holding onto a mat with the word \" ready \" on it . "
       ]
      },
@@ -15658,6 +16707,8 @@
       ],
       "frame_data": [
        "a man in a black jacket is holding a pair of gloves . ",
+       "a person in a blue jacket holding a pair of red gloves . ",
+       "a person standing in front of an open cabinet holding a tablet . ",
        "a person wearing a glove and holding a cloth . "
       ]
      },
@@ -15681,6 +16732,7 @@
       ],
       "frame_data": [
        "a person reaching for a box in a cabinet . ",
+       "a person standing in front of an open cabinet holding a tablet . ",
        "a person taking a picture of a shelf in a room . "
       ]
      },
@@ -15742,7 +16794,9 @@
        "a group of people standing in front of a building . ",
        "a man in a gray suit is talking on a cell phone . ",
        "a person playing a video game in a room . ",
-       "a woman standing in a kitchen holding a book . "
+       "a woman holding a cell phone while standing in a kitchen . ",
+       "a woman standing in a kitchen holding a book . ",
+       "a woman standing in a kitchen holding a cell phone . "
       ]
      },
      {
@@ -15759,6 +16813,8 @@
       ],
       "frame_data": [
        "a man and a woman are standing in front of a glass door . ",
+       "a man in a gray suit is holding a fire hydrant . ",
+       "a man in a gray suit is standing in front of a woman . ",
        "a man in a gray suit is talking on a cell phone . "
       ]
      },
@@ -15776,6 +16832,7 @@
       ],
       "frame_data": [
        "a cintas truck driving down a street at dusk . ",
+       "a woman standing in a kitchen next to a counter . ",
        "a woman standing in front of a counter in a kitchen . ",
        "cintas ready for the workday "
       ]
@@ -15794,6 +16851,7 @@
       ],
       "frame_data": [
        "a man standing in front of a large map . ",
+       "a man standing in front of a news desk . ",
        "cintas ready for the workday "
       ]
      },
@@ -15810,7 +16868,8 @@
        }
       ],
       "frame_data": [
-       "a man standing in front of a large map . "
+       "a man standing in front of a large map . ",
+       "a man standing in front of a news desk . "
       ]
      },
      {
@@ -15844,6 +16903,7 @@
        }
       ],
       "frame_data": [
+       "a blue sky with a white cloud in the background . ",
        "a man standing in front of a large map . ",
        "a tv screen with a blue sky in the background . "
       ]
@@ -15918,6 +16978,7 @@
       ],
       "frame_data": [
        "a blue and yellow sign that reads \" breaking news \". ",
+       "a blue background with the words breaking news written on it . ",
        "a cintas advertisement on the side of a building . ",
        "a man standing in a room next to a plant . ",
        "there is a man that is sitting down "
@@ -15948,6 +17009,7 @@
        }
       ],
       "frame_data": [
+       "a man in a suit and tie standing in front of the ocean ",
        "a man wearing a suit and tie . "
       ]
      },
@@ -15970,8 +17032,10 @@
        }
       ],
       "frame_data": [
+       "a man in a suit and tie standing in front of the ocean . ",
        "a man wearing a suit and tie ",
        "a police car is parked in a parking lot . ",
+       "a police car parked on the side of the street . ",
        "an aerial view of a police officer and a fire fighter . "
       ]
      },
@@ -16000,6 +17064,9 @@
        }
       ],
       "frame_data": [
+       "an aerial view of a car parked in a parking lot . ",
+       "an aerial view of a parking lot with a car parked in it . ",
+       "an aerial view of a parking lot with a fire truck parked in front . ",
        "an aerial view of a parking lot with a person in the back of a car . "
       ]
      },
@@ -16028,7 +17095,11 @@
        }
       ],
       "frame_data": [
-       "a fire truck is parked in a parking lot . "
+       "a fire truck is parked in a parking lot . ",
+       "an aerial view of a parking lot and a building . ",
+       "an aerial view of a parking lot with a fire truck . ",
+       "an aerial view of a parking lot with a fire truck parked in front . ",
+       "an aerial view of a parking lot with cars parked on it . "
       ]
      },
      {
@@ -16037,6 +17108,7 @@
       "endtime": "3419.46",
       "verbs": [],
       "frame_data": [
+       "a close - up of a blue and yellow table . ",
        "a close - up of a logo for a television station . ",
        "a red fire truck parked on the side of the road . "
       ]
@@ -16085,7 +17157,13 @@
       ],
       "frame_data": [
        "a close - up of a logo for a television station . ",
-       "a woman standing in front of a blue and white weather forecast . "
+       "a person standing in front of a weather forecast . ",
+       "a weather forecast showing a bright sun . ",
+       "a woman standing in front of a blue and white weather forecast . ",
+       "a woman standing in front of a tv screen . ",
+       "a woman standing in front of a weather forecast . ",
+       "a woman walking in front of a weather forecast screen . ",
+       "a woman walking in front of a weather station . "
       ]
      },
      {
@@ -16125,7 +17203,8 @@
        }
       ],
       "frame_data": [
-       "a weather forecast for the valley 's inland empire . "
+       "a weather forecast for the valley 's inland empire . ",
+       "a weather forecast for the valley and inland empire . "
       ]
      },
      {
@@ -16154,7 +17233,8 @@
       ],
       "frame_data": [
        "a forecast for the 7 days of the week . ",
-       "a weather forecast for the valley 's inland empire . "
+       "a weather forecast for the valley 's inland empire . ",
+       "a weather forecast for the valley and inland empire . "
       ]
      },
      {
@@ -16203,6 +17283,7 @@
        }
       ],
       "frame_data": [
+       "a map showing the location of the closure of a freeway . ",
        "a map showing the location of the closure of the 4 0 5 . ",
        "a screen shot of a map of a freeway . "
       ]
@@ -16220,7 +17301,8 @@
        }
       ],
       "frame_data": [
-       "a woman standing in front of a large screen . "
+       "a woman standing in front of a large screen . ",
+       "a woman standing in front of a map . "
       ]
      },
      {
@@ -16229,7 +17311,9 @@
       "endtime": "3459.84",
       "verbs": [],
       "frame_data": [
-       "a woman standing in front of a map . "
+       "a woman in a red dress points at a map . ",
+       "a woman standing in front of a map . ",
+       "a woman standing in front of a traffic map . "
       ]
      },
      {
@@ -16245,7 +17329,9 @@
        }
       ],
       "frame_data": [
-       "a woman in a red dress points to a map . "
+       "a woman in a red dress points to a map . ",
+       "a woman standing in front of a map of traffic . ",
+       "a woman standing in front of a traffic map . "
       ]
      },
      {
@@ -16267,7 +17353,8 @@
        }
       ],
       "frame_data": [
-       "a woman in a red dress points to a map . "
+       "a woman in a red dress points to a map . ",
+       "a woman standing in front of a map of traffic . "
       ]
      },
      {
@@ -16276,7 +17363,9 @@
       "endtime": "3469.05",
       "verbs": [],
       "frame_data": [
-       "a woman standing in front of a traffic map . "
+       "a woman standing in front of a map of traffic . ",
+       "a woman standing in front of a traffic map . ",
+       "a woman standing in front of an interactive map . "
       ]
      },
      {
@@ -16299,6 +17388,8 @@
       ],
       "frame_data": [
        "a man in a suit and tie . ",
+       "a man in a suit and tie on a television set . ",
+       "a man wearing a suit and tie ",
        "a woman standing in front of a traffic map . "
       ]
      },
@@ -16308,7 +17399,8 @@
       "endtime": "3476.50",
       "verbs": [],
       "frame_data": [
-       "a close up of a person wearing a suit and tie "
+       "a close up of a person wearing a suit and tie ",
+       "a man wearing a suit and tie "
       ]
      },
      {
@@ -16324,6 +17416,7 @@
        }
       ],
       "frame_data": [
+       "a man in a suit and tie . ",
        "a man wearing a suit and tie "
       ]
      },
@@ -16346,7 +17439,9 @@
        }
       ],
       "frame_data": [
-       "a man in a suit and a tie "
+       "a man in a suit and a tie ",
+       "a man in a suit and tie . ",
+       "a man wearing a suit and tie "
       ]
      },
      {
@@ -16362,7 +17457,9 @@
        }
       ],
       "frame_data": [
-       "a man in a suit and a tie "
+       "a man in a suit and a tie ",
+       "a man in a suit and tie . ",
+       "a man wearing a suit and tie "
       ]
      }
     ]

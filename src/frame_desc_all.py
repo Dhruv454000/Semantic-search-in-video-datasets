@@ -32,7 +32,6 @@ def get_image(frames, video_file, folder_path):
     for command in ffmpeg_commands:
         subprocess.run(command, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
-
 def process_video_frames(video_file, json_file, folder_path):
     with open(json_file) as f:
         data = json.load(f)
@@ -67,20 +66,16 @@ def process_video_frames(video_file, json_file, folder_path):
     
     with open(json_file, 'w') as f:
         json.dump(data, f, indent=1)
+        
+def main():
 
-
-def main(video_file, json_file, folder_path):
-
-    # Process video frames
-    process_video_frames(video_file, json_file, folder_path)
-
+    video_files = [f for f in os.listdir("videos_dhruv") if f.endswith('.mp4')]
+    
+    for file_name in video_files:
+        input_file = os.path.join("videos_dhruv", file_name)
+        json_file = os.path.join("output_data", f"{file_name[:-4]}.v4.json")
+        process_video_frames(input_file, json_file, "frames/")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Process video frames and generate frame data")
-    parser.add_argument("video_file", type=str, help="Input video file path")
-    parser.add_argument("json_file", type=str, help="Input JSON file path")
-    parser.add_argument("folder_path", type=str, help="Folder path to store frames")
-    args = parser.parse_args()
-
-    main(args.video_file, args.json_file, args.folder_path)
+    main()
 
