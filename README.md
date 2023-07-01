@@ -20,9 +20,11 @@ To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.sit
 
 7. To Download videos :
 
-   First do  ```cd videos_dhruv```
+   First do  ```mkdir videos_dhruv``` then ```cd videos_dhruv```
 
-   Download videos from [here.](https://drive.google.com/drive/folders/1lreNRRVrBYWALZxHeQcsEcivk-jMTOQQ?usp=sharing) 
+   Download videos from [here.](https://drive.google.com/drive/folders/1lreNRRVrBYWALZxHeQcsEcivk-jMTOQQ?usp=sharing)
+
+8. Do ```mkdir frames``` in which ffmpeg frames will be temporarily stored.
 
 # Running Scripts
 
