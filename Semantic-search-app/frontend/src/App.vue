@@ -1,29 +1,33 @@
 <template>
   <div class="container">
-    <h1>Search</h1>
-    <div>
+    <h1 class="title">Search for videos</h1>
+    <div class="input-group">
       <label for="text-desc">Text Description:</label>
       <input type="text" id="text-desc" v-model="textDesc" />
     </div>
-    <div>
+    <div class="input-group">
       <label for="video-desc">Video Description:</label>
       <input type="text" id="video-desc" v-model="videoDesc" />
     </div>
     <div>
-      <button @click="search">Search</button>
+      <button @click="search" class="search-button">Search</button>
     </div>
-    <div v-if="loading">Loading...</div>
-    <div v-if="results.length">
+    <div v-if="loading" class="loading">Loading...</div>
+    <div v-if="results && results.length">
       <h2>Results</h2>
-      <ul>
-        <li v-for="(result, index) in results" :key="index">
-          <h3>Video ID: {{ result.video_id }}</h3>
-          <p>Text: {{ result.text }}</p>
-          <p>Start Time: {{ result.starttime }}</p>
-          <p>End Time: {{ result.endtime }}</p>
-          <p>Metadata: {{ result.metadata }}</p>
-        </li>
-      </ul>
+      <div class="card-container">
+        <div v-for="(result, index) in paginatedResults" :key="index" class="card">
+          <h3 class="video-id">Video ID: {{ result.video_id }}</h3>
+          <p class="text">Text: {{ result.text }}</p>
+          <p class="start-time">Start Time: {{ result.starttime }}</p>
+          <p class="end-time">End Time: {{ result.endtime }}</p>
+          <p class="metadata">Metadata: {{ result.metadata }}</p>
+        </div>
+      </div>
+      <div class="pagination">
+        <button @click="goToPreviousPage" :disabled="currentPage === 0">Previous</button>
+        <button @click="goToNextPage" :disabled="currentPage === totalPages - 1">Next</button>
+      </div>
     </div>
   </div>
 </template>
@@ -38,7 +42,19 @@ export default {
       videoDesc: "",
       results: [],
       loading: false,
+      itemsPerPage: 3, // Number of results to display per page
+      currentPage: 0, // Current page index
     };
+  },
+  computed: {
+    totalPages() {
+      return Math.ceil(this.results.length / this.itemsPerPage);
+    },
+    paginatedResults() {
+      const startIndex = this.currentPage * this.itemsPerPage;
+      const endIndex = startIndex + this.itemsPerPage;
+      return this.results.slice(startIndex, endIndex);
+    },
   },
   methods: {
     async search() {
@@ -50,22 +66,26 @@ export default {
             video_desc: this.videoDesc,
           },
         });
-        this.results = response.data.data.Get.Video_text_description;
+        if (Object.prototype.hasOwnProperty.call(response.data.data.Get, "Video_text_description")) 
+        {
+            this.results = response.data.data.Get.Video_text_description;
+        } 
+        else if(Object.prototype.hasOwnProperty.call(response.data.data.Get, "Video_text"))
+        {
+            this.results = response.data.data.Get.Video_text;
+        }
+        else this.results = response.data.data.Get.Video_description; 
       } catch (error) {
         console.error(error);
       } finally {
         this.loading = false;
       }
     },
-  },
-  watch: {
-    results: {
-      handler() {
-        this.$nextTick(() => {
-          // Additional view-related operations if needed
-        });
-      },
-      deep: true,
+    goToPreviousPage() {
+      this.currentPage--;
+    },
+    goToNextPage() {
+      this.currentPage++;
     },
   },
 };
@@ -75,5 +95,105 @@ export default {
 .container {
   max-width: 600px;
   margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.input-group {
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.search-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.search-button:hover {
+  background-color: #0056b3;
+}
+
+.loading {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.card {
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 20px;
+  margin-bottom: 10px;
+  background-color: #f9f9f9;
+}
+
+.video-id {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.text,
+.start-time,
+.end-time,
+.metadata {
+  margin-bottom: 10px;
+}
+
+.pagination {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.pagination button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin: 0 5px;
+}
+
+.pagination button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.pagination button:hover {
+  background-color: #0056b3;
 }
 </style>
