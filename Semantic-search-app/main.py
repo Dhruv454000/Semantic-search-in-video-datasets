@@ -16,7 +16,7 @@ app.add_middleware(
 )
 
 @app.get("/search")
-def search(text_desc: str, video_desc: str):
+def search(text_desc: str, video_desc: str, n_records: int, min_distance: float):
     print(len(text_desc))
     print(len(video_desc))
     if(len(text_desc) != 0 and len(video_desc) != 0):
@@ -24,8 +24,8 @@ def search(text_desc: str, video_desc: str):
         vector = model.encode(combined_text)
 
         response = weaviate.query.get("Video_text_description", ["text", "starttime", "endtime", "metadata", "video_id"]) \
-            .with_near_vector({"vector": vector}) \
-            .with_limit(5) \
+            .with_near_vector({"vector": vector, "distance":min_distance }) \
+            .with_limit(n_records) \
             .with_additional(["distance"]) \
             .do()
 
@@ -34,8 +34,8 @@ def search(text_desc: str, video_desc: str):
     elif(len(text_desc) != 0):
         vector = model.encode(text_desc)
         response = weaviate.query.get("Video_text", ["text", "starttime", "endtime", "metadata", "video_id"]) \
-            .with_near_vector({"vector": vector}) \
-            .with_limit(5) \
+            .with_near_vector({"vector": vector, "distance":min_distance }) \
+            .with_limit(n_records) \
             .with_additional(["distance"]) \
             .do()
         
@@ -44,11 +44,10 @@ def search(text_desc: str, video_desc: str):
     else:
         vector = model.encode(video_desc)
         response = weaviate.query.get("Video_text", ["text", "starttime", "endtime", "metadata", "video_id"]) \
-            .with_near_vector({"vector": vector}) \
-            .with_limit(5) \
+            .with_near_vector({"vector": vector, "distance":min_distance }) \
+            .with_limit(n_records) \
             .with_additional(["distance"]) \
             .do()
-        
         print(response)
         return response
         

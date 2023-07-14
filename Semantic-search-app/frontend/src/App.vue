@@ -9,6 +9,14 @@
       <label for="video-desc">Video Description:</label>
       <input type="text" id="video-desc" v-model="videoDesc" />
     </div>
+    <div class="input-group">
+      <label for="no-of-records">No of Records:</label>
+      <input type="number" id="no-of-records" v-model="noOfRecords" />
+    </div>
+    <div class="input-group">
+      <label for="minimum-distance">Minimum Distance:</label>
+      <input type="number" id="minimum-distance" v-model="minimumDistance" />
+    </div>
     <div>
       <button @click="search" class="search-button">Search</button>
     </div>
@@ -22,6 +30,7 @@
           <p class="start-time">Start Time: {{ result.starttime }}</p>
           <p class="end-time">End Time: {{ result.endtime }}</p>
           <p class="metadata">Metadata: {{ result.metadata }}</p>
+          <p class="additional-info">Distance: {{ result._additional.distance }}</p>
         </div>
       </div>
       <div class="pagination">
@@ -40,6 +49,8 @@ export default {
     return {
       textDesc: "",
       videoDesc: "",
+      noOfRecords: 0,
+      minimumDistance: 1,
       results: [],
       loading: false,
       itemsPerPage: 3, // Number of results to display per page
@@ -64,17 +75,17 @@ export default {
           params: {
             text_desc: this.textDesc,
             video_desc: this.videoDesc,
+            n_records: this.noOfRecords,
+            min_distance: this.minimumDistance,
           },
         });
-        if (Object.prototype.hasOwnProperty.call(response.data.data.Get, "Video_text_description")) 
-        {
-            this.results = response.data.data.Get.Video_text_description;
-        } 
-        else if(Object.prototype.hasOwnProperty.call(response.data.data.Get, "Video_text"))
-        {
-            this.results = response.data.data.Get.Video_text;
+        if (Object.prototype.hasOwnProperty.call(response.data.data.Get, "Video_text_description")) {
+          this.results = response.data.data.Get.Video_text_description;
+        } else if (Object.prototype.hasOwnProperty.call(response.data.data.Get, "Video_text")) {
+          this.results = response.data.data.Get.Video_text;
+        } else {
+          this.results = response.data.data.Get.Video_description;
         }
-        else this.results = response.data.data.Get.Video_description; 
       } catch (error) {
         console.error(error);
       } finally {
@@ -114,7 +125,8 @@ label {
   margin-bottom: 5px;
 }
 
-input[type="text"] {
+input[type="text"],
+input[type="number"] {
   width: 100%;
   padding: 10px;
   font-size: 16px;
@@ -168,6 +180,10 @@ input[type="text"] {
 .start-time,
 .end-time,
 .metadata {
+  margin-bottom: 10px;
+}
+
+.additional-info {
   margin-bottom: 10px;
 }
 
