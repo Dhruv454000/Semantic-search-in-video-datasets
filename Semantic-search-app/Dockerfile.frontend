@@ -1,0 +1,23 @@
+# Use the official Node.js base image
+FROM node:14
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Copy the frontend files to the container
+COPY frontend/package.json /app/
+COPY frontend/babel.config.js /app/
+COPY frontend/src /app/src/
+COPY frontend/public /app/public/
+
+# Install dependencies, including Babel
+RUN npm install @babel/core @babel/preset-env @babel/preset-react --save-dev
+
+# Install other dependencies
+RUN npm install
+
+# Expose the port used by the Vue.js frontend
+EXPOSE 8030
+
+# Start the Vue.js server
+CMD ["npm", "run", "serve"]
