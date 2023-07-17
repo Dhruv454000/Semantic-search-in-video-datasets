@@ -19,6 +19,7 @@
     </div>
     <div>
       <button @click="search" class="search-button">Search</button>
+      <button @click="downloadCSV" class="download-button">Download CSV</button>
     </div>
     <div v-if="loading" class="loading">Loading...</div>
     <div v-if="results && results.length">
@@ -31,6 +32,7 @@
           <p class="end-time">End Time: {{ result.endtime }}</p>
           <p class="metadata">Metadata: {{ result.metadata }}</p>
           <p class="additional-info">Distance: {{ result._additional.distance }}</p>
+          <p class="additional-info">Video Link: {{ generateVideoLink(result.video_id, result.starttime, result.endtime) }}</p>
         </div>
       </div>
       <div class="pagination">
@@ -43,6 +45,7 @@
 
 <script>
 import axios from "axios";
+import { saveAs } from "file-saver";
 
 export default {
   data() {
@@ -98,6 +101,51 @@ export default {
     goToNextPage() {
       this.currentPage++;
     },
+    // Method to generate the video link based on video ID, start time, and end time
+    generateVideoLink(videoId, startTime, endTime) {
+      const videoLink = `https://gallo.case.edu/cgi-bin/snippets/newsscape_mp4_snippet.cgi?file=${videoId}&start=${startTime}&end=${endTime}`;
+      return videoLink;
+    },
+    // Method to download the results as a CSV file
+    
+    generateCSVRow(data) {
+      const csvValues = Object.values(data);
+      const formattedValues = csvValues.map((value) => {
+        // Check if the value contains commas or double quotes, and escape them if necessary
+        if (/[,"]/.test(value)) {
+          return `"${value.replace(/"/g, '""')}"`;
+        }
+        return value;
+      });
+      return formattedValues.join(",");
+    },
+
+    // Method to download the results as a CSV file
+    downloadCSV() {
+      const csvData = this.results.map((result) => {
+        return {
+          "Video ID": result.video_id,
+          Text: result.text,
+          "Start Time": result.starttime,
+          "End Time": result.endtime,
+          Metadata: result.metadata,
+          Distance: result._additional.distance,
+          "Video Link": this.generateVideoLink(result.video_id, result.starttime, result.endtime),
+        };
+      });
+
+      const headers = Object.keys(csvData[0]);
+      const csvRows = [headers.map((header) => `"${header}"`).join(",")];
+
+      csvData.forEach((data) => {
+        const row = this.generateCSVRow(data);
+        csvRows.push(row);
+      });
+
+      const csvContent = csvRows.join("\r\n");
+      const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+      saveAs(blob, "search_results.csv");
+    },
   },
 };
 </script>
@@ -143,6 +191,22 @@ input[type="number"] {
   font-size: 16px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+}
+
+.download-button {
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-left: 10px;
+}
+
+.download-button:hover {
+  background-color: #218838;
 }
 
 .search-button:hover {
