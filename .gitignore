@@ -6,3 +6,5 @@ extra_codes/
 semantic_search_env/
 
 .ipynb_checkpoints
+
+weaviate_data

@@ -4,7 +4,7 @@ from weaviate import Client as WeaviateClient
 from sentence_transformers import SentenceTransformer
 
 app = FastAPI()
-weaviate = WeaviateClient("http://localhost:8080")
+weaviate = WeaviateClient("http://weaviate:8080")
 model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
 app.add_middleware(

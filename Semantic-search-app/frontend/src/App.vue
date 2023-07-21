@@ -9,8 +9,17 @@
       <label for="video-desc">Video Description:</label>
       <input type="text" id="video-desc" v-model="videoDesc" />
     </div>
+    <div class="input-group">
+      <label for="no-of-records">No of Records:</label>
+      <input type="number" id="no-of-records" v-model="noOfRecords" />
+    </div>
+    <div class="input-group">
+      <label for="minimum-distance">Minimum Distance:</label>
+      <input type="number" id="minimum-distance" v-model="minimumDistance" />
+    </div>
     <div>
       <button @click="search" class="search-button">Search</button>
+      <button @click="downloadCSV" class="download-button">Download CSV</button>
     </div>
     <div v-if="loading" class="loading">Loading...</div>
     <div v-if="results && results.length">
@@ -22,6 +31,8 @@
           <p class="start-time">Start Time: {{ result.starttime }}</p>
           <p class="end-time">End Time: {{ result.endtime }}</p>
           <p class="metadata">Metadata: {{ result.metadata }}</p>
+          <p class="additional-info">Distance: {{ result._additional.distance }}</p>
+          <p class="additional-info">Video Link: {{ generateVideoLink(result.video_id, result.starttime, result.endtime) }}</p>
         </div>
       </div>
       <div class="pagination">
@@ -34,12 +45,15 @@
 
 <script>
 import axios from "axios";
+import { saveAs } from "file-saver";
 
 export default {
   data() {
     return {
       textDesc: "",
       videoDesc: "",
+      noOfRecords: 0,
+      minimumDistance: 1,
       results: [],
       loading: false,
       itemsPerPage: 3, // Number of results to display per page
@@ -60,21 +74,21 @@ export default {
     async search() {
       this.loading = true;
       try {
-        const response = await axios.get("http://localhost:8000/search", {
+        const response = await axios.get("http://backend:8000/search", {
           params: {
             text_desc: this.textDesc,
             video_desc: this.videoDesc,
+            n_records: this.noOfRecords,
+            min_distance: this.minimumDistance,
           },
         });
-        if (Object.prototype.hasOwnProperty.call(response.data.data.Get, "Video_text_description")) 
-        {
-            this.results = response.data.data.Get.Video_text_description;
-        } 
-        else if(Object.prototype.hasOwnProperty.call(response.data.data.Get, "Video_text"))
-        {
-            this.results = response.data.data.Get.Video_text;
+        if (Object.prototype.hasOwnProperty.call(response.data.data.Get, "Video_text_description")) {
+          this.results = response.data.data.Get.Video_text_description;
+        } else if (Object.prototype.hasOwnProperty.call(response.data.data.Get, "Video_text")) {
+          this.results = response.data.data.Get.Video_text;
+        } else {
+          this.results = response.data.data.Get.Video_description;
         }
-        else this.results = response.data.data.Get.Video_description; 
       } catch (error) {
         console.error(error);
       } finally {
@@ -86,6 +100,51 @@ export default {
     },
     goToNextPage() {
       this.currentPage++;
+    },
+    // Method to generate the video link based on video ID, start time, and end time
+    generateVideoLink(videoId, startTime, endTime) {
+      const videoLink = `https://gallo.case.edu/cgi-bin/snippets/newsscape_mp4_snippet.cgi?file=${videoId}&start=${startTime}&end=${endTime}`;
+      return videoLink;
+    },
+    // Method to download the results as a CSV file
+    
+    generateCSVRow(data) {
+      const csvValues = Object.values(data);
+      const formattedValues = csvValues.map((value) => {
+        // Check if the value contains commas or double quotes, and escape them if necessary
+        if (/[,"]/.test(value)) {
+          return `"${value.replace(/"/g, '""')}"`;
+        }
+        return value;
+      });
+      return formattedValues.join(",");
+    },
+
+    // Method to download the results as a CSV file
+    downloadCSV() {
+      const csvData = this.results.map((result) => {
+        return {
+          "Video ID": result.video_id,
+          Text: result.text,
+          "Start Time": result.starttime,
+          "End Time": result.endtime,
+          Metadata: result.metadata,
+          Distance: result._additional.distance,
+          "Video Link": this.generateVideoLink(result.video_id, result.starttime, result.endtime),
+        };
+      });
+
+      const headers = Object.keys(csvData[0]);
+      const csvRows = [headers.map((header) => `"${header}"`).join(",")];
+
+      csvData.forEach((data) => {
+        const row = this.generateCSVRow(data);
+        csvRows.push(row);
+      });
+
+      const csvContent = csvRows.join("\r\n");
+      const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+      saveAs(blob, "search_results.csv");
     },
   },
 };
@@ -114,7 +173,8 @@ label {
   margin-bottom: 5px;
 }
 
-input[type="text"] {
+input[type="text"],
+input[type="number"] {
   width: 100%;
   padding: 10px;
   font-size: 16px;
@@ -131,6 +191,22 @@ input[type="text"] {
   font-size: 16px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+}
+
+.download-button {
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-left: 10px;
+}
+
+.download-button:hover {
+  background-color: #218838;
 }
 
 .search-button:hover {
@@ -168,6 +244,10 @@ input[type="text"] {
 .start-time,
 .end-time,
 .metadata {
+  margin-bottom: 10px;
+}
+
+.additional-info {
   margin-bottom: 10px;
 }
 
