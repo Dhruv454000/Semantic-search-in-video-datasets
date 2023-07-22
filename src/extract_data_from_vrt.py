@@ -89,8 +89,12 @@ def extract_metadata_and_sentences(input_file):
             count = 1
             # Append the previous sentence to the list
             if current_sentence:
+                if (starttime == "0.00" or starttime == "0.0") and all_verbs != []:
+                    starttime = all_verbs[0]["vstart"]
                 if endtime == "0.0" or float(starttime) >= float(endtime):
                     endtime = endtime_execption
+                if endtime == "0.0" and all_verbs != []:
+                    endtime = all_verbs[len(all_verbs)-1]["vend"]
                 current_sentence = current_sentence.replace('&apos;', "'")
                 sentence_info = {
                     "sentence": current_sentence.strip(),
