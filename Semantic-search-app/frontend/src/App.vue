@@ -9,14 +9,17 @@
       <label for="video-desc">Video Description:</label>
       <input type="text" id="video-desc" v-model="videoDesc" />
     </div>
-    <div class="input-group">
-      <label for="no-of-records">No of Records:</label>
-      <input type="number" id="no-of-records" v-model="noOfRecords" />
-    </div>
-    <div class="input-group">
-      <label for="minimum-distance">Minimum Distance:</label>
-      <input type="number" id="minimum-distance" v-model="minimumDistance" />
-    </div>
+   <div class="input-group">
+    <label for="no-of-records">No of Records:</label>
+    <input type="number" id="no-of-records" v-model="noOfRecords" @focus="showNoOfRecordsTooltip = true" @input="showNoOfRecordsTooltip = false" />
+    <div class="tooltip" v-if="showNoOfRecordsTooltip">Enter the number of records you want.</div>
+  </div>
+
+  <div class="input-group">
+    <label for="minimum-distance">Minimum Distance:</label>
+    <input type="number" id="minimum-distance" v-model="minimumDistance" @focus="showMinimumDistanceTooltip = true" @input="showMinimumDistanceTooltip = false" />
+    <div class="tooltip" v-if="showMinimumDistanceTooltip">Enter distance between (0,1]. More closer to 0 means better results.</div>
+  </div>
     <div>
       <button @click="search" class="search-button">Search</button>
       <button @click="downloadCSV" class="download-button">Download CSV</button>
@@ -52,12 +55,14 @@ export default {
     return {
       textDesc: "",
       videoDesc: "",
-      noOfRecords: 0,
+      noOfRecords: 1,
       minimumDistance: 1,
       results: [],
       loading: false,
       itemsPerPage: 3, // Number of results to display per page
       currentPage: 0, // Current page index
+      showNoOfRecordsTooltip: false,
+      showMinimumDistanceTooltip: false,
     };
   },
   computed: {
@@ -74,7 +79,7 @@ export default {
     async search() {
       this.loading = true;
       try {
-        const response = await axios.get("http://localhost:8000/search", {
+        const response = await axios.get("http://labyrinth01.inf.um.es:8000/search", {
           params: {
             text_desc: this.textDesc,
             video_desc: this.videoDesc,
@@ -166,6 +171,7 @@ export default {
 
 .input-group {
   margin-bottom: 10px;
+  position: relative; /* Needed for positioning the tooltip */
 }
 
 label {
@@ -180,6 +186,36 @@ input[type="number"] {
   font-size: 16px;
   border: 1px solid #ddd;
   border-radius: 4px;
+  transition: border-color 0.3s ease; /* Add a smooth transition on border color change */
+}
+
+/* Style for tooltip */
+.tooltip {
+  position: absolute;
+  top: -30px; /* Adjust the position of the tooltip above the input field */
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 5px;
+  border-radius: 4px;
+  font-size: 12px;
+  white-space: nowrap;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s, visibility 0.2s;
+  pointer-events: none; /* Prevent the tooltip from affecting the input interaction */
+}
+
+.input-group:hover .tooltip {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Style for input fields when hovered */
+input[type="text"]:hover,
+input[type="number"]:hover {
+  border-color: #007bff; /* Change the border color on hover */
 }
 
 .search-button {
