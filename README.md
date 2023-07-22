@@ -66,9 +66,7 @@ To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.sit
 
     Change below search url in frontend App.vue (axios.get):
 
-    Replace this with "http://labyrinth01.inf.um.es:8000/search"
-
-    "http://localhost:8000/search"
+    Replace this "http://labyrinth01.inf.um.es:8000/search" with "http://localhost:8000/search"
     ```
     docker compose build  (if it gives error do sudo docker compose build)
 
