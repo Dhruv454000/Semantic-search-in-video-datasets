@@ -1,0 +1,6 @@
+huggingface-hub==0.15.1
+numpy==1.25.0
+open-clip-torch==2.20.0
+sentence-transformers==2.2.2
+transformers==4.30.2
+weaviate-client==3.21.0
