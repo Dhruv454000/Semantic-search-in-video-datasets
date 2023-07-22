@@ -72,7 +72,9 @@ To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.sit
 
     docker compose up
 
-    open (http://localhost:8030/) in your browser.
+    Only if you are using any server : ssh -L 8030:localhost:8030 user@domain
+
+    open (http://localhost:8030/) in your browser to see the app running.
 
 
 
