@@ -39,3 +39,4 @@ services:
       - 8030:8080
     depends_on:
       - backend
+    

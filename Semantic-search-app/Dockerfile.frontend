@@ -13,6 +13,7 @@ COPY frontend/public /app/public/
 # Install dependencies, including Babel
 RUN npm install @babel/core @babel/preset-env @babel/preset-react --save-dev
 
+
 # Install other dependencies
 RUN npm install
 
