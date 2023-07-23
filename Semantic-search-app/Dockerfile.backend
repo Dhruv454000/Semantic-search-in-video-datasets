@@ -12,10 +12,10 @@ COPY backend/requirements.txt /app/
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Expose the port used by the FastAPI backend
-EXPOSE 8000
+EXPOSE 8040
 
 RUN pip install uvicorn
 RUN pip install fastapi
 
 # Start the FastAPI server
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8040"]
