@@ -62,17 +62,17 @@ To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.sit
     (after doing this open weaviate_data_populate notebook and run it once, so that your weaviate_data is stored, this is required only once in the start then next time weaviate will keep your data stored permanently)
 
     ```
-    If you are using your own machine or laptop to run this app and not labyrinth01 or any other server :
+    This part is only for those who are using labyrinth01 or any other server :  
 
     Change below search url in frontend App.vue (axios.get):
 
-    Replace this "http://labyrinth01.inf.um.es:8000/search" with "http://localhost:8000/search"
+    use this "http://labyrinth01.inf.um.es:8000/search" instead of "http://localhost:8000/search"
     ```
     docker compose build  (if it gives error do sudo docker compose build)
 
     docker compose up
 
-    Only if you are using any server : ssh -L 8030:localhost:8030 user@domain
+    This step is only if you are using any server : ssh -L 8030:localhost:8030 user@domain
 
     open (http://localhost:8030/) in your browser to see the app running.
 
