@@ -13,7 +13,7 @@ services:
       - 8080:8080
     restart: on-failure:1
     volumes:
-      - ./weaviate_data:/var/lib/weaviate # <== set a volume here
+      - weaviate_data:/var/lib/weaviate # <== set a volume here
     environment:
       QUERY_DEFAULTS_LIMIT: 25
       AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
@@ -28,6 +28,9 @@ services:
       dockerfile: Dockerfile.backend
     ports:
       - 8000:8000
+    volumes:
+      - ./backend:/app
+    command: uvicorn main:app --reload --host 0.0.0.0 --port 8000
     depends_on:
       - weaviate
 
@@ -37,6 +40,12 @@ services:
       dockerfile: Dockerfile.frontend
     ports:
       - 8030:8080
+    volumes:
+      - './frontend:/app'
+      - '/app/node_modules'
     depends_on:
       - backend
+
+volumes:
+  weaviate_data:
     

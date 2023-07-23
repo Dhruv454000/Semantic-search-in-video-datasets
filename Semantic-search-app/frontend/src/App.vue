@@ -79,7 +79,7 @@ export default {
     async search() {
       this.loading = true;
       try {
-        const response = await axios.get("http://labyrinth01.inf.um.es:8000/search", {
+        const response = await axios.get("http://localhost:8000/search", {
           params: {
             text_desc: this.textDesc,
             video_desc: this.videoDesc,
