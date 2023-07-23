@@ -13,7 +13,7 @@ services:
       - 8080:8080
     restart: on-failure:1
     volumes:
-      - weaviate_data:/var/lib/weaviate # <== set a volume here
+      - ./weaviate_data:/var/lib/weaviate # <== set a volume here
     environment:
       QUERY_DEFAULTS_LIMIT: 25
       AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
@@ -45,7 +45,4 @@ services:
       - '/app/node_modules'
     depends_on:
       - backend
-
-volumes:
-  weaviate_data:
     
