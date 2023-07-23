@@ -54,3 +54,28 @@ To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.sit
 3. To connect to weaviate and populate data in weaviate see ```weaviate_data_populate.ipynb```
 
 
+4. To run the Semantic Search App
+
+    cd Semantic-search-app
+
+    mkdir weaviate_data  
+    (after doing this open weaviate_data_populate notebook and run it once, so that your weaviate_data is stored, this is required only once in the start then next time weaviate will keep your data stored permanently)
+
+    ```
+    This part is only for those who are using labyrinth01 or any other server :  
+
+    Change below search url in frontend App.vue (axios.get):
+
+    use this "http://labyrinth01.inf.um.es:8000/search" instead of "http://localhost:8000/search"
+    ```
+    docker compose build  (if it gives error do sudo docker compose build)
+
+    docker compose up
+
+    This step is only if you are using any server : ssh -L 8030:localhost:8030 user@domain
+
+    open (http://localhost:8030/) in your browser to see the app running.
+
+
+
+
