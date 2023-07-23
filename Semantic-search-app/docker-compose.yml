@@ -27,7 +27,7 @@ services:
       context: .
       dockerfile: Dockerfile.backend
     ports:
-      - 8000:8000
+      - 8040:8040
     depends_on:
       - weaviate
 

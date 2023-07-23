@@ -9,7 +9,7 @@ model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:8030"], 
+    allow_origins=["http://labyrinth01.inf.um.es:8030"], 
     allow_credentials=True,
     allow_methods=["GET", "POST"],
     allow_headers=["*"],
