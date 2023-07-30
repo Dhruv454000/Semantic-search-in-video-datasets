@@ -9,35 +9,45 @@
       <label for="video-desc">Video Description:</label>
       <input type="text" id="video-desc" v-model="videoDesc" />
     </div>
-   <div class="input-group">
-    <label for="no-of-records">No of Records:</label>
-    <input type="number" id="no-of-records" v-model="noOfRecords" @focus="showNoOfRecordsTooltip = true" @input="showNoOfRecordsTooltip = false" />
-    <div class="tooltip" v-if="showNoOfRecordsTooltip">Enter the number of records you want.</div>
-  </div>
+    <div class="input-group">
+      <label for="no-of-records">No of Records:</label>
+      <input type="number" id="no-of-records" v-model="noOfRecords" @focus="showNoOfRecordsTooltip = true" @input="showNoOfRecordsTooltip = false" />
+      <div class="tooltip" v-if="showNoOfRecordsTooltip">Enter the number of records you want.</div>
+    </div>
 
-  <div class="input-group">
-    <label for="minimum-distance">Minimum Distance:</label>
-    <input type="number" id="minimum-distance" v-model="minimumDistance" @focus="showMinimumDistanceTooltip = true" @input="showMinimumDistanceTooltip = false" />
-    <div class="tooltip" v-if="showMinimumDistanceTooltip">Enter distance between (0,1]. More closer to 0 means better results.</div>
-  </div>
+    <div class="input-group">
+      <label for="minimum-distance">Minimum Distance:</label>
+      <input type="number" id="minimum-distance" v-model="minimumDistance" @focus="showMinimumDistanceTooltip = true" @input="showMinimumDistanceTooltip = false" />
+      <div class="tooltip" v-if="showMinimumDistanceTooltip">Enter distance between (0,1]. More closer to 0 means better results.</div>
+    </div>
     <div>
       <button @click="search" class="search-button">Search</button>
       <button @click="downloadCSV" class="download-button">Download CSV</button>
     </div>
     <div v-if="loading" class="loading">Loading...</div>
     <div v-if="results && results.length">
+     <p v-if="showErrorNotification" class="error-notification">
+      Please enter at least one of the Video Text or Video Description fields.
+    </p>
       <h2>Results</h2>
       <div class="card-container">
         <div v-for="(result, index) in paginatedResults" :key="index" class="card">
-          <h3 class="video-id">Video ID: {{ result.video_id }}</h3>
-          <p class="text">Text: {{ result.text }}</p>
-          <p class="start-time">Start Time: {{ result.starttime }}</p>
-          <p class="end-time">End Time: {{ result.endtime }}</p>
-          <p class="metadata">Metadata: {{ result.metadata }}</p>
-          <p class="additional-info">Distance: {{ result._additional.distance }}</p>
-          <p class="additional-info">Video Link: {{ generateVideoLink(result.video_id, result.starttime, result.endtime) }}</p>
+          <!-- Video preview iframe -->
+          <div class="video-preview">
+            <iframe :src="generateVideoLink(result.video_id.replace(/_/g, '-'), result.starttime, result.endtime)"></iframe>
+          </div>
+          <div class="card-content">
+            <p class="text">Text: {{ result.text }}</p>
+            <p class="start-time">Start Time: {{ result.starttime }}</p>
+            <p class="end-time">End Time: {{ result.endtime }}</p>
+            <p class="metadata">Metadata: {{ result.metadata }}</p>
+            <p class="additional-info">Distance: {{ result._additional.distance }}</p>
+            <!-- Make the video link clickable -->
+            <a :href="generateVideoLink(result.video_id.replace(/_/g, '-'), result.starttime, result.endtime)" class="video-link">Watch Video</a>
+          </div>
         </div>
       </div>
+      
       <div class="pagination">
         <button @click="goToPreviousPage" :disabled="currentPage === 0">Previous</button>
         <button @click="goToNextPage" :disabled="currentPage === totalPages - 1">Next</button>
@@ -63,6 +73,7 @@ export default {
       currentPage: 0, // Current page index
       showNoOfRecordsTooltip: false,
       showMinimumDistanceTooltip: false,
+      showErrorNotification: false,
     };
   },
   computed: {
@@ -77,6 +88,11 @@ export default {
   },
   methods: {
     async search() {
+      if (!this.textDesc && !this.videoDesc) {
+        this.showErrorNotification = true;
+        return;
+      }
+      this.showErrorNotification = false;
       this.loading = true;
       try {
         const response = await axios.get("http://labyrinth01.inf.um.es:8040/search", {
@@ -112,7 +128,7 @@ export default {
       return videoLink;
     },
     // Method to download the results as a CSV file
-    
+
     generateCSVRow(data) {
       const csvValues = Object.values(data);
       const formattedValues = csvValues.map((value) => {
@@ -129,13 +145,13 @@ export default {
     downloadCSV() {
       const csvData = this.results.map((result) => {
         return {
-          "Video ID": result.video_id,
+          "Video ID": result.video_id.replace(/_/g, "-"),
           Text: result.text,
           "Start Time": result.starttime,
           "End Time": result.endtime,
           Metadata: result.metadata,
           Distance: result._additional.distance,
-          "Video Link": this.generateVideoLink(result.video_id, result.starttime, result.endtime),
+          "Video Link": this.generateVideoLink(result.video_id.replace(/_/g, "-"), result.starttime, result.endtime),
         };
       });
 
@@ -154,6 +170,8 @@ export default {
   },
 };
 </script>
+
+
 
 <style>
 .container {
@@ -262,6 +280,7 @@ input[type="number"]:hover {
 }
 
 .card {
+  position: relative;
   width: 100%;
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -270,21 +289,38 @@ input[type="number"]:hover {
   background-color: #f9f9f9;
 }
 
-.video-id {
-  font-size: 20px;
-  font-weight: bold;
+.video-preview {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  overflow: hidden;
+  border-radius: 4px;
   margin-bottom: 10px;
 }
 
-.text,
-.start-time,
-.end-time,
-.metadata {
-  margin-bottom: 10px;
+.video-preview iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
 }
 
-.additional-info {
-  margin-bottom: 10px;
+.video-link {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.video-link:hover {
+  background-color: #0056b3;
 }
 
 .pagination {
@@ -307,6 +343,12 @@ input[type="number"]:hover {
 .pagination button:disabled {
   opacity: 0.5;
   cursor: not-allowed;
+}
+
+.error-notification {
+  color: red;
+  font-size: 14px;
+  margin-top: 5px;
 }
 
 .pagination button:hover {
