@@ -26,9 +26,9 @@ To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.sit
 
 8. Do ```mkdir frames``` in which ffmpeg frames will be temporarily stored.
 
-# Running Scripts
+# Running Scripts and Step by Step Process
 
-1. We will first generate metadata and sentence start and end time using ```extract_data_all_files.py```.
+1. We will first generate metadata and sentence start and end time using ```extract_data_all_files.py```. In the ```vrt_files``` folder ONLY keep .vrts files of videos for which you want to populate data to weaviate. (Delete files for which json is already generated)
 
     To run this script :
 
@@ -37,7 +37,7 @@ To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.sit
     ```
     You can also run single file using ```extract_data_from_vrt.py```.
 
-2. After generating json files, we will use ffmpeg to extarct frames and generate frame descriptions and add it to our json files.
+2. After generating json files, we will use ffmpeg to extract frames and generate frame descriptions and add it to our json files. After this step our json files are ready and we can populate data in weaviate.
 
     To do this run :
 
@@ -51,11 +51,14 @@ To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.sit
     python3 src/frame_desc.py videos_dhruv/2016-02-02_1500_US_KABC_Good_Morning_America.mp4 output_data/2016-02-02_1500_US_KABC_Good_Morning_America.v4.json frames/
     ```
 
-3. To connect to weaviate and populate data in weaviate see ```weaviate_data_populate.ipynb```
+3. After the json files are ready, we need to populate data in weaviate.
 
-4. To use the app, visit (http://labyrinth01.inf.um.es:8030/)
+   ``` cd Semantic-search-app ``` then do ```docker compose up```. This will start our weaviate instance.
+   Now to connect to weaviate and populate data in weaviate see ```weaviate_data_populate.ipynb``` . I have given more details in the notebook.
 
-5. To make any changes in the Semantic Search App
+5. To use the app, visit (http://labyrinth01.inf.um.es:8030/)
+
+6. To make any changes in the Semantic Search App
 
     cd Semantic-search-app
 
