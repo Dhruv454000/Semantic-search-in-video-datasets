@@ -33,6 +33,8 @@ def get_image(frames, video_file, folder_path):
         subprocess.run(command, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 def process_video_frames(video_file, json_file, folder_path):
+    if not os.path.exists(folder_path):
+        os.makedirs(folder_path)
     with open(json_file) as f:
         data = json.load(f)
     for sent in data['sentences']:

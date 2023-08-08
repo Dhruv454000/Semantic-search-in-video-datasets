@@ -1,6 +1,8 @@
 # Ignore all video files
 *.mp4
 
+src/__pycache__
+
 extra_codes/
 
 weaviate_data/
@@ -10,5 +12,3 @@ semantic_search_env/
 .ipynb_checkpoints
 
 weaviate_data
-
-backend/__pycache__
