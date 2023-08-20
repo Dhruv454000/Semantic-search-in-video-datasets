@@ -62,9 +62,6 @@ To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.sit
 
     cd Semantic-search-app
 
-    mkdir weaviate_data  
-    (after doing this open weaviate_data_populate notebook and run it once, so that your weaviate_data is stored, this is required only once in the start then next time weaviate will keep your data stored permanently)
-
     Do your changes
 
     docker compose build  (if it gives error do sudo docker compose build)
