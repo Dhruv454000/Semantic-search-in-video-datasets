@@ -55,7 +55,7 @@ def extract_metadata_and_sentences(input_file):
     all_verbs = []
     endtime_execption = ''
     
-    # Iterate over each line in the file
+# Iterate over each line in the file
     for line in lines:
         # extracting starttime of sentence
         if count == 1:
@@ -67,23 +67,27 @@ def extract_metadata_and_sentences(input_file):
         if id_count == 0:
             if re.match(r'</turn', line):
                 words = prev_line.split('\t')
-                endtime = words[53].strip() + '.' + words[54].strip()
-
+                if(len(words) >=54):
+                    endtime = words[53].strip() + '.' + words[54].strip()
+        
         # For last sentence storing endtime_last_sid as it has different previous line. 
         if id_count == len(ids) - 1:
             if re.match(r'</turn', line):
                 words = prev_line.split('\t')
-                endtime_last_sid = words[53].strip() + '.' + words[54].strip()
+                if(len(words) >=54):
+                    endtime_last_sid = words[53].strip() + '.' + words[54].strip()
                 
         # extracting endtime of sentence
         if re.match(r'</s>', line) and prev_line != '</turn>\n' and prev_line != '</story>\n' and prev_line != '<turn>\n' and prev_line.strip() != '</turn>' and prev_line.strip() != '<turn>':
-            words = prev_line.split('\t')           
-            endtime = words[53].strip() + '.' + words[54].strip()
+            words = prev_line.split('\t')  
+            if(len(words) >=54):         
+                endtime = words[53].strip() + '.' + words[54].strip()
             
         # handling cases where endtime is 0.0, storing endtime of word appearing before '.'
         if re.match(r'[.].', line) and prev_line[0] != '<':
             words = prev_line.split('\t')
-            endtime_execption = words[53].strip() + '.' + words[54].strip()
+            if(len(words) >=54):
+                endtime_execption = words[53].strip() + '.' + words[54].strip()
             
         # Add all sentence details when next <s> tag comes
         if re.match(r'<s id=', line):
@@ -92,7 +96,7 @@ def extract_metadata_and_sentences(input_file):
             if current_sentence:
                 if (starttime == "0.00" or starttime == "0.0") and all_verbs != []:
                     starttime = all_verbs[0]["vstart"]
-                if endtime == "0.0" or float(starttime) >= float(endtime):
+                if endtime != '' and (endtime == "0.0" or float(starttime) >= float(endtime)):
                     endtime = endtime_execption
                 if endtime == "0.0" and all_verbs != []:
                     endtime = all_verbs[len(all_verbs)-1]["vend"]

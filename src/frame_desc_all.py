@@ -71,10 +71,10 @@ def process_video_frames(video_file, json_file, folder_path):
         
 def main():
 
-    video_files = [f for f in os.listdir("videos_dhruv") if f.endswith('.mp4')]
+    video_files = [f for f in os.listdir("input_files") if f.endswith('.mp4')]
     
     for file_name in video_files:
-        input_file = os.path.join("videos_dhruv", file_name)
+        input_file = os.path.join("input_files", file_name)
         json_file = os.path.join("output_data", f"{file_name[:-4]}.v4.json")
         process_video_frames(input_file, json_file, "frames/")
 

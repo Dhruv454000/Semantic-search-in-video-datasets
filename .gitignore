@@ -11,4 +11,6 @@ semantic_search_env/
 
 .ipynb_checkpoints
 
-weaviate_data
+nohup.out
+
+2016-02-02

@@ -1,0 +1,8257 @@
+{
+ "metadata": {
+  "text_id": "t__2b0ec43c_c94c_11e5_9382_1f5a0c10e3cf",
+  "collection": "Communication Studies Archive, UCLA",
+  "file": "/db/tv/2016/2016-02/2016-02-02/2016-02-02_0000_US_WKYC_Channel_3_News_at_7.txt",
+  "date": "2016-02-02",
+  "year": "2016",
+  "month": "02",
+  "day": "02",
+  "time": "0000",
+  "duration": "0:29:59.899",
+  "country": "US",
+  "channel": "WKYC",
+  "title": "Channel 3 News at 7",
+  "video_resolution": "480x360",
+  "video_resolution_original": "",
+  "language": "ENG",
+  "recording_location": "CWRU Cleveland cmm",
+  "original_broadcast_date": "N/A",
+  "original_broadcast_time": "N/A",
+  "original_broadcast_timezone": "N/A",
+  "local_broadcast_date": "2016-02-01",
+  "local_broadcast_time": "19:00",
+  "local_broadcast_timezone": "America/New_York"
+ },
+ "sentences": [
+  {
+   "sentence": "In just one hour .",
+   "starttime": "0.00",
+   "endtime": "0.07",
+   "verbs": [],
+   "frame_data": [
+    "a woman in a purple shirt is in the news . ",
+    "a woman is standing in front of a television . ",
+    "a woman is standing in front of a television in a room . "
+   ]
+  },
+  {
+   "sentence": "Hi Betsy .",
+   "starttime": "0.07",
+   "endtime": "0.07",
+   "verbs": [],
+   "frame_data": [
+    "a woman is standing in front of a television . "
+   ]
+  },
+  {
+   "sentence": "Hi there Jimmy .",
+   "starttime": "0.07",
+   "endtime": "0.07",
+   "verbs": [],
+   "frame_data": [
+    "a woman is standing in front of a television . "
+   ]
+  },
+  {
+   "sentence": "The temperatures will be warming up in the next couple days .",
+   "starttime": "0.07",
+   "endtime": "2.07",
+   "verbs": [
+    {
+     "vword": "will",
+     "vstart": "0.07",
+     "vend": "0.07",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "0.07",
+     "vend": "0.07",
+     "vpos": "VB"
+    },
+    {
+     "vword": "warming",
+     "vstart": "0.07",
+     "vend": "0.07",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a woman in a purple shirt is in the news . ",
+    "a woman is standing in front of a television . "
+   ]
+  },
+  {
+   "sentence": "Do n't worry .",
+   "starttime": "2.28",
+   "endtime": "3.14",
+   "verbs": [
+    {
+     "vword": "Do",
+     "vstart": "2.28",
+     "vend": "2.54",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "worry",
+     "vstart": "2.62",
+     "vend": "3.14",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a woman in a purple shirt is in the news . ",
+    "a woman is sitting in front of several monitors . "
+   ]
+  },
+  {
+   "sentence": "It 's not going to last .",
+   "starttime": "3.14",
+   "endtime": "4.31",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "3.26",
+     "vend": "3.34",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "going",
+     "vstart": "3.54",
+     "vend": "3.79",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "last",
+     "vstart": "3.88",
+     "vend": "4.31",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a woman in a purple shirt is in the news . ",
+    "a woman is sitting in front of a television . "
+   ]
+  },
+  {
+   "sentence": "Snow Lovers Gertler a treat too .",
+   "starttime": "4.76",
+   "endtime": "6.57",
+   "verbs": [],
+   "frame_data": [
+    "a woman in a purple shirt is in the news . ",
+    "a woman is sitting in front of several monitors . "
+   ]
+  },
+  {
+   "sentence": "It is fact Johnny Manziel drama continues .",
+   "starttime": "7.44",
+   "endtime": "10.22",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "7.49",
+     "vend": "7.69",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "continues",
+     "vstart": "9.55",
+     "vend": "10.22",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a group of football players are playing football . ",
+    "a group of football players on a field . ",
+    "a group of men playing a game of football . ",
+    "a woman is sitting in front of a television . "
+   ]
+  },
+  {
+   "sentence": "I will give you my take of the future of the BROWNS quarterback here in Cleveland .",
+   "starttime": "10.49",
+   "endtime": "14.71",
+   "verbs": [
+    {
+     "vword": "will",
+     "vstart": "10.57",
+     "vend": "10.60",
+     "vpos": "MD"
+    },
+    {
+     "vword": "give",
+     "vstart": "10.60",
+     "vend": "10.77",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a group of football players playing a game . ",
+    "a group of football players running on a field . ",
+    "a group of men playing a game of football . ",
+    "a group of men playing football on a field . "
+   ]
+  },
+  {
+   "sentence": "Good evening everyone .",
+   "starttime": "28.87",
+   "endtime": "29.72",
+   "verbs": [],
+   "frame_data": [
+    "a man in a suit and tie on a news set . ",
+    "a man in a suit and tie standing in front of a tv . ",
+    "a television screen shot of a room in a building . "
+   ]
+  },
+  {
+   "sentence": "We begin with breaking news tonight .",
+   "starttime": "29.72",
+   "endtime": "31.25",
+   "verbs": [
+    {
+     "vword": "begin",
+     "vstart": "29.85",
+     "vend": "30.14",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "breaking",
+     "vstart": "30.27",
+     "vend": "30.69",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and purple tie . ",
+    "a man in a suit and tie in front of a television . ",
+    "a man in a suit and tie on a news set . "
+   ]
+  },
+  {
+   "sentence": "This comes out of Star County .",
+   "starttime": "31.25",
+   "endtime": "33.05",
+   "verbs": [
+    {
+     "vword": "comes",
+     "vstart": "31.43",
+     "vend": "31.68",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man in a news room wearing a tie . ",
+    "a man in a news room with a microphone . ",
+    "a man in a suit and tie on a news set . "
+   ]
+  },
+  {
+   "sentence": "Authorities are on the scene of a train derailment .",
+   "starttime": "33.34",
+   "endtime": "35.51",
+   "verbs": [
+    {
+     "vword": "are",
+     "vstart": "34.12",
+     "vend": "34.30",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a map of a train derailment in chester , ohio . ",
+    "a map shows the location of a train derailment . "
+   ]
+  },
+  {
+   "sentence": "We know the Fire Department is at the scene and they have notified a Hazmat team .",
+   "starttime": "37.71",
+   "endtime": "42.25",
+   "verbs": [
+    {
+     "vword": "know",
+     "vstart": "37.82",
+     "vend": "37.95",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "is",
+     "vstart": "38.94",
+     "vend": "39.14",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "have",
+     "vstart": "40.36",
+     "vend": "40.48",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "notified",
+     "vstart": "40.48",
+     "vend": "40.99",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a map of a train derailment in broylester , ohio . ",
+    "a view of a train derailment from the air . ",
+    "an aerial view of a train derailment . "
+   ]
+  },
+  {
+   "sentence": "We have a crew in route right now to the scene .",
+   "starttime": "42.51",
+   "endtime": "44.93",
+   "verbs": [
+    {
+     "vword": "have",
+     "vstart": "42.66",
+     "vend": "42.78",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a map of a train derailment in broylester , ohio . "
+   ]
+  },
+  {
+   "sentence": "Stay with us at wkyc.com for the latest on this story .",
+   "starttime": "45.10",
+   "endtime": "49.57",
+   "verbs": [
+    {
+     "vword": "Stay",
+     "vstart": "45.10",
+     "vend": "45.42",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a news set . ",
+    "a map of a train derailment in broylester , ohio . "
+   ]
+  },
+  {
+   "sentence": "SEBRING is dealing with lead in the water after EPA tests discovered elevated levels of lead in some samples .",
+   "starttime": "50.63",
+   "endtime": "57.89",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "51.66",
+     "vend": "51.94",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "dealing",
+     "vstart": "51.94",
+     "vend": "52.33",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "discovered",
+     "vstart": "54.65",
+     "vend": "55.17",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a news set . ",
+    "a man wearing a suit and tie . ",
+    "a man wearing a suit and tie in a news room . ",
+    "a man wearing a suit and tie in a tv studio . "
+   ]
+  },
+  {
+   "sentence": "Hillary is live in sebring about 70 miles southeast of Cleveland where a clinic just wrapped up .",
+   "starttime": "57.90",
+   "endtime": "64.81",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "59.49",
+     "vend": "59.76",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "sebring",
+     "vstart": "60.25",
+     "vend": "60.73",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "wrapped",
+     "vstart": "64.24",
+     "vend": "64.58",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a man wearing a suit and tie . ",
+    "a map of the city of mahoning county and the surrounding area . ",
+    "a map of the u . s . with the names of the states . ",
+    "a map of the u . s . with the words \" water testing expands for sebirising ",
+    "a woman standing in front of a map . "
+   ]
+  },
+  {
+   "sentence": "Good evening .",
+   "starttime": "64.97",
+   "endtime": "65.38",
+   "verbs": [],
+   "frame_data": [
+    "a woman wearing a coat and a fur scarf . ",
+    "a woman wearing a red coat standing in front of a building . ",
+    "a woman wearing a red scarf and a red jacket . "
+   ]
+  },
+  {
+   "sentence": "Good evening Jimmy .",
+   "starttime": "67.53",
+   "endtime": "68.80",
+   "verbs": [],
+   "frame_data": [
+    "a woman standing in front of a building . "
+   ]
+  },
+  {
+   "sentence": "Ohio 's EPA director is calling for criminal investigation into what happened at the water plant because the public was n't notified about these high levels of lead .",
+   "starttime": "68.80",
+   "endtime": "77.96",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "70.27",
+     "vend": "70.43",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "calling",
+     "vstart": "70.43",
+     "vend": "70.75",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "happened",
+     "vstart": "72.51",
+     "vend": "72.87",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "was",
+     "vstart": "74.84",
+     "vend": "75.12",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "notified",
+     "vstart": "75.19",
+     "vend": "75.89",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a building . "
+   ]
+  },
+  {
+   "sentence": "That 's led a lot of parents to come here .",
+   "starttime": "78.33",
+   "endtime": "80.04",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "78.50",
+     "vend": "78.57",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "led",
+     "vstart": "78.57",
+     "vend": "78.74",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "come",
+     "vstart": "79.55",
+     "vend": "79.86",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a building . "
+   ]
+  },
+  {
+   "sentence": "They say they had to come so they could get their kids tested and have peace of mind .",
+   "starttime": "80.04",
+   "endtime": "84.67",
+   "verbs": [
+    {
+     "vword": "say",
+     "vstart": "80.17",
+     "vend": "80.31",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "had",
+     "vstart": "80.50",
+     "vend": "80.81",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "come",
+     "vstart": "80.91",
+     "vend": "81.20",
+     "vpos": "VB"
+    },
+    {
+     "vword": "could",
+     "vstart": "81.60",
+     "vend": "81.76",
+     "vpos": "MD"
+    },
+    {
+     "vword": "get",
+     "vstart": "81.76",
+     "vend": "81.91",
+     "vpos": "VB"
+    },
+    {
+     "vword": "tested",
+     "vstart": "82.32",
+     "vend": "82.80",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "have",
+     "vstart": "83.20",
+     "vend": "83.46",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a building . "
+   ]
+  },
+  {
+   "sentence": "We just got the most recent numbers in .",
+   "starttime": "86.18",
+   "endtime": "88.41",
+   "verbs": [
+    {
+     "vword": "got",
+     "vstart": "86.55",
+     "vend": "86.75",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a group of people sitting in a room . ",
+    "there is a sign on the wall that says \" lead screening \" ",
+    "there is a sign on the wall that says lead screening . "
+   ]
+  },
+  {
+   "sentence": "The Board of health workers tell me they tested 32 people and one person had high levels of lead .",
+   "starttime": "88.67",
+   "endtime": "93.96",
+   "verbs": [
+    {
+     "vword": "tell",
+     "vstart": "89.56",
+     "vend": "89.72",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "tested",
+     "vstart": "89.95",
+     "vend": "90.34",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "had",
+     "vstart": "92.65",
+     "vend": "92.83",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a baby being swaddled by a person in a car . ",
+    "a group of people sitting at a table . ",
+    "a group of people standing in a room . ",
+    "a person is holding a baby in a red jacket . ",
+    "a woman standing in front of a group of people . "
+   ]
+  },
+  {
+   "sentence": "Two Sundays ago they did the same testing and out of 176 tested five had elevated levels of lead .",
+   "starttime": "94.24",
+   "endtime": "101.01",
+   "verbs": [
+    {
+     "vword": "did",
+     "vstart": "95.30",
+     "vend": "95.44",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "tested",
+     "vstart": "98.16",
+     "vend": "98.63",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "had",
+     "vstart": "99.56",
+     "vend": "99.75",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a baby is sitting in a car seat . ",
+    "a woman holding a baby in her arms . ",
+    "a young child is looking at the camera . ",
+    "a young child is looking at the camera while wearing a shirt . ",
+    "an older person is being examined by an older person . "
+   ]
+  },
+  {
+   "sentence": "The test targeted kids under six and pregnant or nursing women .",
+   "starttime": "102.05",
+   "endtime": "105.93",
+   "verbs": [
+    {
+     "vword": "targeted",
+     "vstart": "102.46",
+     "vend": "102.78",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a group of people holding a baby at a table . ",
+    "a group of people sitting around a table . ",
+    "a group of people sitting at a table . ",
+    "a woman and a boy sitting at a table . "
+   ]
+  },
+  {
+   "sentence": "They 're the most at risk for potential effects on young kids .",
+   "starttime": "106.22",
+   "endtime": "109.37",
+   "verbs": [
+    {
+     "vword": "&apos;re",
+     "vstart": "106.30",
+     "vend": "106.38",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a group of people getting their nails painted . ",
+    "a woman and a boy sitting at a table . "
+   ]
+  },
+  {
+   "sentence": "Lead can negatively impact the brain and nervous system .",
+   "starttime": "109.64",
+   "endtime": "113.08",
+   "verbs": [
+    {
+     "vword": "can",
+     "vstart": "110.16",
+     "vend": "110.34",
+     "vpos": "MD"
+    },
+    {
+     "vword": "impact",
+     "vstart": "110.87",
+     "vend": "111.20",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a group of people are getting their nails waxed . ",
+    "a group of people holding onto a piece of paper . ",
+    "a group of people holding up a needle . ",
+    "a group of people sitting around a table . ",
+    "a person is getting their nails painted . "
+   ]
+  },
+  {
+   "sentence": "You have n't gotten the results of the test .",
+   "starttime": "114.46",
+   "endtime": "116.12",
+   "verbs": [
+    {
+     "vword": "have",
+     "vstart": "114.62",
+     "vend": "114.87",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "gotten",
+     "vstart": "114.92",
+     "vend": "115.10",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a group of people sitting in a room . ",
+    "a woman is talking to the camera in a room . ",
+    "a woman sitting in front of a table . ",
+    "a woman with blonde hair is sitting at a table . "
+   ]
+  },
+  {
+   "sentence": "What 's going through your mind",
+   "starttime": "116.85",
+   "endtime": "116.12",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "116.88",
+     "vend": "116.89",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "going",
+     "vstart": "118.09",
+     "vend": "118.25",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a woman is standing in front of a table . ",
+    "a woman is talking to a group of people . ",
+    "a woman is talking to the camera in a room . "
+   ]
+  },
+  {
+   "sentence": "I am just hoping he is okay .",
+   "starttime": "119.20",
+   "endtime": "120.77",
+   "verbs": [
+    {
+     "vword": "am",
+     "vstart": "119.62",
+     "vend": "119.77",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "hoping",
+     "vstart": "119.94",
+     "vend": "120.20",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "is",
+     "vstart": "120.26",
+     "vend": "120.37",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a woman is sitting in front of a wall . ",
+    "a woman is talking to a news reporter . ",
+    "a woman is talking to a reporter . ",
+    "a woman is talking to the camera in a room . ",
+    "a woman is talking to the camera while holding a toothbrush . ",
+    "a woman standing next to a table with other people . "
+   ]
+  },
+  {
+   "sentence": "It 's scary thinking it might be high you know .",
+   "starttime": "120.78",
+   "endtime": "123.92",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "120.80",
+     "vend": "120.81",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "thinking",
+     "vstart": "122.22",
+     "vend": "122.44",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "might",
+     "vstart": "122.71",
+     "vend": "122.90",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "122.90",
+     "vend": "123.14",
+     "vpos": "VB"
+    },
+    {
+     "vword": "know",
+     "vstart": "123.71",
+     "vend": "123.92",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a woman is standing in front of a table . ",
+    "a woman is talking to the camera while sitting at a table ",
+    "a woman standing in a room next to other people . ",
+    "a woman standing in front of other people . ",
+    "a woman standing next to a table with other people . "
+   ]
+  },
+  {
+   "sentence": "I just want some answers .",
+   "starttime": "123.92",
+   "endtime": "125.54",
+   "verbs": [
+    {
+     "vword": "want",
+     "vstart": "124.54",
+     "vend": "124.58",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a group of people that are sitting in a room . ",
+    "a woman is standing in front of a wall . ",
+    "a woman is talking to the camera while sitting at a table ",
+    "a woman standing in front of a group of people . "
+   ]
+  },
+  {
+   "sentence": "I already got one before .",
+   "starttime": "126.44",
+   "endtime": "127.78",
+   "verbs": [
+    {
+     "vword": "got",
+     "vstart": "126.81",
+     "vend": "127.10",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a young boy is sitting in front of a crowd . ",
+    "a young boy is sitting in front of other people . ",
+    "a young boy sitting in front of a group . ",
+    "a young boy sitting in front of a table . "
+   ]
+  },
+  {
+   "sentence": "I already knew what it was like .",
+   "starttime": "128.17",
+   "endtime": "130.46",
+   "verbs": [
+    {
+     "vword": "knew",
+     "vstart": "129.51",
+     "vend": "129.53",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "was",
+     "vstart": "130.09",
+     "vend": "130.12",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a young boy is holding a microphone in his hand . ",
+    "a young boy is sitting in front of a microphone . ",
+    "a young boy sitting in front of a group of people . ",
+    "a young boy sitting in front of a microphone . "
+   ]
+  },
+  {
+   "sentence": "So it was n't too bad worth it just a little prick right",
+   "starttime": "134.75",
+   "endtime": "130.46",
+   "verbs": [
+    {
+     "vword": "was",
+     "vstart": "134.92",
+     "vend": "135.22",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a young boy getting his nose swab from a nurse . ",
+    "a young boy getting his teeth checked by a dentist . ",
+    "a young boy getting his teeth checked by a nurse . ",
+    "a young boy sitting in front of a microphone . "
+   ]
+  },
+  {
+   "sentence": "Yeah .",
+   "starttime": "138.91",
+   "endtime": "139.17",
+   "verbs": [],
+   "frame_data": [
+    "a woman wearing a red coat is standing outside . ",
+    "a young boy getting his hair cut by a woman . ",
+    "a young boy sitting in front of other people . "
+   ]
+  },
+  {
+   "sentence": "Another thing that 's providing a little bit of peace of mind Mahoney health officials said they provided 600 home test bottles .",
+   "starttime": "141.51",
+   "endtime": "148.44",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "142.17",
+     "vend": "142.23",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "providing",
+     "vstart": "142.24",
+     "vend": "142.73",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "said",
+     "vstart": "145.54",
+     "vend": "145.78",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "provided",
+     "vstart": "146.22",
+     "vend": "146.74",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a building . "
+   ]
+  },
+  {
+   "sentence": "That allows people to take the bottles home test for high levels bring them to the authorities and know whether or not they have a problem in their home .",
+   "starttime": "148.69",
+   "endtime": "156.87",
+   "verbs": [
+    {
+     "vword": "allows",
+     "vstart": "148.96",
+     "vend": "149.30",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "take",
+     "vstart": "149.65",
+     "vend": "149.90",
+     "vpos": "VB"
+    },
+    {
+     "vword": "bring",
+     "vstart": "152.79",
+     "vend": "152.96",
+     "vpos": "VB"
+    },
+    {
+     "vword": "know",
+     "vstart": "154.32",
+     "vend": "154.47",
+     "vpos": "VB"
+    },
+    {
+     "vword": "have",
+     "vstart": "155.21",
+     "vend": "155.37",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a building . "
+   ]
+  },
+  {
+   "sentence": "Jimmy .",
+   "starttime": "160.31",
+   "endtime": "160.72",
+   "verbs": [],
+   "frame_data": [
+    "a man and a woman are talking on a tv screen . "
+   ]
+  },
+  {
+   "sentence": "Thanks very much .",
+   "starttime": "161.07",
+   "endtime": "161.78",
+   "verbs": [],
+   "frame_data": [
+    "a man and a woman are talking on a tv screen . "
+   ]
+  },
+  {
+   "sentence": "There were some big steps taken in the direction of big change at the Cleveland Police Department .",
+   "starttime": "162.60",
+   "endtime": "167.57",
+   "verbs": [
+    {
+     "vword": "were",
+     "vstart": "162.77",
+     "vend": "162.94",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "taken",
+     "vstart": "163.79",
+     "vend": "164.17",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a news set . ",
+    "a man in a suit and tie sitting in front of a news desk . ",
+    "a man in a tv studio wearing a suit . ",
+    "a man wearing a suit and purple tie . "
+   ]
+  },
+  {
+   "sentence": "Today the so called new consent decree went before a judge for approval .",
+   "starttime": "167.57",
+   "endtime": "172.15",
+   "verbs": [
+    {
+     "vword": "called",
+     "vstart": "168.14",
+     "vend": "168.51",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "went",
+     "vstart": "170.08",
+     "vend": "170.28",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a news set . "
+   ]
+  },
+  {
+   "sentence": "Andrew is live with the details and the questions surrounding it .",
+   "starttime": "172.15",
+   "endtime": "176.81",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "172.62",
+     "vend": "172.64",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "surrounding",
+     "vstart": "176.11",
+     "vend": "176.67",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a close - up of the word \" live \". ",
+    "a man in a suit and tie on a news set . ",
+    "a man is standing in front of a microphone . "
+   ]
+  },
+  {
+   "sentence": "Good Evening Andrew .",
+   "starttime": "176.81",
+   "endtime": "177.50",
+   "verbs": [],
+   "frame_data": [
+    "a man is standing in front of a microphone . ",
+    "a man standing in front of a microphone . "
+   ]
+  },
+  {
+   "sentence": "Good evening Jimmy .",
+   "starttime": "177.90",
+   "endtime": "178.97",
+   "verbs": [],
+   "frame_data": [
+    "a man is standing in front of a microphone . ",
+    "a man standing in front of a microphone . "
+   ]
+  },
+  {
+   "sentence": "The important word is step .",
+   "starttime": "179.16",
+   "endtime": "180.74",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "179.94",
+     "vend": "179.96",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man is standing in front of a microphone . "
+   ]
+  },
+  {
+   "sentence": "This is just one step .",
+   "starttime": "181.15",
+   "endtime": "182.34",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "181.32",
+     "vend": "181.50",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man is standing in front of a building . ",
+    "a man is standing in front of a microphone . "
+   ]
+  },
+  {
+   "sentence": "The next step is for a federal judge to agree to the suggestions .",
+   "starttime": "182.34",
+   "endtime": "186.34",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "183.41",
+     "vend": "183.49",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "agree",
+     "vstart": "184.78",
+     "vend": "185.43",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man is standing in front of a building . ",
+    "a man is standing in front of a microphone . "
+   ]
+  },
+  {
+   "sentence": "I can tell you already we are hearing there may be push back .",
+   "starttime": "186.48",
+   "endtime": "189.44",
+   "verbs": [
+    {
+     "vword": "can",
+     "vstart": "186.54",
+     "vend": "186.72",
+     "vpos": "MD"
+    },
+    {
+     "vword": "tell",
+     "vstart": "186.72",
+     "vend": "186.95",
+     "vpos": "VB"
+    },
+    {
+     "vword": "are",
+     "vstart": "187.99",
+     "vend": "188.00",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "hearing",
+     "vstart": "188.00",
+     "vend": "188.36",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "may",
+     "vstart": "188.49",
+     "vend": "188.65",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "188.65",
+     "vend": "188.79",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man is standing in front of a building . ",
+    "a man is standing in front of a microphone . "
+   ]
+  },
+  {
+   "sentence": "Blame the allegations of officer abuse which have given the city a new national reputation .",
+   "starttime": "190.87",
+   "endtime": "196.08",
+   "verbs": [
+    {
+     "vword": "Blame",
+     "vstart": "190.87",
+     "vend": "191.27",
+     "vpos": "VB"
+    },
+    {
+     "vword": "have",
+     "vstart": "193.34",
+     "vend": "193.52",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "given",
+     "vstart": "193.52",
+     "vend": "193.79",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a group of people in police gear on a city street . ",
+    "a group of people standing next to each other . ",
+    "a group of police officers standing next to each other . "
+   ]
+  },
+  {
+   "sentence": "By the end of this year Cleveland Police Department will have to adhere to a new consent decree ordered by the Justice Department aimed at having a positive impact on civil rights .",
+   "starttime": "196.13",
+   "endtime": "207.30",
+   "verbs": [
+    {
+     "vword": "will",
+     "vstart": "199.36",
+     "vend": "199.50",
+     "vpos": "MD"
+    },
+    {
+     "vword": "have",
+     "vstart": "199.51",
+     "vend": "199.72",
+     "vpos": "VB"
+    },
+    {
+     "vword": "adhere",
+     "vstart": "199.88",
+     "vend": "200.38",
+     "vpos": "VB"
+    },
+    {
+     "vword": "ordered",
+     "vstart": "202.12",
+     "vend": "202.54",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "aimed",
+     "vstart": "204.31",
+     "vend": "204.68",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "having",
+     "vstart": "204.79",
+     "vend": "205.14",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a close up of a page of a book . ",
+    "a group of men in police uniforms saluting . ",
+    "a group of men in police uniforms standing next to each other . ",
+    "a group of police officers standing in front of a building . ",
+    "a person holding a piece of paper in front of a podium . ",
+    "a person holding a piece of paper in their hand . ",
+    "a police car is parked on the side of the road . ",
+    "a police car parked on the side of the road . ",
+    "a police officer standing next to two cars on a street . "
+   ]
+  },
+  {
+   "sentence": "It will set new rules when it comes to an officer 's use of force and establish new layers of oversight .",
+   "starttime": "207.35",
+   "endtime": "213.58",
+   "verbs": [
+    {
+     "vword": "will",
+     "vstart": "207.51",
+     "vend": "207.67",
+     "vpos": "MD"
+    },
+    {
+     "vword": "set",
+     "vstart": "207.67",
+     "vend": "207.97",
+     "vpos": "VB"
+    },
+    {
+     "vword": "comes",
+     "vstart": "209.02",
+     "vend": "209.28",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "establish",
+     "vstart": "211.37",
+     "vend": "211.93",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man standing in front of a police car . ",
+    "a man standing on the side of the road next to a police car . ",
+    "a police car parked in front of a building . ",
+    "a police car parked on the side of the road . ",
+    "a police officer standing in front of a police car . "
+   ]
+  },
+  {
+   "sentence": "Yet some police have their doubts .",
+   "starttime": "213.86",
+   "endtime": "215.80",
+   "verbs": [
+    {
+     "vword": "have",
+     "vstart": "214.84",
+     "vend": "215.07",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a picture of a police car at night with the lights on . ",
+    "a picture of a police car on a tv screen . ",
+    "a police car is parked in the dark . "
+   ]
+  },
+  {
+   "sentence": "On one hand they 're not sure it can cut down on crime while on the other some worry it will bring too much oversight from the public and not enough from police .",
+   "starttime": "216.09",
+   "endtime": "225.73",
+   "verbs": [
+    {
+     "vword": "&apos;re",
+     "vstart": "216.87",
+     "vend": "216.89",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "can",
+     "vstart": "217.93",
+     "vend": "218.09",
+     "vpos": "MD"
+    },
+    {
+     "vword": "cut",
+     "vstart": "218.09",
+     "vend": "218.31",
+     "vpos": "VB"
+    },
+    {
+     "vword": "worry",
+     "vstart": "220.86",
+     "vend": "221.30",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "will",
+     "vstart": "221.42",
+     "vend": "221.56",
+     "vpos": "MD"
+    },
+    {
+     "vword": "bring",
+     "vstart": "221.56",
+     "vend": "221.85",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a group of people standing on the side of a road . ",
+    "a group of people standing on top of a grass covered field . ",
+    "a group of police officers standing next to a pole . ",
+    "a man is standing in front of a police car . ",
+    "a picture of the cleveland police reform plan . ",
+    "a police car is lit up at night . ",
+    "a police car is parked on the side of the road . "
+   ]
+  },
+  {
+   "sentence": "Whatever they think they 're accomplishing they 're not .",
+   "starttime": "225.99",
+   "endtime": "228.92",
+   "verbs": [
+    {
+     "vword": "think",
+     "vstart": "226.56",
+     "vend": "226.81",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "&apos;re",
+     "vstart": "226.91",
+     "vend": "226.96",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "accomplishing",
+     "vstart": "226.96",
+     "vend": "227.67",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "&apos;re",
+     "vstart": "228.53",
+     "vend": "228.54",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a man is talking to the camera in an office . ",
+    "a man sitting in front of an all lives matter sign ",
+    "a man with a bald head is sitting in front of a sign . ",
+    "a man with a bald head is talking . ",
+    "a man with a bald head talking to the camera . "
+   ]
+  },
+  {
+   "sentence": "It is just making it more and more difficult to protect the people that really need us the most .",
+   "starttime": "229.46",
+   "endtime": "234.43",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "229.70",
+     "vend": "229.70",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "making",
+     "vstart": "229.93",
+     "vend": "230.24",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "protect",
+     "vstart": "232.05",
+     "vend": "232.36",
+     "vpos": "VB"
+    },
+    {
+     "vword": "need",
+     "vstart": "233.23",
+     "vend": "233.48",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a bald man with a bald head is talking to the camera . ",
+    "a man in a suit and tie sitting in front of a sign . ",
+    "a man sitting in front of a sign . ",
+    "a man with a bald head is sitting in front of a sign . ",
+    "a man with a bald head talking to the camera . ",
+    "a police officer standing next to a police car . "
+   ]
+  },
+  {
+   "sentence": "Recommendations in other cities have been drastic with officers in Dallas learning to move backward during target practice and some given sponge projectiles instead of guns .",
+   "starttime": "234.49",
+   "endtime": "244.94",
+   "verbs": [
+    {
+     "vword": "have",
+     "vstart": "236.36",
+     "vend": "236.50",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "been",
+     "vstart": "236.50",
+     "vend": "236.67",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "move",
+     "vstart": "239.53",
+     "vend": "239.76",
+     "vpos": "VB"
+    },
+    {
+     "vword": "given",
+     "vstart": "242.48",
+     "vend": "242.78",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a close - up of a hand holding a gun . ",
+    "a close - up of a handgun with the caption \" plan for cleveland police reform \". ",
+    "a police car parked on the side of the road . ",
+    "a police officer standing in front of a police car . ",
+    "two cleveland police officers standing next to each other . "
+   ]
+  },
+  {
+   "sentence": "None of that has been suggested though for Cleveland .",
+   "starttime": "245.43",
+   "endtime": "248.05",
+   "verbs": [
+    {
+     "vword": "has",
+     "vstart": "246.06",
+     "vend": "246.19",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "been",
+     "vstart": "246.19",
+     "vend": "246.37",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "suggested",
+     "vstart": "246.37",
+     "vend": "247.00",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a group of people standing next to a police car . ",
+    "a man is being arrested by a police officer . ",
+    "a man is handcuffed to a police officer . ",
+    "a man is holding a police badge while another man looks on . ",
+    "a police car parked on the side of a road . ",
+    "a police officer talking to a man in front of a building . "
+   ]
+  },
+  {
+   "sentence": "Those drafting this say this plan has come about through a great deal of public input .",
+   "starttime": "249.09",
+   "endtime": "253.25",
+   "verbs": [
+    {
+     "vword": "drafting",
+     "vstart": "249.17",
+     "vend": "249.24",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "say",
+     "vstart": "249.95",
+     "vend": "250.22",
+     "vpos": "VB"
+    },
+    {
+     "vword": "has",
+     "vstart": "250.89",
+     "vend": "251.05",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "come",
+     "vstart": "251.05",
+     "vend": "251.21",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a man is standing in front of a building . ",
+    "a man is standing in front of a microphone . ",
+    "a man standing in front of a microphone . "
+   ]
+  },
+  {
+   "sentence": "Clearly it is challenging the way things have been done for decades .",
+   "starttime": "253.72",
+   "endtime": "257.73",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "254.51",
+     "vend": "254.81",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "challenging",
+     "vstart": "254.81",
+     "vend": "255.47",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "have",
+     "vstart": "256.07",
+     "vend": "256.19",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "been",
+     "vstart": "256.19",
+     "vend": "256.36",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "done",
+     "vstart": "256.36",
+     "vend": "256.73",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a man holding a microphone in front of a building . ",
+    "a man in a news studio next to another man in a news room . ",
+    "a man is standing in front of a microphone . ",
+    "a man is talking to a news reporter . ",
+    "a man standing in front of a building holding a news camera . "
+   ]
+  },
+  {
+   "sentence": "Back to you .",
+   "starttime": "257.75",
+   "endtime": "258.23",
+   "verbs": [],
+   "frame_data": [
+    "a man in a news studio next to another man . ",
+    "a man is talking to a news reporter . ",
+    "a man standing in front of a news camera . "
+   ]
+  },
+  {
+   "sentence": "Thanks very much .",
+   "starttime": "258.42",
+   "endtime": "259.12",
+   "verbs": [],
+   "frame_data": [
+    "a man in black jacket standing in front of a tv . ",
+    "a man is standing in front of a news camera . ",
+    "a man standing in front of a news camera . "
+   ]
+  },
+  {
+   "sentence": "The beginning of a new era for a canton K-9 police officer .",
+   "starttime": "260.55",
+   "endtime": "264.94",
+   "verbs": [],
+   "frame_data": [
+    "a man in a news studio with a dog . ",
+    "a man in a suit and tie next to a television screen . ",
+    "a man standing next to a black dog on a leash . "
+   ]
+  },
+  {
+   "sentence": "His if you partner began training today a bittersweet time considering the officer 's previous dog was lost in the line of duty .",
+   "starttime": "265.21",
+   "endtime": "272.05",
+   "verbs": [
+    {
+     "vword": "began",
+     "vstart": "265.93",
+     "vend": "266.22",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "training",
+     "vstart": "266.25",
+     "vend": "266.61",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "considering",
+     "vstart": "268.39",
+     "vend": "268.92",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "was",
+     "vstart": "270.25",
+     "vend": "270.43",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "lost",
+     "vstart": "270.44",
+     "vend": "270.97",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman in front of a tv screen . ",
+    "a man in a news studio with a dog . ",
+    "a man in a suit and tie holding a dog . ",
+    "a man in a suit and tie next to a tv screen . ",
+    "a man in a suit and tie standing next to a building . ",
+    "a man in a suit and tie standing next to a television . "
+   ]
+  },
+  {
+   "sentence": "Remember that happened last month .",
+   "starttime": "272.05",
+   "endtime": "273.44",
+   "verbs": [
+    {
+     "vword": "Remember",
+     "vstart": "272.05",
+     "vend": "272.41",
+     "vpos": "VB"
+    },
+    {
+     "vword": "happened",
+     "vstart": "272.59",
+     "vend": "272.87",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman in front of a tv screen . ",
+    "a man in a news studio with a dog in front . ",
+    "a man in a suit and tie next to a picture of a dog . ",
+    "a man is talking to the camera and a police dog . "
+   ]
+  },
+  {
+   "sentence": "Monica Robbins has the story on the new recruit .",
+   "starttime": "274.25",
+   "endtime": "277.24",
+   "verbs": [
+    {
+     "vword": "has",
+     "vstart": "274.97",
+     "vend": "275.20",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man holding a black dog on a leash . ",
+    "a man is standing in front of a camera . ",
+    "a man is standing in front of a tv . ",
+    "a man standing next to a man walking on a sidewalk . "
+   ]
+  },
+  {
+   "sentence": "This is Canton 's police dog boot camp and this K 9 is the new recruit .",
+   "starttime": "278.22",
+   "endtime": "282.53",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "278.43",
+     "vend": "278.43",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "is",
+     "vstart": "281.33",
+     "vend": "281.33",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a police dog is being held by a handler . ",
+    "a police dog is being held by his handler . ",
+    "a police dog is being petted by a handler . ",
+    "a police officer is getting into a police car . ",
+    "a police officer is training a dog for the job . "
+   ]
+  },
+  {
+   "sentence": "He began day one of three months of training to learn to track catch criminals detect narcotics .",
+   "starttime": "282.83",
+   "endtime": "288.47",
+   "verbs": [
+    {
+     "vword": "began",
+     "vstart": "282.95",
+     "vend": "283.25",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "learn",
+     "vstart": "285.13",
+     "vend": "285.41",
+     "vpos": "VB"
+    },
+    {
+     "vword": "track",
+     "vstart": "285.66",
+     "vend": "286.23",
+     "vpos": "VB"
+    },
+    {
+     "vword": "catch",
+     "vstart": "286.29",
+     "vend": "286.61",
+     "vpos": "VB"
+    },
+    {
+     "vword": "detect",
+     "vstart": "287.30",
+     "vend": "287.69",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man and a dog on a leash . ",
+    "a police dog is being held by a handler . ",
+    "a police dog is being held by a man . ",
+    "a police dog is training for a new job . ",
+    "a police officer is training a dog to be a police officer . ",
+    "a police officer is walking a dog in the woods . ",
+    "a police officer is walking a dog on a leash . "
+   ]
+  },
+  {
+   "sentence": "He 's got the drive for the work but he is a bit rusty on obedience .",
+   "starttime": "288.74",
+   "endtime": "292.44",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "288.94",
+     "vend": "289.01",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "got",
+     "vstart": "289.51",
+     "vend": "289.71",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "is",
+     "vstart": "290.99",
+     "vend": "290.99",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a dog and a cat are playing with a container . ",
+    "a dog is walking on a leash in an office . ",
+    "a dog standing on top of a wooden table . ",
+    "a man standing in front of a black dog . ",
+    "a person walking a dog on a leash . ",
+    "a police officer is walking a dog on a leash . "
+   ]
+  },
+  {
+   "sentence": "The bond is already forming between the two .",
+   "starttime": "293.19",
+   "endtime": "295.31",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "293.72",
+     "vend": "293.74",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "forming",
+     "vstart": "294.26",
+     "vend": "294.70",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a man holding a dog in a harness . ",
+    "a man holding a dog in front of a police car . ",
+    "a man holding a dog in his arms . "
+   ]
+  },
+  {
+   "sentence": "There will never be a replacement but it 's a new partner .",
+   "starttime": "295.32",
+   "endtime": "302.86",
+   "verbs": [
+    {
+     "vword": "will",
+     "vstart": "299.46",
+     "vend": "299.50",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "299.76",
+     "vend": "299.90",
+     "vpos": "VB"
+    },
+    {
+     "vword": "&apos;s",
+     "vstart": "302.19",
+     "vend": "302.23",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man holding a dog in front of a police car . ",
+    "a man standing in front of a building . "
+   ]
+  },
+  {
+   "sentence": "We are moving forward with training .",
+   "starttime": "303.46",
+   "endtime": "305.08",
+   "verbs": [
+    {
+     "vword": "are",
+     "vstart": "303.48",
+     "vend": "303.52",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "moving",
+     "vstart": "303.52",
+     "vend": "303.83",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a man standing in front of a building . "
+   ]
+  },
+  {
+   "sentence": "Hopefully in seven or eight years when he is ready to retire I can walk out the door with him and say we did JETHRO proud .",
+   "starttime": "305.31",
+   "endtime": "313.12",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "307.80",
+     "vend": "307.91",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "retire",
+     "vstart": "308.22",
+     "vend": "308.90",
+     "vpos": "VB"
+    },
+    {
+     "vword": "can",
+     "vstart": "309.08",
+     "vend": "309.23",
+     "vpos": "MD"
+    },
+    {
+     "vword": "walk",
+     "vstart": "309.23",
+     "vend": "309.45",
+     "vpos": "VB"
+    },
+    {
+     "vword": "say",
+     "vstart": "310.22",
+     "vend": "310.24",
+     "vpos": "VB"
+    },
+    {
+     "vword": "did",
+     "vstart": "312.23",
+     "vend": "312.40",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a man walking a dog on a leash . ",
+    "a police dog is being trained by a man . ",
+    "a police dog is standing next to a man . ",
+    "two police dogs and two men in front of a police car . ",
+    "two police dogs and two men near a police car . ",
+    "two police dogs and two men standing in front of a police car . ",
+    "two police dogs and two men standing next to a police car . ",
+    "two police dogs are being trained by two men . "
+   ]
+  },
+  {
+   "sentence": "JETHRO 's death brought national attention to the Department and aided in K 9S FOR COPS in Houston to provide Tuko .",
+   "starttime": "314.52",
+   "endtime": "319.78",
+   "verbs": [
+    {
+     "vword": "brought",
+     "vstart": "314.52",
+     "vend": "314.81",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "aided",
+     "vstart": "316.93",
+     "vend": "317.27",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "provide",
+     "vstart": "319.37",
+     "vend": "319.76",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man is walking a dog on a leash . ",
+    "a man walking a dog on a leash . ",
+    "a police officer is training a dog on a leash . ",
+    "a police officer walking a dog on a leash . "
+   ]
+  },
+  {
+   "sentence": "People have embraced him .",
+   "starttime": "322.88",
+   "endtime": "324.18",
+   "verbs": [
+    {
+     "vword": "have",
+     "vstart": "323.50",
+     "vend": "323.64",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "embraced",
+     "vstart": "323.64",
+     "vend": "324.16",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a man standing in front of a building . "
+   ]
+  },
+  {
+   "sentence": "They 're seeing him and want to follow him .",
+   "starttime": "325.83",
+   "endtime": "327.37",
+   "verbs": [
+    {
+     "vword": "&apos;re",
+     "vstart": "325.94",
+     "vend": "326.01",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "seeing",
+     "vstart": "326.01",
+     "vend": "326.30",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "want",
+     "vstart": "326.62",
+     "vend": "326.76",
+     "vpos": "VB"
+    },
+    {
+     "vword": "follow",
+     "vstart": "326.83",
+     "vend": "327.24",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man standing in front of a building . "
+   ]
+  },
+  {
+   "sentence": "They want to see what he does .",
+   "starttime": "327.37",
+   "endtime": "328.41",
+   "verbs": [
+    {
+     "vword": "want",
+     "vstart": "327.48",
+     "vend": "327.59",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "see",
+     "vstart": "327.64",
+     "vend": "327.81",
+     "vpos": "VB"
+    },
+    {
+     "vword": "does",
+     "vstart": "328.03",
+     "vend": "328.41",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man standing in front of a building . "
+   ]
+  },
+  {
+   "sentence": "He is going to be a good one .",
+   "starttime": "328.41",
+   "endtime": "331.11",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "328.41",
+     "vend": "328.41",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "going",
+     "vstart": "329.01",
+     "vend": "329.06",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "be",
+     "vstart": "330.56",
+     "vend": "330.69",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man and a dog in the woods . ",
+    "a man is walking a dog on a leash . ",
+    "a man standing in front of a building . ",
+    "a man standing next to a bear in the woods . ",
+    "two men are training a police dog . "
+   ]
+  },
+  {
+   "sentence": "Here we go .",
+   "starttime": "339.45",
+   "endtime": "339.95",
+   "verbs": [
+    {
+     "vword": "go",
+     "vstart": "339.74",
+     "vend": "339.95",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a man is sitting in front of a tv . ",
+    "a man sitting in front of a news desk . "
+   ]
+  },
+  {
+   "sentence": "People across Iowa will cast the first votes in the country for President and they do that today as they gather for the Iowa caucuses .",
+   "starttime": "340.40",
+   "endtime": "349.10",
+   "verbs": [
+    {
+     "vword": "will",
+     "vstart": "342.76",
+     "vend": "342.95",
+     "vpos": "MD"
+    },
+    {
+     "vword": "cast",
+     "vstart": "342.95",
+     "vend": "343.28",
+     "vpos": "VB"
+    },
+    {
+     "vword": "do",
+     "vstart": "345.91",
+     "vend": "346.16",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "gather",
+     "vstart": "347.25",
+     "vend": "347.78",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a man is standing in front of a news desk . ",
+    "a man is standing in front of a tv . ",
+    "a man sitting in front of a tv on a desk . ",
+    "a man standing in front of a news desk . ",
+    "a man standing in front of a television . "
+   ]
+  },
+  {
+   "sentence": "What is a caucus and how does it affect the race for the White House",
+   "starttime": "349.55",
+   "endtime": "353.45",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "349.81",
+     "vend": "350.17",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "does",
+     "vstart": "350.74",
+     "vend": "350.74",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "affect",
+     "vstart": "351.48",
+     "vend": "351.79",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man in front of a television on a news set . ",
+    "a man in front of a tv on a news desk . ",
+    "a man is sitting in front of a television . ",
+    "a man sitting in front of a television . ",
+    "a man standing in front of a television . "
+   ]
+  },
+  {
+   "sentence": "A caucus is not like the primaries like we do in Ohio .",
+   "starttime": "353.85",
+   "endtime": "357.32",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "354.69",
+     "vend": "354.87",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "like",
+     "vstart": "355.10",
+     "vend": "355.27",
+     "vpos": "VB"
+    },
+    {
+     "vword": "do",
+     "vstart": "356.37",
+     "vend": "356.53",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a picture of the iowa caucuses . ",
+    "a picture of the iowa caucuses with the word \" what \" on it . ",
+    "an image of an ad for a political event ",
+    "an image of an ad for a tv show ",
+    "an image of what is a caucus "
+   ]
+  },
+  {
+   "sentence": "There are no voting booths .",
+   "starttime": "357.32",
+   "endtime": "358.76",
+   "verbs": [
+    {
+     "vword": "are",
+     "vstart": "357.54",
+     "vend": "357.74",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a picture of the iowa caucuses . ",
+    "an image of an ad for a political event ",
+    "there is a man giving a speech to a crowd . ",
+    "there is an image of a man giving a speech "
+   ]
+  },
+  {
+   "sentence": "Instead a caucus is a local political party meeting where they discuss the party 's platform and vote for their favorite candidate but the two major parties caucus differently .",
+   "starttime": "359.42",
+   "endtime": "369.30",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "360.54",
+     "vend": "360.69",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "discuss",
+     "vstart": "363.07",
+     "vend": "363.50",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "an image of a person giving a speech ",
+    "there is a man giving a speech to a crowd . ",
+    "there is an image of a person giving a speech . ",
+    "two political symbols are shown side - by - side . "
+   ]
+  },
+  {
+   "sentence": "Republicans vote by secret ballot or a raised hand .",
+   "starttime": "369.60",
+   "endtime": "373.25",
+   "verbs": [
+    {
+     "vword": "raised",
+     "vstart": "372.46",
+     "vend": "372.86",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a group of people sitting on top of each other . ",
+    "a red and white building with a star on it . ",
+    "a tv screen showing a republican and a democrat . ",
+    "there is an image of a republican caucus . "
+   ]
+  },
+  {
+   "sentence": "Democrats divide into groups based on which candidate they support .",
+   "starttime": "373.62",
+   "endtime": "377.44",
+   "verbs": [
+    {
+     "vword": "divide",
+     "vstart": "374.41",
+     "vend": "374.73",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "based",
+     "vstart": "375.38",
+     "vend": "375.71",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "support",
+     "vstart": "376.90",
+     "vend": "377.44",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a group of people standing in front of a screen . ",
+    "a tv screen showing a republican and a democrat . "
+   ]
+  },
+  {
+   "sentence": "During the caucus they can try and convince one another to change sides or candidates .",
+   "starttime": "377.79",
+   "endtime": "382.45",
+   "verbs": [
+    {
+     "vword": "can",
+     "vstart": "378.78",
+     "vend": "378.93",
+     "vpos": "MD"
+    },
+    {
+     "vword": "try",
+     "vstart": "378.93",
+     "vend": "379.18",
+     "vpos": "VB"
+    },
+    {
+     "vword": "convince",
+     "vstart": "379.30",
+     "vend": "379.75",
+     "vpos": "VB"
+    },
+    {
+     "vword": "change",
+     "vstart": "380.74",
+     "vend": "381.24",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a graphic of a caucus showing a clock and people . ",
+    "a group of people standing in front of a screen . ",
+    "a screen shot of the iowa caucuses . ",
+    "there is an image of a political campaign . "
+   ]
+  },
+  {
+   "sentence": "It 's one of the reasons that a caucus can take up to two hours .",
+   "starttime": "382.92",
+   "endtime": "385.92",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "383.07",
+     "vend": "383.13",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "can",
+     "vstart": "384.59",
+     "vend": "384.75",
+     "vpos": "MD"
+    },
+    {
+     "vword": "take",
+     "vstart": "384.75",
+     "vend": "385.01",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "an image of a clock with the words \" health can take two hours \". ",
+    "an image of an image of an image of an image of an image ",
+    "there is an image of an analog clock on the screen . "
+   ]
+  },
+  {
+   "sentence": "A candidate does n't have to win Iowa to become the president but no candidate who finished worse than third has got onto win the White House .",
+   "starttime": "386.42",
+   "endtime": "395.39",
+   "verbs": [
+    {
+     "vword": "does",
+     "vstart": "387.10",
+     "vend": "387.35",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "have",
+     "vstart": "387.42",
+     "vend": "387.57",
+     "vpos": "VB"
+    },
+    {
+     "vword": "win",
+     "vstart": "387.67",
+     "vend": "387.89",
+     "vpos": "VB"
+    },
+    {
+     "vword": "become",
+     "vstart": "388.84",
+     "vend": "389.14",
+     "vpos": "VB"
+    },
+    {
+     "vword": "finished",
+     "vstart": "391.40",
+     "vend": "391.80",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "has",
+     "vstart": "393.02",
+     "vend": "393.25",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "got",
+     "vstart": "393.55",
+     "vend": "393.79",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "win",
+     "vstart": "394.35",
+     "vend": "394.59",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a bunch of people are in front of a sign . ",
+    "a close - up of a tv schedule for the 2 0 2 0 iowa caucus . ",
+    "a close - up of a tv screen with the names of the states . ",
+    "a close - up of the iowa caucus schedule . ",
+    "a picture of the iowa caucuses is posted . ",
+    "a series of pictures of the presidential candidates . ",
+    "an image of a clock with the words \" breaking down the iowa caucus \" on it . ",
+    "the iowa caucuses are taking place in the state . ",
+    "there is a series of political events on the same page . ",
+    "there is a series of political events on this page . "
+   ]
+  },
+  {
+   "sentence": "Those are the rules of the game .",
+   "starttime": "396.18",
+   "endtime": "397.44",
+   "verbs": [
+    {
+     "vword": "are",
+     "vstart": "396.46",
+     "vend": "396.52",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a news set . "
+   ]
+  },
+  {
+   "sentence": "Tonight Iowa voters get to decide who they think should become president .",
+   "starttime": "397.64",
+   "endtime": "402.26",
+   "verbs": [
+    {
+     "vword": "get",
+     "vstart": "399.28",
+     "vend": "399.52",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "decide",
+     "vstart": "399.63",
+     "vend": "400.04",
+     "vpos": "VB"
+    },
+    {
+     "vword": "think",
+     "vstart": "400.71",
+     "vend": "401.25",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "should",
+     "vstart": "401.32",
+     "vend": "401.51",
+     "vpos": "MD"
+    },
+    {
+     "vword": "become",
+     "vstart": "401.51",
+     "vend": "401.86",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a news set . ",
+    "a man wearing a suit and tie on a news set . "
+   ]
+  },
+  {
+   "sentence": "That is where we go right now .",
+   "starttime": "402.54",
+   "endtime": "404.20",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "402.77",
+     "vend": "403.17",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "go",
+     "vstart": "403.72",
+     "vend": "403.87",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a news set . ",
+    "a man wearing a suit and tie on a news set . ",
+    "two men in suits are talking on a tv screen . "
+   ]
+  },
+  {
+   "sentence": "We Find Steve Handelsman .",
+   "starttime": "404.21",
+   "endtime": "405.98",
+   "verbs": [
+    {
+     "vword": "Find",
+     "vstart": "404.34",
+     "vend": "404.55",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a news set . ",
+    "two men are sitting next to each other on a news set . ",
+    "two men in suits are talking on a tv screen . ",
+    "two men sitting next to each other in front of a tv screen . "
+   ]
+  },
+  {
+   "sentence": "He joins me live from destroy computers MOANS .",
+   "starttime": "406.10",
+   "endtime": "407.50",
+   "verbs": [
+    {
+     "vword": "joins",
+     "vstart": "406.38",
+     "vend": "406.66",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "live",
+     "vstart": "406.83",
+     "vend": "407.25",
+     "vpos": "VB"
+    },
+    {
+     "vword": "destroy",
+     "vstart": "407.50",
+     "vend": "407.50",
+     "vpos": "VB"
+    },
+    {
+     "vword": "MOANS",
+     "vstart": "407.50",
+     "vend": "407.50",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a news set . ",
+    "two men are sitting in front of a news desk . "
+   ]
+  },
+  {
+   "sentence": "Candidates were out in full force campaigning .",
+   "starttime": "408.17",
+   "endtime": "411.07",
+   "verbs": [
+    {
+     "vword": "were",
+     "vstart": "408.65",
+     "vend": "408.86",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a tv screen . ",
+    "two men sitting next to each other in front of a television screen . "
+   ]
+  },
+  {
+   "sentence": "Hi Jimmy .",
+   "starttime": "411.07",
+   "endtime": "411.30",
+   "verbs": [],
+   "frame_data": [
+    "a man in a suit and tie on a tv screen . "
+   ]
+  },
+  {
+   "sentence": "Hi Steve .",
+   "starttime": "411.30",
+   "endtime": "411.84",
+   "verbs": [],
+   "frame_data": [
+    "a man in a suit and tie on a news set . ",
+    "a man in a suit and tie on a tv screen . ",
+    "two men are sitting next to each other on tv . "
+   ]
+  },
+  {
+   "sentence": "Turn out turn out turn out .",
+   "starttime": "412.00",
+   "endtime": "413.55",
+   "verbs": [
+    {
+     "vword": "Turn",
+     "vstart": "412.00",
+     "vend": "412.32",
+     "vpos": "VB"
+    },
+    {
+     "vword": "turn",
+     "vstart": "412.59",
+     "vend": "412.89",
+     "vpos": "VB"
+    },
+    {
+     "vword": "turn",
+     "vstart": "413.11",
+     "vend": "413.40",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a tv screen . ",
+    "a man in a suit and tie sitting in front of a camera . ",
+    "two men are sitting in front of a tv screen . "
+   ]
+  },
+  {
+   "sentence": "Is that the mainline tonight",
+   "starttime": "414.70",
+   "endtime": "413.55",
+   "verbs": [
+    {
+     "vword": "Is",
+     "vstart": "414.70",
+     "vend": "414.87",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a tv screen . ",
+    "a man in a suit and tie on a tv show . ",
+    "a man in a suit and tie sitting in front of a camera . "
+   ]
+  },
+  {
+   "sentence": "Absolutely and more so than most elections .",
+   "starttime": "417.77",
+   "endtime": "420.50",
+   "verbs": [],
+   "frame_data": [
+    "a man in a suit and tie on a tv screen . ",
+    "a man wearing a suit and tie . ",
+    "two men sitting next to each other on a news set . "
+   ]
+  },
+  {
+   "sentence": "Here is why .",
+   "starttime": "420.62",
+   "endtime": "421.25",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "420.76",
+     "vend": "420.88",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man in front of a television screen . ",
+    "a man wearing a suit and tie . ",
+    "a man wearing a suit and tie in front of a television . "
+   ]
+  },
+  {
+   "sentence": "The turn out in Iowa frankly is usually terrible .",
+   "starttime": "421.59",
+   "endtime": "425.15",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "423.55",
+     "vend": "423.70",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a television screen . ",
+    "a man wearing a suit and purple tie ",
+    "a man wearing a suit and tie . "
+   ]
+  },
+  {
+   "sentence": "When Barack Obama famously beat Hillary Clinton in 2008 a humiliating defeat for this year 's nationally topped polling Democratic candidate she does n't want it to happen again tonight .",
+   "starttime": "425.35",
+   "endtime": "436.88",
+   "verbs": [
+    {
+     "vword": "beat",
+     "vstart": "427.44",
+     "vend": "427.68",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "topped",
+     "vstart": "433.13",
+     "vend": "433.44",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "does",
+     "vstart": "435.18",
+     "vend": "435.40",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "want",
+     "vstart": "435.45",
+     "vend": "435.57",
+     "vpos": "VB"
+    },
+    {
+     "vword": "happen",
+     "vstart": "435.77",
+     "vend": "436.10",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a television screen . ",
+    "a man in front of a television screen . ",
+    "a man wearing a suit and tie . ",
+    "a man wearing a suit and tie in front of a television . ",
+    "a man wearing a suit and tie on a television screen . "
+   ]
+  },
+  {
+   "sentence": "He won because he got a lot more eye wants who never caucused before to turn out .",
+   "starttime": "437.36",
+   "endtime": "442.33",
+   "verbs": [
+    {
+     "vword": "won",
+     "vstart": "437.76",
+     "vend": "438.23",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "got",
+     "vstart": "438.66",
+     "vend": "438.80",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "wants",
+     "vstart": "440.12",
+     "vend": "440.21",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "caucused",
+     "vstart": "440.87",
+     "vend": "441.30",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "turn",
+     "vstart": "441.79",
+     "vend": "442.13",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man in front of a television screen . ",
+    "a man wearing a suit and tie . ",
+    "a man wearing a suit and tie in front of a television . ",
+    "a man wearing a suit and tie sitting in front of a television . "
+   ]
+  },
+  {
+   "sentence": "That 's the Formula Bernie Sanders will try to use to beat Hillary Clinton and that 's also the formula that Donald Trump will try to use to beat Ted Cruz because Ted Cruz 's supporters tend to be crit Khan conservatives evangelicals who among all the voters in Iowa are the most reliable people to turn out even when snow might be predicted as it is in parts of Iowa tonight Jimmy .",
+   "starttime": "442.57",
+   "endtime": "467.33",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "442.84",
+     "vend": "442.89",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "will",
+     "vstart": "444.54",
+     "vend": "444.54",
+     "vpos": "MD"
+    },
+    {
+     "vword": "try",
+     "vstart": "444.54",
+     "vend": "444.54",
+     "vpos": "VB"
+    },
+    {
+     "vword": "use",
+     "vstart": "445.17",
+     "vend": "445.65",
+     "vpos": "VB"
+    },
+    {
+     "vword": "beat",
+     "vstart": "445.83",
+     "vend": "446.05",
+     "vpos": "VB"
+    },
+    {
+     "vword": "&apos;s",
+     "vstart": "447.35",
+     "vend": "447.43",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "will",
+     "vstart": "449.80",
+     "vend": "449.80",
+     "vpos": "MD"
+    },
+    {
+     "vword": "try",
+     "vstart": "449.80",
+     "vend": "449.80",
+     "vpos": "VB"
+    },
+    {
+     "vword": "use",
+     "vstart": "450.42",
+     "vend": "450.79",
+     "vpos": "VB"
+    },
+    {
+     "vword": "beat",
+     "vstart": "451.18",
+     "vend": "451.40",
+     "vpos": "VB"
+    },
+    {
+     "vword": "tend",
+     "vstart": "454.04",
+     "vend": "454.27",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "be",
+     "vstart": "454.33",
+     "vend": "454.56",
+     "vpos": "VB"
+    },
+    {
+     "vword": "are",
+     "vstart": "460.75",
+     "vend": "460.88",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "turn",
+     "vstart": "462.34",
+     "vend": "462.62",
+     "vpos": "VB"
+    },
+    {
+     "vword": "might",
+     "vstart": "464.16",
+     "vend": "464.42",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "464.42",
+     "vend": "464.56",
+     "vpos": "VB"
+    },
+    {
+     "vword": "predicted",
+     "vstart": "464.56",
+     "vend": "465.16",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "is",
+     "vstart": "465.44",
+     "vend": "465.64",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie sitting in front of a tv . ",
+    "a man wearing a suit and tie . ",
+    "a man wearing a suit and tie in front of a television . "
+   ]
+  },
+  {
+   "sentence": "I know it 's only the first of a long line of primaries coming up .",
+   "starttime": "468.68",
+   "endtime": "471.66",
+   "verbs": [
+    {
+     "vword": "know",
+     "vstart": "468.73",
+     "vend": "468.89",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "&apos;s",
+     "vstart": "468.99",
+     "vend": "469.05",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "coming",
+     "vstart": "471.25",
+     "vend": "471.51",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "two men are sitting in front of a television screen . ",
+    "two men are sitting in front of a tv screen . ",
+    "two men are sitting in front of each other on tv . ",
+    "two men are talking on a tv screen . ",
+    "two men in suits are talking on a news set . ",
+    "two men in suits are talking on tv . "
+   ]
+  },
+  {
+   "sentence": "Is it make or break for some candidates tonight",
+   "starttime": "471.84",
+   "endtime": "471.66",
+   "verbs": [
+    {
+     "vword": "Is",
+     "vstart": "471.84",
+     "vend": "472.07",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "make",
+     "vstart": "472.25",
+     "vend": "472.62",
+     "vpos": "VB"
+    },
+    {
+     "vword": "break",
+     "vstart": "472.70",
+     "vend": "473.09",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a tv screen . ",
+    "a man in a suit and tie on a tv show . ",
+    "two men are sitting in front of a tv screen . ",
+    "two men are sitting next to each other on tv . ",
+    "two men sitting next to each other in front of a tv screen . "
+   ]
+  },
+  {
+   "sentence": "I think it could be make more than break .",
+   "starttime": "476.39",
+   "endtime": "479.13",
+   "verbs": [
+    {
+     "vword": "think",
+     "vstart": "476.54",
+     "vend": "476.85",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "could",
+     "vstart": "477.01",
+     "vend": "477.29",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "477.30",
+     "vend": "477.60",
+     "vpos": "VB"
+    },
+    {
+     "vword": "make",
+     "vstart": "477.65",
+     "vend": "478.27",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man wearing a suit and tie . ",
+    "a man wearing a suit and tie in front of a television . ",
+    "a man wearing a suit and tie in front of a tv . ",
+    "a man wearing a suit and tie on a tv screen . "
+   ]
+  },
+  {
+   "sentence": "If Bernie Sanders wins here and he is way ahead in the polls in New Hampshire which is next to his home state of Vermont that 's going to be a bomb shell going off in the Democratic Party .",
+   "starttime": "479.32",
+   "endtime": "491.18",
+   "verbs": [
+    {
+     "vword": "wins",
+     "vstart": "480.54",
+     "vend": "480.89",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "is",
+     "vstart": "481.82",
+     "vend": "481.94",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "is",
+     "vstart": "485.00",
+     "vend": "485.17",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "&apos;s",
+     "vstart": "487.82",
+     "vend": "487.88",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "going",
+     "vstart": "487.88",
+     "vend": "488.02",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "be",
+     "vstart": "488.04",
+     "vend": "488.26",
+     "vpos": "VB"
+    },
+    {
+     "vword": "going",
+     "vstart": "489.50",
+     "vend": "489.84",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman standing next to each other . ",
+    "a man in a suit and tie holding a cell phone . ",
+    "a man in a suit and tie on a television screen . ",
+    "a man is talking to a crowd of people . ",
+    "a man wearing a suit and tie in front of a television . ",
+    "a man wearing glasses and a suit and tie . ",
+    "an image of a man talking to a woman ",
+    "there is a man in a suit and tie on tv "
+   ]
+  },
+  {
+   "sentence": "If Donald Trump wins it wo n't be so much of a surprise but it will be confirmation Jimmy that this guy is the real deal .",
+   "starttime": "491.23",
+   "endtime": "498.48",
+   "verbs": [
+    {
+     "vword": "wins",
+     "vstart": "492.06",
+     "vend": "492.46",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "wo",
+     "vstart": "492.67",
+     "vend": "492.82",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "492.86",
+     "vend": "492.99",
+     "vpos": "VB"
+    },
+    {
+     "vword": "will",
+     "vstart": "494.11",
+     "vend": "494.14",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "495.10",
+     "vend": "495.24",
+     "vpos": "VB"
+    },
+    {
+     "vword": "is",
+     "vstart": "497.46",
+     "vend": "497.63",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a crowd of people sitting in front of a microphone . ",
+    "a group of people that are sitting in front of a tv . ",
+    "a man in a suit and tie holding a microphone . ",
+    "a screen shot of a man speaking at a political event . ",
+    "a screen shot of a tv show with a man and a woman . ",
+    "a tv screen showing a man and a woman . ",
+    "a tv screen showing a woman and a man . ",
+    "an image of a man giving a speech on tv "
+   ]
+  },
+  {
+   "sentence": "He has never run for anything .",
+   "starttime": "498.49",
+   "endtime": "500.91",
+   "verbs": [
+    {
+     "vword": "has",
+     "vstart": "498.72",
+     "vend": "498.91",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "run",
+     "vstart": "499.52",
+     "vend": "499.96",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a group of people standing next to each other . ",
+    "a group of people that are sitting in front of a microphone . ",
+    "a man in a suit and tie holding a microphone . ",
+    "a man is sitting in front of a microphone . ",
+    "a tv screen showing a man holding a microphone . "
+   ]
+  },
+  {
+   "sentence": "You remember six months ten months ago people said forget trump .",
+   "starttime": "501.58",
+   "endtime": "505.45",
+   "verbs": [
+    {
+     "vword": "remember",
+     "vstart": "501.83",
+     "vend": "502.36",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "said",
+     "vstart": "504.51",
+     "vend": "504.72",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "forget",
+     "vstart": "504.74",
+     "vend": "505.09",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man is sitting in front of an image of president trump . ",
+    "a man standing in front of an audience . ",
+    "a tv screen showing a man in a business suit and another man in business suit . ",
+    "a tv screen showing a man talking to president trump . ",
+    "an image of a man giving a presentation "
+   ]
+  },
+  {
+   "sentence": "If trump wins on his first try in his own words he says he could run the table .",
+   "starttime": "505.69",
+   "endtime": "510.90",
+   "verbs": [
+    {
+     "vword": "wins",
+     "vstart": "506.25",
+     "vend": "506.81",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "says",
+     "vstart": "509.57",
+     "vend": "509.84",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "could",
+     "vstart": "510.04",
+     "vend": "510.20",
+     "vpos": "MD"
+    },
+    {
+     "vword": "run",
+     "vstart": "510.20",
+     "vend": "510.39",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit is speaking to a crowd . ",
+    "a man is giving a speech on tv . ",
+    "a man is speaking to a crowd in front of a tv . ",
+    "a man standing in front of a microphone on a television screen . ",
+    "a man standing in front of an audience on a television screen . ",
+    "an image of a man giving a presentation "
+   ]
+  },
+  {
+   "sentence": "He could because he is polling way better in New Hampshire South Carolina Nevada the next states to vote than he is in Iowa .",
+   "starttime": "511.09",
+   "endtime": "518.09",
+   "verbs": [
+    {
+     "vword": "could",
+     "vstart": "511.17",
+     "vend": "511.56",
+     "vpos": "MD"
+    },
+    {
+     "vword": "is",
+     "vstart": "512.25",
+     "vend": "512.36",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "vote",
+     "vstart": "516.57",
+     "vend": "516.82",
+     "vpos": "VB"
+    },
+    {
+     "vword": "is",
+     "vstart": "517.30",
+     "vend": "517.47",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie standing in front of an audience . ",
+    "a man standing in front of a television . ",
+    "a man wearing a suit and tie . ",
+    "a man wearing a suit and tie in front of a television . "
+   ]
+  },
+  {
+   "sentence": "Big Turn out tonight or surprising support for trump and he wins that will be a bomb shell on the Republican side .",
+   "starttime": "518.64",
+   "endtime": "525.21",
+   "verbs": [
+    {
+     "vword": "wins",
+     "vstart": "522.16",
+     "vend": "522.66",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "will",
+     "vstart": "522.90",
+     "vend": "522.98",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "522.99",
+     "vend": "523.15",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man wearing a suit and tie . ",
+    "a man wearing a suit and tie in front of a television . ",
+    "a man wearing a suit and tie sitting in front of a tv . "
+   ]
+  },
+  {
+   "sentence": "Sanders wins a bomb shell on the democratic side .",
+   "starttime": "525.39",
+   "endtime": "528.00",
+   "verbs": [
+    {
+     "vword": "wins",
+     "vstart": "525.91",
+     "vend": "526.15",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man wearing a suit and tie . ",
+    "a man wearing a suit and tie sitting in front of a tv . "
+   ]
+  },
+  {
+   "sentence": "Steve thanks for setting the table for us in Iowa .",
+   "starttime": "528.64",
+   "endtime": "531.01",
+   "verbs": [
+    {
+     "vword": "setting",
+     "vstart": "529.28",
+     "vend": "529.52",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a television screen . ",
+    "a man in a suit and tie on a tv screen . ",
+    "a man in a suit and tie on a tv show . "
+   ]
+  },
+  {
+   "sentence": "You 're welcome .",
+   "starttime": "532.25",
+   "endtime": "532.62",
+   "verbs": [
+    {
+     "vword": "&apos;re",
+     "vstart": "532.27",
+     "vend": "532.28",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "two men in suits and ties are talking . ",
+    "two men in suits and ties on a news set . ",
+    "two men sitting next to each other in front of a television screen . "
+   ]
+  },
+  {
+   "sentence": "Ohio Governor John Kasich is looking ahead .",
+   "starttime": "533.65",
+   "endtime": "536.27",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "535.37",
+     "vend": "535.54",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "looking",
+     "vstart": "535.54",
+     "vend": "535.87",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a news set . "
+   ]
+  },
+  {
+   "sentence": "He is moving past the Iowa caucuses and campaigning in New Hampshire where he is polling very well .",
+   "starttime": "536.41",
+   "endtime": "542.16",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "536.50",
+     "vend": "536.60",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "moving",
+     "vstart": "536.60",
+     "vend": "536.93",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "is",
+     "vstart": "541.07",
+     "vend": "541.21",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a news set . ",
+    "a man in a suit and tie sitting in front of a news desk . ",
+    "a man sitting in front of a news desk . "
+   ]
+  },
+  {
+   "sentence": "That 's where our senior political correspondent is tonight .",
+   "starttime": "542.37",
+   "endtime": "546.14",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "542.64",
+     "vend": "542.70",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "is",
+     "vstart": "544.33",
+     "vend": "544.35",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a news set . ",
+    "a man is sitting in front of a news desk . "
+   ]
+  },
+  {
+   "sentence": "I am in the town of Louden New Hampshire .",
+   "starttime": "546.95",
+   "endtime": "549.77",
+   "verbs": [
+    {
+     "vword": "am",
+     "vstart": "547.07",
+     "vend": "547.09",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a man standing in front of a fire station . ",
+    "a man standing in front of a fire truck . "
+   ]
+  },
+  {
+   "sentence": "All eyes are on the Iowa caucuses or almost all eyes .",
+   "starttime": "549.88",
+   "endtime": "554.54",
+   "verbs": [
+    {
+     "vword": "are",
+     "vstart": "550.54",
+     "vend": "550.55",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a man standing in front of a fire station . ",
+    "a man standing in front of a fire truck . ",
+    "john kasicek is the new hampshire state fire marshal . "
+   ]
+  },
+  {
+   "sentence": "Governor John Kasich is spending the day in New Hampshire sticking with his all in strategy here trying to sell himself as the parties ' most pragmatic choice .",
+   "starttime": "554.57",
+   "endtime": "564.74",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "556.63",
+     "vend": "556.65",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "spending",
+     "vstart": "556.65",
+     "vend": "557.04",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "sticking",
+     "vstart": "559.17",
+     "vend": "559.63",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "trying",
+     "vstart": "561.25",
+     "vend": "561.56",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "sell",
+     "vstart": "561.69",
+     "vend": "561.96",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie standing in front of fire trucks . ",
+    "a man standing in a parking lot next to fire trucks . ",
+    "a man standing in front of a fire truck . ",
+    "john kasich is the new hampshire republican party chairman . "
+   ]
+  },
+  {
+   "sentence": "The political world is focused on tonight 's Iowa caucuses but not governor John Kasich .",
+   "starttime": "565.07",
+   "endtime": "569.75",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "565.86",
+     "vend": "565.98",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "focused",
+     "vstart": "565.98",
+     "vend": "566.43",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a group of people standing around a plane on a runway . ",
+    "a man is speaking to a group of people . ",
+    "a man standing in front of a projector screen . "
+   ]
+  },
+  {
+   "sentence": "The governor is sticking with his all in New Hampshire game plan .",
+   "starttime": "570.40",
+   "endtime": "573.93",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "570.87",
+     "vend": "570.92",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "sticking",
+     "vstart": "570.94",
+     "vend": "571.41",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a man holding a microphone while standing in front of people . ",
+    "a man is speaking to a group of people ",
+    "a man standing in front of a group of people . "
+   ]
+  },
+  {
+   "sentence": "If he has impressive showing in next Tuesday 's he hopes he will launch as the positive pragmatic choice to trump or Cruz .",
+   "starttime": "574.22",
+   "endtime": "583.45",
+   "verbs": [
+    {
+     "vword": "has",
+     "vstart": "574.48",
+     "vend": "574.69",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "showing",
+     "vstart": "575.24",
+     "vend": "575.65",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "hopes",
+     "vstart": "577.48",
+     "vend": "577.72",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "will",
+     "vstart": "577.86",
+     "vend": "577.93",
+     "vpos": "MD"
+    },
+    {
+     "vword": "launch",
+     "vstart": "577.93",
+     "vend": "578.25",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a group of people sitting in front of an american flag . ",
+    "a man standing in front of a group of people "
+   ]
+  },
+  {
+   "sentence": "If he flops he may have to reevaluate things see how much money he has to continue .",
+   "starttime": "583.86",
+   "endtime": "589.71",
+   "verbs": [
+    {
+     "vword": "flops",
+     "vstart": "584.13",
+     "vend": "584.66",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "may",
+     "vstart": "585.52",
+     "vend": "585.70",
+     "vpos": "MD"
+    },
+    {
+     "vword": "have",
+     "vstart": "585.70",
+     "vend": "585.90",
+     "vpos": "VB"
+    },
+    {
+     "vword": "reevaluate",
+     "vstart": "586.03",
+     "vend": "586.80",
+     "vpos": "VB"
+    },
+    {
+     "vword": "see",
+     "vstart": "587.53",
+     "vend": "587.80",
+     "vpos": "VB"
+    },
+    {
+     "vword": "has",
+     "vstart": "588.67",
+     "vend": "588.93",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "continue",
+     "vstart": "589.02",
+     "vend": "589.71",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a group of people sitting in front of a crowd . ",
+    "a group of people sitting in front of a sign . ",
+    "a group of people sitting in front of an american flag . ",
+    "a man standing in front of a group of people . "
+   ]
+  },
+  {
+   "sentence": "He is embracing his latest endorsement from New York Times .",
+   "starttime": "589.93",
+   "endtime": "592.95",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "590.14",
+     "vend": "590.23",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "embracing",
+     "vstart": "590.23",
+     "vend": "590.78",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a group of people sitting in front of a microphone . ",
+    "a man standing in front of a crowd of people . ",
+    "a man standing in front of a group of people . ",
+    "a man standing in front of an american flag . "
+   ]
+  },
+  {
+   "sentence": "Some conservatives say who would want that",
+   "starttime": "593.40",
+   "endtime": "596.02",
+   "verbs": [
+    {
+     "vword": "say",
+     "vstart": "594.38",
+     "vend": "594.73",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "would",
+     "vstart": "595.35",
+     "vend": "595.53",
+     "vpos": "MD"
+    },
+    {
+     "vword": "want",
+     "vstart": "595.53",
+     "vend": "595.77",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a group of people sitting in front of a microphone . ",
+    "a man standing in front of a group of people ",
+    "a man standing in front of a group of people . ",
+    "a man standing in front of an audience . ",
+    "kasich campaigning in new hampshire in 2 0 1 2 . "
+   ]
+  },
+  {
+   "sentence": "Also today Kasich is urging rivals super pacs to stop negative campaigning .",
+   "starttime": "596.62",
+   "endtime": "602.25",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "598.47",
+     "vend": "598.49",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "urging",
+     "vstart": "598.49",
+     "vend": "598.90",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "stop",
+     "vstart": "600.81",
+     "vend": "601.14",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a group of people standing in front of a crowd . ",
+    "a man standing in front of a crowd of people . ",
+    "a man standing in front of a fire truck . ",
+    "a man standing in front of a group of people "
+   ]
+  },
+  {
+   "sentence": "Tonight I will have a report on Kasich 's town hall meeting here and a one on one interview with him tomorrow .",
+   "starttime": "602.54",
+   "endtime": "608.17",
+   "verbs": [
+    {
+     "vword": "will",
+     "vstart": "603.01",
+     "vend": "603.01",
+     "vpos": "MD"
+    },
+    {
+     "vword": "have",
+     "vstart": "603.04",
+     "vend": "603.22",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man standing in a parking lot next to fire trucks . ",
+    "a man standing in front of a fire truck . "
+   ]
+  },
+  {
+   "sentence": "Thanks very much Tom .",
+   "starttime": "611.48",
+   "endtime": "612.46",
+   "verbs": [],
+   "frame_data": [
+    "a man in a suit and tie on a news set . "
+   ]
+  },
+  {
+   "sentence": "We 'll have much more on that interview tomorrow night .",
+   "starttime": "612.59",
+   "endtime": "615.66",
+   "verbs": [
+    {
+     "vword": "&apos;ll",
+     "vstart": "612.73",
+     "vend": "612.80",
+     "vpos": "MD"
+    },
+    {
+     "vword": "have",
+     "vstart": "612.80",
+     "vend": "612.97",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a news set . ",
+    "a man in a suit and tie sitting in front of a tv . "
+   ]
+  },
+  {
+   "sentence": "When we come back on the news at 7:00 we deal again as we almost do every week at this time with Johnny Manziel as the soap opera never ends .",
+   "starttime": "615.71",
+   "endtime": "623.96",
+   "verbs": [
+    {
+     "vword": "come",
+     "vstart": "616.02",
+     "vend": "616.14",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "deal",
+     "vstart": "617.42",
+     "vend": "617.72",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "do",
+     "vstart": "619.26",
+     "vend": "619.40",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "ends",
+     "vstart": "623.51",
+     "vend": "623.96",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a crowd of people watching a football game . ",
+    "a football player running for the goal line . ",
+    "a man in a suit and tie on a news set . ",
+    "a man in a suit and tie sitting in front of a tv . ",
+    "a man wearing a football uniform is standing in front of a crowd . ",
+    "johnny manziel in action on the football field . ",
+    "johnny manziel running with the ball during a football game . "
+   ]
+  },
+  {
+   "sentence": "I will give you the particulars of what the browns can do when they can trade him when they can cut him and what they should do with their draft pick .",
+   "starttime": "624.03",
+   "endtime": "632.35",
+   "verbs": [
+    {
+     "vword": "will",
+     "vstart": "624.18",
+     "vend": "624.24",
+     "vpos": "MD"
+    },
+    {
+     "vword": "give",
+     "vstart": "624.29",
+     "vend": "624.52",
+     "vpos": "VB"
+    },
+    {
+     "vword": "can",
+     "vstart": "627.03",
+     "vend": "627.25",
+     "vpos": "MD"
+    },
+    {
+     "vword": "do",
+     "vstart": "627.25",
+     "vend": "627.59",
+     "vpos": "VB"
+    },
+    {
+     "vword": "can",
+     "vstart": "628.19",
+     "vend": "628.38",
+     "vpos": "MD"
+    },
+    {
+     "vword": "trade",
+     "vstart": "628.38",
+     "vend": "628.69",
+     "vpos": "VB"
+    },
+    {
+     "vword": "can",
+     "vstart": "629.59",
+     "vend": "629.88",
+     "vpos": "MD"
+    },
+    {
+     "vword": "cut",
+     "vstart": "629.88",
+     "vend": "630.07",
+     "vpos": "VB"
+    },
+    {
+     "vword": "should",
+     "vstart": "631.04",
+     "vend": "631.32",
+     "vpos": "MD"
+    },
+    {
+     "vword": "do",
+     "vstart": "631.34",
+     "vend": "631.54",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a football player catches the ball while the other player tries to catch it . ",
+    "a football player in a red and white uniform . ",
+    "a football player is in the middle of the field . ",
+    "a football player is jumping in the air . ",
+    "a football player running for the goal line . ",
+    "a man in a white and red football uniform . ",
+    "a person is petting a black dog on a leash . ",
+    "johnny manziel in action on the football field . ",
+    "johnny manziel is on the field during a football game . "
+   ]
+  },
+  {
+   "sentence": "Donations are flooding in after a retired officer is told he has to give up his K-9 partner .",
+   "starttime": "633.51",
+   "endtime": "639.11",
+   "verbs": [
+    {
+     "vword": "are",
+     "vstart": "634.15",
+     "vend": "634.26",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "flooding",
+     "vstart": "634.27",
+     "vend": "634.63",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "is",
+     "vstart": "636.71",
+     "vend": "636.81",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "told",
+     "vstart": "636.81",
+     "vend": "637.10",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "has",
+     "vstart": "637.40",
+     "vend": "637.52",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "give",
+     "vstart": "637.62",
+     "vend": "637.81",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a black dog sitting on the ground next to a person . ",
+    "a dog that is sitting on some steps . ",
+    "a police car parked in front of a brick building . ",
+    "a white police car parked in front of a building . "
+   ]
+  },
+  {
+   "sentence": "What city officials are saying tonight all of that when we come back .",
+   "starttime": "639.36",
+   "endtime": "642.57",
+   "verbs": [
+    {
+     "vword": "are",
+     "vstart": "640.56",
+     "vend": "640.73",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "saying",
+     "vstart": "640.73",
+     "vend": "641.27",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "come",
+     "vstart": "642.32",
+     "vend": "642.45",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a close - up of a dog 's face with a person holding it . ",
+    "a close - up of a dog 's face with the word \" controversy \" written on it . ",
+    "a close - up of a dog 's face with the word controversy written on it . ",
+    "a white police car parked in front of a building . "
+   ]
+  },
+  {
+   "sentence": "Johnny Manziel is spending his off season in his home state of Texas and continuing to make headlines down south .",
+   "starttime": "782.52",
+   "endtime": "788.61",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "783.66",
+     "vend": "783.94",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "spending",
+     "vstart": "783.94",
+     "vend": "784.37",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "continuing",
+     "vstart": "786.61",
+     "vend": "787.19",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "make",
+     "vstart": "787.26",
+     "vend": "787.49",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a television screen showing a man in a suit . ",
+    "a television screen showing a news anchor . ",
+    "a television screen with a man in a gray suit . ",
+    "a television screen with a man on it . "
+   ]
+  },
+  {
+   "sentence": "More problems with Johnny Manziel I have done that more than I have talked about browns wins over the past two seasons .",
+   "starttime": "788.62",
+   "endtime": "794.31",
+   "verbs": [
+    {
+     "vword": "have",
+     "vstart": "790.81",
+     "vend": "790.88",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "done",
+     "vstart": "790.88",
+     "vend": "791.09",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "have",
+     "vstart": "791.87",
+     "vend": "791.90",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "talked",
+     "vstart": "791.90",
+     "vend": "792.18",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "wins",
+     "vstart": "792.82",
+     "vend": "793.09",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man sitting in front of a television . ",
+    "a television screen with a cleveland browns news anchor on it . ",
+    "a television screen with a man and a camera . ",
+    "a television screen with a man and a man in a white shirt . ",
+    "a television screen with a man and a woman . ",
+    "a television screen with a man on it . "
+   ]
+  },
+  {
+   "sentence": "I look forward to the day this nonsense ends .",
+   "starttime": "794.31",
+   "endtime": "796.47",
+   "verbs": [
+    {
+     "vword": "look",
+     "vstart": "794.41",
+     "vend": "794.59",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "ends",
+     "vstart": "796.17",
+     "vend": "796.47",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a television screen with a cleveland browns news story . ",
+    "a television screen with a man and a man in a white shirt . ",
+    "a television screen with a man on it . "
+   ]
+  },
+  {
+   "sentence": "Welcome back everybody .",
+   "starttime": "798.01",
+   "endtime": "799.09",
+   "verbs": [
+    {
+     "vword": "Welcome",
+     "vstart": "798.01",
+     "vend": "798.30",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man is standing in front of a television . ",
+    "a man standing in front of a television . ",
+    "a man standing in front of a tv holding something . "
+   ]
+  },
+  {
+   "sentence": "Those were clips from Channel 3 News Saturday evening upon the hearing of the story coming out of Texas that Johnny Manziel was once again involved in some kind of a domestic situation which is still ongoing police investigation going on between Fort Worth Police in Texas and Dallas Police in Texas .",
+   "starttime": "799.11",
+   "endtime": "817.11",
+   "verbs": [
+    {
+     "vword": "were",
+     "vstart": "799.41",
+     "vend": "799.57",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "coming",
+     "vstart": "804.22",
+     "vend": "804.50",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "was",
+     "vstart": "806.37",
+     "vend": "806.55",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "involved",
+     "vstart": "807.12",
+     "vend": "807.54",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "is",
+     "vstart": "810.01",
+     "vend": "810.03",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "going",
+     "vstart": "812.42",
+     "vend": "812.77",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a man holding a microphone on a news set . ",
+    "a man holding a nintendo wii game controller . ",
+    "a man holding a wii controller in front of a tv . ",
+    "a man is holding a paper in his hand . ",
+    "a man is holding a white object in his hand . ",
+    "a man is standing in front of a television . ",
+    "a man standing in front of a tv holding a nintendo wii controller . "
+   ]
+  },
+  {
+   "sentence": "It 's a situation involving his girlfriend or ex girlfriend .",
+   "starttime": "817.29",
+   "endtime": "820.52",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "817.46",
+     "vend": "817.51",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "involving",
+     "vstart": "818.20",
+     "vend": "818.71",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a man holding a book in his hand . ",
+    "a man holding a microphone in his hand . ",
+    "a man holding a nintendo wii game controller . ",
+    "a man is holding a paper in his hand . ",
+    "a man is holding a piece of paper in his hand "
+   ]
+  },
+  {
+   "sentence": "I do n't know the state of that relationship right now .",
+   "starttime": "820.93",
+   "endtime": "823.32",
+   "verbs": [
+    {
+     "vword": "do",
+     "vstart": "821.05",
+     "vend": "821.19",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "know",
+     "vstart": "821.25",
+     "vend": "821.39",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man holding a book in his hand . ",
+    "a man holding a nintendo wii game controller . ",
+    "a man holding a wii controller in front of a news desk . ",
+    "a man in a news studio holding a book . ",
+    "a man in a tv studio holding a laptop . "
+   ]
+  },
+  {
+   "sentence": "I do know the state of the relationship between the browns and Johnny Manziel and it is not even shaky .",
+   "starttime": "823.70",
+   "endtime": "829.44",
+   "verbs": [
+    {
+     "vword": "do",
+     "vstart": "823.74",
+     "vend": "823.98",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "know",
+     "vstart": "823.98",
+     "vend": "824.10",
+     "vpos": "VB"
+    },
+    {
+     "vword": "is",
+     "vstart": "828.14",
+     "vend": "828.33",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man in a news room with a football helmet . ",
+    "a man in a tv studio wearing a football helmet . ",
+    "a man is standing in front of a news desk . ",
+    "a man is talking on a television set . ",
+    "a man standing in front of a news desk . "
+   ]
+  },
+  {
+   "sentence": "It looks as though it is over .",
+   "starttime": "829.62",
+   "endtime": "832.03",
+   "verbs": [
+    {
+     "vword": "looks",
+     "vstart": "829.85",
+     "vend": "830.14",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "is",
+     "vstart": "831.18",
+     "vend": "831.50",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man holding a nintendo wii game controller . ",
+    "a man in a news studio with a helmet on . ",
+    "a man in a tv studio wearing a football helmet . "
+   ]
+  },
+  {
+   "sentence": "Technically let me give you the rules of the game of what the browns can do in regards to Johnny Manziel .",
+   "starttime": "832.30",
+   "endtime": "838.19",
+   "verbs": [
+    {
+     "vword": "let",
+     "vstart": "833.30",
+     "vend": "833.50",
+     "vpos": "VB"
+    },
+    {
+     "vword": "give",
+     "vstart": "833.62",
+     "vend": "833.75",
+     "vpos": "VB"
+    },
+    {
+     "vword": "can",
+     "vstart": "835.63",
+     "vend": "835.87",
+     "vpos": "MD"
+    },
+    {
+     "vword": "do",
+     "vstart": "835.87",
+     "vend": "836.29",
+     "vpos": "VB"
+    },
+    {
+     "vword": "regards",
+     "vstart": "836.78",
+     "vend": "837.29",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a group of people standing on top of a football field . ",
+    "a man holding a baseball bat in front of a camera . ",
+    "a man holding a microphone in a tv studio . ",
+    "a man holding a microphone on a news set . ",
+    "a man in a news studio holding a paper . ",
+    "a man is holding a piece of paper . ",
+    "a man is holding a roll of paper . "
+   ]
+  },
+  {
+   "sentence": "In other words can they cut him",
+   "starttime": "838.29",
+   "endtime": "839.84",
+   "verbs": [
+    {
+     "vword": "can",
+     "vstart": "839.12",
+     "vend": "839.28",
+     "vpos": "MD"
+    },
+    {
+     "vword": "cut",
+     "vstart": "839.38",
+     "vend": "839.64",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a football player running on a field with smoke coming out . ",
+    "a football player walking on a field . ",
+    "a group of people standing on top of a football field . ",
+    "a man standing on top of a football field . "
+   ]
+  },
+  {
+   "sentence": "Yes they can .",
+   "starttime": "839.85",
+   "endtime": "840.63",
+   "verbs": [
+    {
+     "vword": "can",
+     "vstart": "840.27",
+     "vend": "840.63",
+     "vpos": "MD"
+    }
+   ],
+   "frame_data": [
+    "a man in a brown and red outfit on a field . ",
+    "a man in a football uniform standing in front of a crowd . ",
+    "a man standing in front of a crowd of people . ",
+    "a man walking on a field wearing a football uniform . "
+   ]
+  },
+  {
+   "sentence": "They can do it right after the super bowl is over Sunday night .",
+   "starttime": "840.64",
+   "endtime": "845.20",
+   "verbs": [
+    {
+     "vword": "can",
+     "vstart": "840.81",
+     "vend": "841.02",
+     "vpos": "MD"
+    },
+    {
+     "vword": "do",
+     "vstart": "842.20",
+     "vend": "842.35",
+     "vpos": "VB"
+    },
+    {
+     "vword": "is",
+     "vstart": "843.64",
+     "vend": "843.83",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a football player running on a field . ",
+    "a group of football players playing a game . ",
+    "a group of men playing a game of football . ",
+    "a man in a brown and red outfit on a field . ",
+    "a man in brown and white football uniform walking across a field . "
+   ]
+  },
+  {
+   "sentence": "As soon as Sunday turns into Monday they can cut Johnny Manziel and he would become a free agent .",
+   "starttime": "845.20",
+   "endtime": "850.91",
+   "verbs": [
+    {
+     "vword": "turns",
+     "vstart": "846.10",
+     "vend": "846.40",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "can",
+     "vstart": "847.73",
+     "vend": "847.79",
+     "vpos": "MD"
+    },
+    {
+     "vword": "cut",
+     "vstart": "847.79",
+     "vend": "848.02",
+     "vpos": "VB"
+    },
+    {
+     "vword": "would",
+     "vstart": "849.26",
+     "vend": "849.43",
+     "vpos": "MD"
+    },
+    {
+     "vword": "become",
+     "vstart": "849.43",
+     "vend": "849.85",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a football player is running for the goal line . ",
+    "a football player is running on a field . ",
+    "a football player running on a field . ",
+    "a football player running on a field with a crowd . ",
+    "a group of football players playing a game . ",
+    "a group of football players running across a field . ",
+    "a group of men playing football on a field . ",
+    "a group of people on a field playing football . "
+   ]
+  },
+  {
+   "sentence": "Some people would think that 's what he wants to become anyway and that 's why he is behaving this way .",
+   "starttime": "851.11",
+   "endtime": "855.83",
+   "verbs": [
+    {
+     "vword": "would",
+     "vstart": "851.75",
+     "vend": "851.93",
+     "vpos": "MD"
+    },
+    {
+     "vword": "think",
+     "vstart": "851.93",
+     "vend": "852.17",
+     "vpos": "VB"
+    },
+    {
+     "vword": "&apos;s",
+     "vstart": "852.43",
+     "vend": "852.49",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "wants",
+     "vstart": "852.67",
+     "vend": "852.94",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "become",
+     "vstart": "852.98",
+     "vend": "853.37",
+     "vpos": "VB"
+    },
+    {
+     "vword": "&apos;s",
+     "vstart": "854.39",
+     "vend": "854.45",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "is",
+     "vstart": "854.90",
+     "vend": "854.92",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "behaving",
+     "vstart": "854.92",
+     "vend": "855.37",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a football player is running on a field . ",
+    "a football player laying on the ground after being hit by an opponent . ",
+    "a football player laying on top of a field . ",
+    "a football player running for the goal line . ",
+    "a group of football players on a field . ",
+    "a group of football players playing a game . ",
+    "a group of men on a field playing football . ",
+    "a group of people sitting in a stadium . ",
+    "a group of people standing in a stadium . ",
+    "a group of people standing next to each other on a field . "
+   ]
+  },
+  {
+   "sentence": "I do n't believe that .",
+   "starttime": "856.06",
+   "endtime": "857.14",
+   "verbs": [
+    {
+     "vword": "do",
+     "vstart": "856.25",
+     "vend": "856.47",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "believe",
+     "vstart": "856.51",
+     "vend": "856.86",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a group of football players on a football field . ",
+    "a group of football players playing a football game . ",
+    "a group of football players playing a game . "
+   ]
+  },
+  {
+   "sentence": "I think it 's more systemic than that and that he has a big problem .",
+   "starttime": "857.14",
+   "endtime": "860.91",
+   "verbs": [
+    {
+     "vword": "think",
+     "vstart": "857.34",
+     "vend": "857.55",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "&apos;s",
+     "vstart": "857.55",
+     "vend": "857.55",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "has",
+     "vstart": "860.11",
+     "vend": "860.29",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a football player running on a field . ",
+    "a group of football players on a football field . ",
+    "a group of football players playing a game . ",
+    "a group of men on a field playing football . ",
+    "a group of men playing football on a field . "
+   ]
+  },
+  {
+   "sentence": "The next date would come to the beginning of March when NFL starts the new business calendar .",
+   "starttime": "861.53",
+   "endtime": "866.89",
+   "verbs": [
+    {
+     "vword": "would",
+     "vstart": "862.40",
+     "vend": "862.62",
+     "vpos": "MD"
+    },
+    {
+     "vword": "come",
+     "vstart": "862.62",
+     "vend": "862.79",
+     "vpos": "VB"
+    },
+    {
+     "vword": "starts",
+     "vstart": "865.10",
+     "vend": "865.49",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a crowd of people sitting in a stadium . ",
+    "a football player laying on the ground after falling . ",
+    "a group of football players in a field . ",
+    "a group of football players playing a game . ",
+    "a group of football players running on a field . ",
+    "a group of people standing on top of a football field . "
+   ]
+  },
+  {
+   "sentence": "The browns could trade Johnny Manziel .",
+   "starttime": "867.04",
+   "endtime": "869.35",
+   "verbs": [
+    {
+     "vword": "could",
+     "vstart": "867.54",
+     "vend": "867.70",
+     "vpos": "MD"
+    },
+    {
+     "vword": "trade",
+     "vstart": "868.09",
+     "vend": "868.70",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a crowd of people in stands at a baseball game . ",
+    "a group of men playing a game of football . ",
+    "a group of men playing football on a field . "
+   ]
+  },
+  {
+   "sentence": "They can still cut him but can trade him in the beginning of March .",
+   "starttime": "869.35",
+   "endtime": "872.88",
+   "verbs": [
+    {
+     "vword": "can",
+     "vstart": "869.35",
+     "vend": "869.35",
+     "vpos": "MD"
+    },
+    {
+     "vword": "cut",
+     "vstart": "870.30",
+     "vend": "870.54",
+     "vpos": "VB"
+    },
+    {
+     "vword": "can",
+     "vstart": "871.08",
+     "vend": "871.08",
+     "vpos": "MD"
+    },
+    {
+     "vword": "trade",
+     "vstart": "871.42",
+     "vend": "871.71",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a baseball player is holding a bat in the air . ",
+    "a football player is running on a field . ",
+    "a group of football players playing a game . ",
+    "a group of men playing football on a field . "
+   ]
+  },
+  {
+   "sentence": "That trademark who would take this on right now",
+   "starttime": "873.51",
+   "endtime": "876.73",
+   "verbs": [
+    {
+     "vword": "would",
+     "vstart": "875.07",
+     "vend": "875.30",
+     "vpos": "MD"
+    },
+    {
+     "vword": "take",
+     "vstart": "875.31",
+     "vend": "875.61",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a crowd of people in stands at a sporting event . ",
+    "a crowd of people sitting in a stadium . ",
+    "a crowd of people watching a football game . ",
+    "a football player is getting ready to throw the ball . ",
+    "a picture of a football field and a stadium . "
+   ]
+  },
+  {
+   "sentence": "I do n't even know if the Dallas cowboys are as automatic a landing spot for Manziel as we all think .",
+   "starttime": "877.17",
+   "endtime": "883.73",
+   "verbs": [
+    {
+     "vword": "do",
+     "vstart": "877.34",
+     "vend": "877.49",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "know",
+     "vstart": "877.89",
+     "vend": "878.14",
+     "vpos": "VB"
+    },
+    {
+     "vword": "are",
+     "vstart": "879.78",
+     "vend": "879.99",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "think",
+     "vstart": "883.43",
+     "vend": "883.73",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a crowd of people standing on top of a field . ",
+    "a crowd of people watching a football game . ",
+    "a football player running for the goal line . ",
+    "a group of football players playing a football game . ",
+    "a group of football players playing a game . ",
+    "a group of men playing a game of soccer . ",
+    "a group of people standing on top of a football field . "
+   ]
+  },
+  {
+   "sentence": "I do n't know that there is a trade market at all for Manziel .",
+   "starttime": "884.14",
+   "endtime": "887.26",
+   "verbs": [
+    {
+     "vword": "do",
+     "vstart": "884.35",
+     "vend": "884.47",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "know",
+     "vstart": "884.53",
+     "vend": "884.66",
+     "vpos": "VB"
+    },
+    {
+     "vword": "is",
+     "vstart": "884.94",
+     "vend": "885.04",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a group of people standing on top of a football field . ",
+    "a man holding a football helmet in front of a television . ",
+    "a man holding a football helmet in front of a tv . ",
+    "a man holding a nintendo wii game controller in his hand . ",
+    "a man in a suit and tie on a news set . "
+   ]
+  },
+  {
+   "sentence": "Who would take this on with the problems that he has off the field and the pay off so far on the field at least here in Cleveland barely anything at all just a couple wins a lot of injuries and a lot of late tardiness on showing up to practices and the facility .",
+   "starttime": "887.27",
+   "endtime": "903.57",
+   "verbs": [
+    {
+     "vword": "would",
+     "vstart": "887.85",
+     "vend": "888.08",
+     "vpos": "MD"
+    },
+    {
+     "vword": "take",
+     "vstart": "888.08",
+     "vend": "888.37",
+     "vpos": "VB"
+    },
+    {
+     "vword": "has",
+     "vstart": "890.43",
+     "vend": "890.74",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "wins",
+     "vstart": "897.53",
+     "vend": "897.95",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "showing",
+     "vstart": "901.32",
+     "vend": "901.68",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a man holding a football helmet in his hand . ",
+    "a man holding a nintendo wii game controller in his hand . ",
+    "a man holding a paper in his hand . ",
+    "a man holding a wii remote in his hand . ",
+    "a man is standing in front of a news desk . ",
+    "a man is talking on a television set . "
+   ]
+  },
+  {
+   "sentence": "Here is the thing that has to happen .",
+   "starttime": "903.75",
+   "endtime": "905.30",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "904.12",
+     "vend": "904.20",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "has",
+     "vstart": "904.61",
+     "vend": "904.82",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "happen",
+     "vstart": "904.94",
+     "vend": "905.30",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man holding a football helmet in front of a tv . ",
+    "a man holding a microphone in front of a television . ",
+    "a man holding a nintendo wii game controller in his hand . ",
+    "a man in a news studio holding a microphone . ",
+    "a man is holding a pipe in front of a tv . ",
+    "a man is talking on a news set . "
+   ]
+  },
+  {
+   "sentence": "New Coach new team new offense new chapter time to move on .",
+   "starttime": "905.52",
+   "endtime": "910.63",
+   "verbs": [
+    {
+     "vword": "move",
+     "vstart": "910.07",
+     "vend": "910.36",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man holding a pipe in his hand . ",
+    "a man holding a wii remote in his hand . ",
+    "a man in a news studio holding a microphone . ",
+    "a man standing in front of a news desk . "
+   ]
+  },
+  {
+   "sentence": "Let him be someone else 's problem .",
+   "starttime": "911.02",
+   "endtime": "912.91",
+   "verbs": [
+    {
+     "vword": "Let",
+     "vstart": "911.02",
+     "vend": "911.32",
+     "vpos": "VB"
+    },
+    {
+     "vword": "be",
+     "vstart": "911.57",
+     "vend": "911.77",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man is holding a paper in his hand . ",
+    "a man is holding a plastic tube in his hand ",
+    "a man is talking on a television set . "
+   ]
+  },
+  {
+   "sentence": "He is his own biggest problem now .",
+   "starttime": "912.98",
+   "endtime": "915.63",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "913.35",
+     "vend": "913.35",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man holding a football helmet on a news set . ",
+    "a man holding a wii controller in front of a tv . ",
+    "a man in a news studio holding a football . ",
+    "a man in a news studio with a football helmet on . "
+   ]
+  },
+  {
+   "sentence": "Here is the other thing we have to do .",
+   "starttime": "915.74",
+   "endtime": "917.71",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "915.96",
+     "vend": "916.05",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "have",
+     "vstart": "917.10",
+     "vend": "917.29",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "do",
+     "vstart": "917.41",
+     "vend": "917.71",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man holding a microphone on a news set . ",
+    "a man holding a nintendo wii game controller . ",
+    "a man is standing in front of a microphone . ",
+    "a man is talking on a television set . "
+   ]
+  },
+  {
+   "sentence": "I am a victim of this too .",
+   "starttime": "917.72",
+   "endtime": "920.98",
+   "verbs": [
+    {
+     "vword": "am",
+     "vstart": "917.89",
+     "vend": "918.07",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a man holding a wii controller in his hand . ",
+    "a man is holding a wii controller in his hand . ",
+    "a man is standing in front of a microphone . ",
+    "a man is standing in front of a news desk . "
+   ]
+  },
+  {
+   "sentence": "We have to get this situation in our minds that we ca n't worry about what happens with Johnny Manziel once he leaves Cleveland .",
+   "starttime": "921.78",
+   "endtime": "929.93",
+   "verbs": [
+    {
+     "vword": "have",
+     "vstart": "922.07",
+     "vend": "922.30",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "get",
+     "vstart": "922.79",
+     "vend": "923.05",
+     "vpos": "VB"
+    },
+    {
+     "vword": "ca",
+     "vstart": "924.88",
+     "vend": "925.15",
+     "vpos": "MD"
+    },
+    {
+     "vword": "worry",
+     "vstart": "925.20",
+     "vend": "925.74",
+     "vpos": "VB"
+    },
+    {
+     "vword": "happens",
+     "vstart": "927.13",
+     "vend": "927.49",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "leaves",
+     "vstart": "929.14",
+     "vend": "929.51",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man holding a football helmet in front of a tv . ",
+    "a man holding a microphone in front of a tv . ",
+    "a man in a news studio holding a football helmet . ",
+    "a man in a news studio with a football helmet . ",
+    "a man in a suit and tie holding a football helmet . ",
+    "a man in a suit and tie standing in front of a tv . ",
+    "a man is standing in front of a television . ",
+    "a man standing in front of a television . "
+   ]
+  },
+  {
+   "sentence": "Too many times we worry about a player leaving Cleveland and we say oh he is going to be great somewhere else .",
+   "starttime": "929.97",
+   "endtime": "935.90",
+   "verbs": [
+    {
+     "vword": "worry",
+     "vstart": "930.79",
+     "vend": "931.15",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "leaving",
+     "vstart": "932.02",
+     "vend": "932.49",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "say",
+     "vstart": "933.27",
+     "vend": "933.50",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "is",
+     "vstart": "933.82",
+     "vend": "933.88",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "going",
+     "vstart": "933.91",
+     "vend": "934.06",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "be",
+     "vstart": "934.08",
+     "vend": "934.24",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man holding a baseball bat in front of a tv . ",
+    "a man holding a nintendo wii game controller in his hand . ",
+    "a man holding up a football helmet in front of a tv . ",
+    "a man holding up a football helmet on a television set . ",
+    "a man is talking on a television set . ",
+    "a man standing in front of a camera . ",
+    "a man standing in front of a television . "
+   ]
+  },
+  {
+   "sentence": "If he is great somewhere else good luck to the someone else that turned him around and good for him that he turned his life around .",
+   "starttime": "935.93",
+   "endtime": "942.31",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "936.14",
+     "vend": "936.24",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "turned",
+     "vstart": "939.62",
+     "vend": "939.95",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "turned",
+     "vstart": "941.33",
+     "vend": "941.57",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a man holding up a football helmet in front of a tv . ",
+    "a man is sitting in front of a news desk . ",
+    "a man is sitting in front of a tv . ",
+    "a man is standing in front of a tv . ",
+    "a man standing in front of a television . "
+   ]
+  },
+  {
+   "sentence": "There is a quarterback out there somewhere and the browns just need to keep throwing that dart at the DART board and maybe sometime soon they 'll hit the bulls eye and find a quarterback .",
+   "starttime": "942.69",
+   "endtime": "953.04",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "942.88",
+     "vend": "942.99",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "need",
+     "vstart": "945.79",
+     "vend": "946.15",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "keep",
+     "vstart": "946.49",
+     "vend": "946.83",
+     "vpos": "VB"
+    },
+    {
+     "vword": "throwing",
+     "vstart": "946.84",
+     "vend": "947.32",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "&apos;ll",
+     "vstart": "950.96",
+     "vend": "951.03",
+     "vpos": "MD"
+    },
+    {
+     "vword": "hit",
+     "vstart": "951.03",
+     "vend": "951.21",
+     "vpos": "VB"
+    },
+    {
+     "vword": "find",
+     "vstart": "952.11",
+     "vend": "952.42",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man holding a football helmet in his hand . ",
+    "a man holding a wii controller in his hand . ",
+    "a man in a news studio with a football helmet on . ",
+    "a man in a suit and tie standing in front of a tv . ",
+    "a man in a tv studio with a football helmet on . ",
+    "a man is sitting in front of a television . ",
+    "a man is talking on a television set . "
+   ]
+  },
+  {
+   "sentence": "But he is obviously not the guy .",
+   "starttime": "953.29",
+   "endtime": "955.01",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "953.64",
+     "vend": "953.74",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man is sitting in front of a television . ",
+    "a man is talking on a television set . "
+   ]
+  },
+  {
+   "sentence": "I was so excited when he was drafted by browns coming out of Texas A&amp;M I could n't get enough of him watching him play in college .",
+   "starttime": "955.38",
+   "endtime": "963.29",
+   "verbs": [
+    {
+     "vword": "was",
+     "vstart": "955.63",
+     "vend": "955.90",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "excited",
+     "vstart": "956.20",
+     "vend": "956.76",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "was",
+     "vstart": "957.00",
+     "vend": "957.15",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "drafted",
+     "vstart": "957.15",
+     "vend": "957.55",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "coming",
+     "vstart": "958.34",
+     "vend": "958.62",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "could",
+     "vstart": "960.14",
+     "vend": "960.28",
+     "vpos": "MD"
+    },
+    {
+     "vword": "get",
+     "vstart": "960.33",
+     "vend": "960.51",
+     "vpos": "VB"
+    },
+    {
+     "vword": "watching",
+     "vstart": "961.53",
+     "vend": "962.13",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "play",
+     "vstart": "962.33",
+     "vend": "962.59",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man holding a baseball bat in front of a tv . ",
+    "a man holding a nintendo wii game controller in his hand . ",
+    "a man holding a toothbrush in his hand . ",
+    "a man in a tv studio holding a paper . "
+   ]
+  },
+  {
+   "sentence": "Maybe he is just going to be an all time high school legend and College Football Legend who was a bust in the pros .",
+   "starttime": "963.77",
+   "endtime": "971.47",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "964.59",
+     "vend": "964.69",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "going",
+     "vstart": "965.01",
+     "vend": "965.23",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "be",
+     "vstart": "965.30",
+     "vend": "965.60",
+     "vpos": "VB"
+    },
+    {
+     "vword": "was",
+     "vstart": "969.91",
+     "vend": "970.10",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a man holding a baseball bat in front of a television . ",
+    "a man is holding a microphone in his hand . ",
+    "a man is holding up a football helmet . ",
+    "a man is standing in front of a television . ",
+    "a man is talking on a television set . ",
+    "a man standing in front of a news desk . "
+   ]
+  },
+  {
+   "sentence": "That 's what it looks like .",
+   "starttime": "971.73",
+   "endtime": "972.88",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "971.98",
+     "vend": "972.06",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "looks",
+     "vstart": "972.29",
+     "vend": "972.56",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man in a news studio with a helmet on . ",
+    "a man in a suit and tie standing in front of a tv . ",
+    "a man is sitting in front of a television . ",
+    "a man is standing in front of a television . "
+   ]
+  },
+  {
+   "sentence": "But it looks like right now the browns must move away and move on from Johnny Manziel .",
+   "starttime": "973.15",
+   "endtime": "979.47",
+   "verbs": [
+    {
+     "vword": "looks",
+     "vstart": "973.42",
+     "vend": "973.72",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "must",
+     "vstart": "975.37",
+     "vend": "976.03",
+     "vpos": "MD"
+    },
+    {
+     "vword": "move",
+     "vstart": "976.11",
+     "vend": "976.51",
+     "vpos": "VB"
+    },
+    {
+     "vword": "move",
+     "vstart": "977.63",
+     "vend": "977.95",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man holding a nintendo wii game controller in his hand . ",
+    "a man holding a nintendo wii game controller in his hands . ",
+    "a man in a suit and tie on a news set . ",
+    "a man is sitting in front of a television . ",
+    "a man is talking on a television set . "
+   ]
+  },
+  {
+   "sentence": "When we come back on the news at 7:00 Ohio community rallying around a police officer and his K-9 partner .",
+   "starttime": "979.85",
+   "endtime": "986.22",
+   "verbs": [
+    {
+     "vword": "come",
+     "vstart": "980.47",
+     "vend": "980.66",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "rallying",
+     "vstart": "983.32",
+     "vend": "983.84",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a man in a tv studio with a football helmet on . ",
+    "a man is talking on a television set . ",
+    "a man standing in front of a fire hydrant . ",
+    "a man standing in front of a house . ",
+    "a man standing in front of a house next to a dog . "
+   ]
+  },
+  {
+   "sentence": "What city officials are doing to keep the team together .",
+   "starttime": "986.38",
+   "endtime": "990.45",
+   "verbs": [
+    {
+     "vword": "are",
+     "vstart": "987.68",
+     "vend": "987.91",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "doing",
+     "vstart": "987.96",
+     "vend": "988.26",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "keep",
+     "vstart": "988.81",
+     "vend": "989.10",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man holding a dog in a driveway . ",
+    "a man holding a dog in front of a house . ",
+    "a man standing in front of a fire hydrant . ",
+    "a man standing in front of a house with a dog . ",
+    "two police cars parked in front of a building . "
+   ]
+  },
+  {
+   "sentence": "The weather roller coaster ride continues .",
+   "starttime": "991.14",
+   "endtime": "993.15",
+   "verbs": [
+    {
+     "vword": "continues",
+     "vstart": "992.65",
+     "vend": "993.15",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a close - up view of the logo for wkye - tv . ",
+    "a map of the united states with a weather map in it . ",
+    "a weather map shows the weather in the united states . "
+   ]
+  },
+  {
+   "sentence": "Betsy 's got a look at big temperature changes when we come back .",
+   "starttime": "993.82",
+   "endtime": "997.00",
+   "verbs": [
+    {
+     "vword": "got",
+     "vstart": "993.82",
+     "vend": "993.95",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "come",
+     "vstart": "996.54",
+     "vend": "996.71",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a map of the united states with a weather map in it . ",
+    "a weather map shows the weather in the united states . "
+   ]
+  },
+  {
+   "sentence": "A retired police officer in Marietta wo n't have to worry about losing his K-9 partner after their story went viral and he raised more than 65,000 .",
+   "starttime": "1006.38",
+   "endtime": "1113.97",
+   "verbs": [
+    {
+     "vword": "wo",
+     "vstart": "1104.34",
+     "vend": "1104.55",
+     "vpos": "MD"
+    },
+    {
+     "vword": "have",
+     "vstart": "1104.58",
+     "vend": "1104.73",
+     "vpos": "VB"
+    },
+    {
+     "vword": "worry",
+     "vstart": "1104.82",
+     "vend": "1105.05",
+     "vpos": "VB"
+    },
+    {
+     "vword": "losing",
+     "vstart": "1105.56",
+     "vend": "1106.14",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "went",
+     "vstart": "1109.10",
+     "vend": "1109.31",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "raised",
+     "vstart": "1109.99",
+     "vend": "1110.27",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and tie on a news set . ",
+    "a man sitting next to a black dog . ",
+    "a man wearing a suit and tie on a news set . ",
+    "a man wearing a suit and tie sitting in front of a tv ",
+    "a man wearing a suit and tie talking on a television . ",
+    "a television screen with a picture of a car on it . ",
+    "an image of an advertisement for a medical malpractice company "
+   ]
+  },
+  {
+   "sentence": "Matt Hickey will become an auxiliary police officer so he can keep the K-9 . Hickey retired but under state law he could not keep his partner Ajax since the police pup is considered city property .",
+   "starttime": "1113.98",
+   "endtime": "1128.26",
+   "verbs": [
+    {
+     "vword": "will",
+     "vstart": "1114.58",
+     "vend": "1114.70",
+     "vpos": "MD"
+    },
+    {
+     "vword": "become",
+     "vstart": "1114.70",
+     "vend": "1115.17",
+     "vpos": "VB"
+    },
+    {
+     "vword": "can",
+     "vstart": "1117.74",
+     "vend": "1117.90",
+     "vpos": "MD"
+    },
+    {
+     "vword": "keep",
+     "vstart": "1117.90",
+     "vend": "1118.11",
+     "vpos": "VB"
+    },
+    {
+     "vword": "retired",
+     "vstart": "1119.44",
+     "vend": "1119.95",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "could",
+     "vstart": "1122.00",
+     "vend": "1122.28",
+     "vpos": "MD"
+    },
+    {
+     "vword": "keep",
+     "vstart": "1122.56",
+     "vend": "1122.82",
+     "vpos": "VB"
+    },
+    {
+     "vword": "is",
+     "vstart": "1126.50",
+     "vend": "1126.74",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "considered",
+     "vstart": "1126.74",
+     "vend": "1127.28",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a black and brown dog sitting next to a person . ",
+    "a black and brown dog sitting on top of a wooden fence . ",
+    "a close - up of a dog 's paws on a wooden deck . ",
+    "a dog laying on a deck with a pink collar . ",
+    "a dog laying on the ground with a person petting it . ",
+    "a dog sitting on a deck with a leash . ",
+    "a dog with a tie around its neck . ",
+    "a german shepherd sitting on top of a wooden deck . ",
+    "a man sitting next to a black dog . "
+   ]
+  },
+  {
+   "sentence": "Ajax was set to be auctioned off but thanks to a go fund me page and the national attention city leaders worked out a deal so the team remains together .",
+   "starttime": "1128.28",
+   "endtime": "1138.03",
+   "verbs": [
+    {
+     "vword": "was",
+     "vstart": "1129.00",
+     "vend": "1129.26",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "set",
+     "vstart": "1129.27",
+     "vend": "1129.52",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "be",
+     "vstart": "1129.63",
+     "vend": "1129.80",
+     "vpos": "VB"
+    },
+    {
+     "vword": "auctioned",
+     "vstart": "1129.80",
+     "vend": "1130.25",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "worked",
+     "vstart": "1135.19",
+     "vend": "1135.52",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "remains",
+     "vstart": "1136.84",
+     "vend": "1137.52",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a black dog running across a grass covered field . ",
+    "a black dog standing on top of a grass covered field . ",
+    "a dog laying on the ground with a person petting it . ",
+    "a dog laying on top of a wooden floor . ",
+    "a dog with its paw in the mouth of another dog . ",
+    "a man and two dogs in a yard . ",
+    "a man standing next to a shed in a yard . "
+   ]
+  },
+  {
+   "sentence": "CHIPOTLE nightmare appears to be over .",
+   "starttime": "1138.44",
+   "endtime": "1140.31",
+   "verbs": [
+    {
+     "vword": "appears",
+     "vstart": "1139.40",
+     "vend": "1139.75",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "be",
+     "vstart": "1139.83",
+     "vend": "1139.99",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a chipotle mexican grill sign on the side of a building ",
+    "a chipotle mexican grill sign on the side of a building . ",
+    "a close - up of the wkye 3 logo . "
+   ]
+  },
+  {
+   "sentence": "Centers for Disease Control says the cause of the E coli outbreak is still unknown .",
+   "starttime": "1141.07",
+   "endtime": "1146.31",
+   "verbs": [
+    {
+     "vword": "says",
+     "vstart": "1143.10",
+     "vend": "1143.39",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "is",
+     "vstart": "1145.38",
+     "vend": "1145.50",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a chipotle mexican grill sign on the side of a building ",
+    "a restaurant sign that reads \" food with integrity \". ",
+    "a restaurant with a sign on the front of it . ",
+    "a restaurant with a sign that reads \" chipotle e . coli investigation declared over \". "
+   ]
+  },
+  {
+   "sentence": "Since last year 55 customers in over 11 states got sick in a first outbreak with additional five in three states affected in a second outbreak .",
+   "starttime": "1146.53",
+   "endtime": "1156.38",
+   "verbs": [
+    {
+     "vword": "got",
+     "vstart": "1149.90",
+     "vend": "1150.12",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "affected",
+     "vstart": "1154.65",
+     "vend": "1155.14",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a sign that reads \" food with integrity \". ",
+    "a sign that says food with integrity . "
+   ]
+  },
+  {
+   "sentence": "It 's been two months since anyone has gotten sick .",
+   "starttime": "1156.61",
+   "endtime": "1159.26",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "1156.63",
+     "vend": "1156.72",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "been",
+     "vstart": "1156.72",
+     "vend": "1156.87",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "has",
+     "vstart": "1158.32",
+     "vend": "1158.50",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "gotten",
+     "vstart": "1158.50",
+     "vend": "1158.80",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a building that has a door that says \" chipotle e . coli investigation declared over \". ",
+    "a couple of people that are standing in front of a building ",
+    "a man is standing in front of a building . ",
+    "a person walking in front of a building . ",
+    "a sign that reads \" food with integrity \". ",
+    "a sign that says food with integrity . "
+   ]
+  },
+  {
+   "sentence": "CDC added it can not say with 100 certainty that there will be no more illnesses associated with the outbreak because the cause still has not been identified .",
+   "starttime": "1159.91",
+   "endtime": "1170.78",
+   "verbs": [
+    {
+     "vword": "added",
+     "vstart": "1160.21",
+     "vend": "1160.62",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "can",
+     "vstart": "1160.90",
+     "vend": "1161.05",
+     "vpos": "MD"
+    },
+    {
+     "vword": "say",
+     "vstart": "1161.23",
+     "vend": "1161.60",
+     "vpos": "VB"
+    },
+    {
+     "vword": "will",
+     "vstart": "1164.14",
+     "vend": "1164.30",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "1164.30",
+     "vend": "1164.42",
+     "vpos": "VB"
+    },
+    {
+     "vword": "associated",
+     "vstart": "1165.42",
+     "vend": "1166.14",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "has",
+     "vstart": "1169.01",
+     "vend": "1169.28",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "been",
+     "vstart": "1169.52",
+     "vend": "1169.84",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "identified",
+     "vstart": "1170.02",
+     "vend": "1170.78",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a chipotle mexican grill sign on the side of a building ",
+    "a close - up of the wkyc 3 logo . ",
+    "a man standing in front of a building . ",
+    "a man wearing headphones walking on the side of the road . ",
+    "a person walking in front of a building . ",
+    "a person walking in front of a building with a surfboard . "
+   ]
+  },
+  {
+   "sentence": "There are lots of story lines leading to Super Bowl 50 and now Cam Newton 's fashion sense is one of them .",
+   "starttime": "1171.17",
+   "endtime": "1176.77",
+   "verbs": [
+    {
+     "vword": "are",
+     "vstart": "1171.33",
+     "vend": "1171.55",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "leading",
+     "vstart": "1172.77",
+     "vend": "1173.02",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "is",
+     "vstart": "1176.19",
+     "vend": "1176.34",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a group of men standing next to each other on the street . ",
+    "a group of people standing next to an airplane . ",
+    "a group of people standing on top of an airport tarmac . ",
+    "a man in a black and white striped shirt is walking . ",
+    "a man wearing headphones walking in front of a fence . ",
+    "a man wearing headphones while standing in front of a fence . "
+   ]
+  },
+  {
+   "sentence": "Carolina Panthers arrived in California Sunday afternoon one week ahead of Super Bowl 50 .",
+   "starttime": "1177.20",
+   "endtime": "1182.02",
+   "verbs": [
+    {
+     "vword": "arrived",
+     "vstart": "1178.25",
+     "vend": "1178.49",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a group of people standing next to an airplane on a runway . ",
+    "a group of people standing next to each other on a runway . ",
+    "a man with a camera standing next to a person with luggage . "
+   ]
+  },
+  {
+   "sentence": "All the players got off the airplane dressed up in suits and ties but the quarterback Cam Newton 's outfit took the Internet by storm .",
+   "starttime": "1182.19",
+   "endtime": "1190.20",
+   "verbs": [
+    {
+     "vword": "got",
+     "vstart": "1183.09",
+     "vend": "1183.20",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "dressed",
+     "vstart": "1184.62",
+     "vend": "1185.01",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "took",
+     "vstart": "1188.54",
+     "vend": "1188.85",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a group of people standing next to each other . ",
+    "a group of people standing next to each other on a runway . ",
+    "a group of people standing next to each other on a street . ",
+    "a group of people standing next to each other on the ground . ",
+    "a group of people that are standing up . "
+   ]
+  },
+  {
+   "sentence": "Versachi printed jeans caused a stir on social media and the 850 pants have sold out online .",
+   "starttime": "1190.21",
+   "endtime": "1199.72",
+   "verbs": [
+    {
+     "vword": "caused",
+     "vstart": "1192.82",
+     "vend": "1193.10",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "stir",
+     "vstart": "1193.47",
+     "vend": "1194.00",
+     "vpos": "VB"
+    },
+    {
+     "vword": "have",
+     "vstart": "1197.45",
+     "vend": "1197.72",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "sold",
+     "vstart": "1197.72",
+     "vend": "1198.29",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a group of men in suits and ties standing around . ",
+    "a group of men walking across a runway . ",
+    "a group of people standing next to each other . ",
+    "a group of people standing next to each other on the street . ",
+    "a group of people walking down a street . ",
+    "a man is walking down the street with a suitcase . "
+   ]
+  },
+  {
+   "sentence": "I ca n't wait to see Jimmy when he wears his .",
+   "starttime": "1199.77",
+   "endtime": "1203.82",
+   "verbs": [
+    {
+     "vword": "ca",
+     "vstart": "1201.03",
+     "vend": "1201.36",
+     "vpos": "MD"
+    },
+    {
+     "vword": "wait",
+     "vstart": "1201.41",
+     "vend": "1201.72",
+     "vpos": "VB"
+    },
+    {
+     "vword": "see",
+     "vstart": "1201.84",
+     "vend": "1202.15",
+     "vpos": "VB"
+    },
+    {
+     "vword": "wears",
+     "vstart": "1203.03",
+     "vend": "1203.35",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a group of men in suits and headphones . ",
+    "a group of people standing next to each other on the street . ",
+    "a group of people walking down a street . ",
+    "a man in a suit and tie standing next to another man in a suit . ",
+    "two men walking on a runway wearing headphones . ",
+    "two people sitting in front of a news desk . "
+   ]
+  },
+  {
+   "sentence": "I ca n't wait .",
+   "starttime": "1203.82",
+   "endtime": "1204.95",
+   "verbs": [
+    {
+     "vword": "ca",
+     "vstart": "1203.96",
+     "vend": "1204.16",
+     "vpos": "MD"
+    },
+    {
+     "vword": "wait",
+     "vstart": "1204.68",
+     "vend": "1204.95",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman sitting in front of a desk . ",
+    "a man and a woman sitting in front of a tv . ",
+    "two people sitting in front of a news desk . "
+   ]
+  },
+  {
+   "sentence": "Now 850 .",
+   "starttime": "1205.52",
+   "endtime": "1206.19",
+   "verbs": [],
+   "frame_data": [
+    "a man and a woman sitting at a table . ",
+    "a man and a woman sitting in front of a news desk . ",
+    "a man and a woman sitting in front of a tv . "
+   ]
+  },
+  {
+   "sentence": "I am a little bit shorter .",
+   "starttime": "1208.59",
+   "endtime": "1209.68",
+   "verbs": [
+    {
+     "vword": "am",
+     "vstart": "1208.67",
+     "vend": "1208.78",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman are talking on a news set . "
+   ]
+  },
+  {
+   "sentence": "What do you think mine would be",
+   "starttime": "1209.92",
+   "endtime": "1210.85",
+   "verbs": [
+    {
+     "vword": "do",
+     "vstart": "1210.06",
+     "vend": "1210.12",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "think",
+     "vstart": "1210.18",
+     "vend": "1210.37",
+     "vpos": "VB"
+    },
+    {
+     "vword": "would",
+     "vstart": "1210.58",
+     "vend": "1210.74",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "1210.74",
+     "vend": "1210.85",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman are talking on a news desk . ",
+    "a man and a woman are talking on a news set . ",
+    "a man and a woman sitting in front of a tv . ",
+    "a man and a woman sitting next to each other . "
+   ]
+  },
+  {
+   "sentence": "100",
+   "starttime": "1210.85",
+   "endtime": "1215.08",
+   "verbs": [],
+   "frame_data": [
+    "a man and a woman are talking on a news desk . ",
+    "a man and a woman sitting in front of a tv . ",
+    "a man and a woman sitting next to each other . "
+   ]
+  },
+  {
+   "sentence": "I saw that yesterday when he went and I went Wow ''",
+   "starttime": "1215.11",
+   "endtime": "1219.39",
+   "verbs": [
+    {
+     "vword": "saw",
+     "vstart": "1215.67",
+     "vend": "1215.78",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "went",
+     "vstart": "1217.48",
+     "vend": "1217.58",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "went",
+     "vstart": "1217.72",
+     "vend": "1217.96",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman sitting next to each other . "
+   ]
+  },
+  {
+   "sentence": "That is wild .",
+   "starttime": "1219.93",
+   "endtime": "1220.84",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "1220.10",
+     "vend": "1220.30",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman sitting next to each other . "
+   ]
+  },
+  {
+   "sentence": "And you want the Versachi .",
+   "starttime": "1220.85",
+   "endtime": "1222.34",
+   "verbs": [
+    {
+     "vword": "want",
+     "vstart": "1221.15",
+     "vend": "1221.30",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman are sitting in front of a tv . ",
+    "a man and a woman sitting next to each other . "
+   ]
+  },
+  {
+   "sentence": "You know how they always do the Oscars and then they have the knock off versions of the dresses they 'll have that .",
+   "starttime": "1222.34",
+   "endtime": "1231.74",
+   "verbs": [
+    {
+     "vword": "know",
+     "vstart": "1225.76",
+     "vend": "1225.99",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "do",
+     "vstart": "1226.96",
+     "vend": "1227.11",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "have",
+     "vstart": "1228.98",
+     "vend": "1229.14",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "knock",
+     "vstart": "1229.25",
+     "vend": "1229.58",
+     "vpos": "VB"
+    },
+    {
+     "vword": "&apos;ll",
+     "vstart": "1231.28",
+     "vend": "1231.37",
+     "vpos": "MD"
+    },
+    {
+     "vword": "have",
+     "vstart": "1231.37",
+     "vend": "1231.58",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman are sitting in front of a tv . ",
+    "a man and a woman are sitting next to each other . ",
+    "a man and a woman are talking on a news desk . ",
+    "a man and a woman are talking on a news set . ",
+    "a man and a woman are talking on the news . ",
+    "a man and a woman sitting next to each other . "
+   ]
+  },
+  {
+   "sentence": "Guaranteed .",
+   "starttime": "1231.78",
+   "endtime": "1232.26",
+   "verbs": [
+    {
+     "vword": "Guaranteed",
+     "vstart": "1231.78",
+     "vend": "1232.26",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman are sitting next to each other . ",
+    "a man and a woman sitting next to each other . "
+   ]
+  },
+  {
+   "sentence": "Who Wore it best",
+   "starttime": "1233.24",
+   "endtime": "1234.03",
+   "verbs": [
+    {
+     "vword": "Wore",
+     "vstart": "1233.45",
+     "vend": "1233.65",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman are sitting next to each other . ",
+    "a man and a woman sitting next to each other . "
+   ]
+  },
+  {
+   "sentence": "We 'll let you know .",
+   "starttime": "1234.42",
+   "endtime": "1235.25",
+   "verbs": [
+    {
+     "vword": "&apos;ll",
+     "vstart": "1234.55",
+     "vend": "1234.62",
+     "vpos": "MD"
+    },
+    {
+     "vword": "let",
+     "vstart": "1234.62",
+     "vend": "1234.83",
+     "vpos": "VB"
+    },
+    {
+     "vword": "know",
+     "vstart": "1234.96",
+     "vend": "1235.25",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman sitting next to each other . ",
+    "a man in a purple shirt is smiling . ",
+    "a yellow and black background with the word weather . ",
+    "the word weather written on a yellow sign . "
+   ]
+  },
+  {
+   "sentence": "Speaking of letting you know it will be a nice night partly cloudy seasonably cool wind light and variable and temperatures will fall to the upper 20s .",
+   "starttime": "1237.63",
+   "endtime": "1246.22",
+   "verbs": [
+    {
+     "vword": "letting",
+     "vstart": "1238.13",
+     "vend": "1238.33",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "know",
+     "vstart": "1238.46",
+     "vend": "1238.74",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "will",
+     "vstart": "1238.86",
+     "vend": "1238.86",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "1239.04",
+     "vend": "1239.15",
+     "vpos": "VB"
+    },
+    {
+     "vword": "will",
+     "vstart": "1244.76",
+     "vend": "1244.79",
+     "vpos": "MD"
+    },
+    {
+     "vword": "fall",
+     "vstart": "1244.79",
+     "vend": "1245.11",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a map of the united states with a weather map in it . ",
+    "a weather forecast showing partly cloudy and seasonably cool . "
+   ]
+  },
+  {
+   "sentence": "That 's pretty normal for this time of year .",
+   "starttime": "1246.22",
+   "endtime": "1247.67",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "1246.25",
+     "vend": "1246.28",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a map of the united states with a weather map in it . ",
+    "a woman pointing to a map of the united states . ",
+    "a woman standing in front of a map of the united states "
+   ]
+  },
+  {
+   "sentence": "Here is our storm system .",
+   "starttime": "1247.87",
+   "endtime": "1248.97",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "1248.02",
+     "vend": "1248.11",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a map of north america . ",
+    "a woman standing in front of a map of the united states "
+   ]
+  },
+  {
+   "sentence": "It 's what everybody has been talking about for the last week or so .",
+   "starttime": "1248.97",
+   "endtime": "1252.65",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "1249.08",
+     "vend": "1249.14",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "has",
+     "vstart": "1249.63",
+     "vend": "1249.73",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "been",
+     "vstart": "1249.73",
+     "vend": "1249.92",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "talking",
+     "vstart": "1249.92",
+     "vend": "1250.32",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a map of the united states ",
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "They 're probably going to be talking about it for the next few days .",
+   "starttime": "1252.95",
+   "endtime": "1254.95",
+   "verbs": [
+    {
+     "vword": "&apos;re",
+     "vstart": "1253.12",
+     "vend": "1253.14",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "going",
+     "vstart": "1253.33",
+     "vend": "1253.37",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "be",
+     "vstart": "1253.41",
+     "vend": "1253.54",
+     "vpos": "VB"
+    },
+    {
+     "vword": "talking",
+     "vstart": "1253.54",
+     "vend": "1253.81",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "It is expected to drop a lot of snow and bring a lot of wind to portions of the plain states .",
+   "starttime": "1254.96",
+   "endtime": "1260.94",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "1255.38",
+     "vend": "1255.50",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "expected",
+     "vstart": "1255.50",
+     "vend": "1256.06",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "drop",
+     "vstart": "1256.29",
+     "vend": "1256.60",
+     "vpos": "VB"
+    },
+    {
+     "vword": "bring",
+     "vstart": "1257.81",
+     "vend": "1258.01",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a map of the united states ",
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "Not only that but the deep South Tennessee valley into northern portions of our Gulf coast states are expecting to see severe weather tomorrow .",
+   "starttime": "1261.14",
+   "endtime": "1268.78",
+   "verbs": [
+    {
+     "vword": "are",
+     "vstart": "1266.75",
+     "vend": "1266.89",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "expecting",
+     "vstart": "1266.89",
+     "vend": "1267.39",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "see",
+     "vstart": "1267.49",
+     "vend": "1267.69",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "It 's kind of a two sided storm system .",
+   "starttime": "1269.01",
+   "endtime": "1271.26",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "1269.15",
+     "vend": "1269.24",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "sided",
+     "vstart": "1269.94",
+     "vend": "1270.40",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "The main part of the storm stays to the west of us .",
+   "starttime": "1271.27",
+   "endtime": "1274.21",
+   "verbs": [
+    {
+     "vword": "stays",
+     "vstart": "1273.11",
+     "vend": "1273.51",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "That means all the wintry weather stays to the West .",
+   "starttime": "1274.25",
+   "endtime": "1276.42",
+   "verbs": [
+    {
+     "vword": "means",
+     "vstart": "1274.40",
+     "vend": "1274.58",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "stays",
+     "vstart": "1275.55",
+     "vend": "1275.95",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "We are going to be receiving warmer air in coming days .",
+   "starttime": "1277.32",
+   "endtime": "1279.97",
+   "verbs": [
+    {
+     "vword": "are",
+     "vstart": "1277.34",
+     "vend": "1277.36",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "going",
+     "vstart": "1277.36",
+     "vend": "1277.40",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "be",
+     "vstart": "1277.62",
+     "vend": "1277.76",
+     "vpos": "VB"
+    },
+    {
+     "vword": "receiving",
+     "vstart": "1277.76",
+     "vend": "1278.33",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "coming",
+     "vstart": "1279.42",
+     "vend": "1279.73",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "Temperatures tomorrow should be around 50 .",
+   "starttime": "1279.99",
+   "endtime": "1281.90",
+   "verbs": [
+    {
+     "vword": "should",
+     "vstart": "1280.77",
+     "vend": "1280.88",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "1280.89",
+     "vend": "1281.01",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "We may hit 60 for Wednesday .",
+   "starttime": "1282.52",
+   "endtime": "1284.12",
+   "verbs": [
+    {
+     "vword": "may",
+     "vstart": "1282.73",
+     "vend": "1283.05",
+     "vpos": "MD"
+    },
+    {
+     "vword": "hit",
+     "vstart": "1283.40",
+     "vend": "1283.62",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a woman is talking on a cell phone . ",
+    "a woman is talking on a cell phone in front of a map . ",
+    "a woman standing in front of a map . "
+   ]
+  },
+  {
+   "sentence": "It 's a possibility .",
+   "starttime": "1284.12",
+   "endtime": "1285.58",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "1284.12",
+     "vend": "1284.12",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a map . ",
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "But it would be early Wednesday morning so we do n't even get to enjoy it because it will be windy with falling temperatures in the afternoon .",
+   "starttime": "1285.59",
+   "endtime": "1293.62",
+   "verbs": [
+    {
+     "vword": "would",
+     "vstart": "1286.72",
+     "vend": "1286.83",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "1286.84",
+     "vend": "1287.07",
+     "vpos": "VB"
+    },
+    {
+     "vword": "do",
+     "vstart": "1288.93",
+     "vend": "1289.09",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "get",
+     "vstart": "1289.26",
+     "vend": "1289.42",
+     "vpos": "VB"
+    },
+    {
+     "vword": "enjoy",
+     "vstart": "1289.54",
+     "vend": "1290.08",
+     "vpos": "VB"
+    },
+    {
+     "vword": "will",
+     "vstart": "1291.01",
+     "vend": "1291.09",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "1291.09",
+     "vend": "1291.22",
+     "vpos": "VB"
+    },
+    {
+     "vword": "falling",
+     "vstart": "1291.91",
+     "vend": "1292.29",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a map . ",
+    "a woman standing in front of a map of cleveland . ",
+    "a woman standing in front of a map of the united states . ",
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "At 8:00 am we are expecting temperatures around the freezing mark partly cloudy skies .",
+   "starttime": "1293.82",
+   "endtime": "1298.26",
+   "verbs": [
+    {
+     "vword": "am",
+     "vstart": "1293.85",
+     "vend": "1294.52",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "are",
+     "vstart": "1294.78",
+     "vend": "1294.89",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "expecting",
+     "vstart": "1294.89",
+     "vend": "1295.36",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a large map . ",
+    "a woman standing in front of a map . ",
+    "a woman standing in front of a map of the united states . ",
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "We 'll see clouds on the increase as we head through the day tomorrow .",
+   "starttime": "1298.27",
+   "endtime": "1300.97",
+   "verbs": [
+    {
+     "vword": "&apos;ll",
+     "vstart": "1298.36",
+     "vend": "1298.40",
+     "vpos": "MD"
+    },
+    {
+     "vword": "see",
+     "vstart": "1298.40",
+     "vend": "1298.57",
+     "vpos": "VB"
+    },
+    {
+     "vword": "head",
+     "vstart": "1299.85",
+     "vend": "1300.02",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a map . ",
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "Midday temperatures will be in the mid 40s .",
+   "starttime": "1301.26",
+   "endtime": "1302.93",
+   "verbs": [
+    {
+     "vword": "will",
+     "vstart": "1302.19",
+     "vend": "1302.27",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "1302.27",
+     "vend": "1302.50",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a map . ",
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "We 'll be upper 40s to around 50 by evening .",
+   "starttime": "1303.39",
+   "endtime": "1306.22",
+   "verbs": [
+    {
+     "vword": "&apos;ll",
+     "vstart": "1303.47",
+     "vend": "1303.51",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "1303.51",
+     "vend": "1303.66",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a map of the united states . ",
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "You see the rain chances that start .",
+   "starttime": "1306.74",
+   "endtime": "1308.31",
+   "verbs": [
+    {
+     "vword": "see",
+     "vstart": "1306.85",
+     "vend": "1307.02",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "start",
+     "vstart": "1307.97",
+     "vend": "1308.31",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "Rain Chances Will Continue Tuesday night as we get into Wednesday .",
+   "starttime": "1308.31",
+   "endtime": "1311.43",
+   "verbs": [
+    {
+     "vword": "Will",
+     "vstart": "1308.97",
+     "vend": "1309.10",
+     "vpos": "MD"
+    },
+    {
+     "vword": "Continue",
+     "vstart": "1309.10",
+     "vend": "1309.60",
+     "vpos": "VB"
+    },
+    {
+     "vword": "get",
+     "vstart": "1310.83",
+     "vend": "1310.97",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a woman in a purple dress standing in front of a tree . ",
+    "a woman standing in front of a tree in front of a tv . ",
+    "a woman standing in front of a weather map . "
+   ]
+  },
+  {
+   "sentence": "We 'll start the day around 30 and take you to 40 by midday and top out around 50 in northern Ohio .",
+   "starttime": "1311.85",
+   "endtime": "1317.54",
+   "verbs": [
+    {
+     "vword": "&apos;ll",
+     "vstart": "1311.87",
+     "vend": "1311.88",
+     "vpos": "MD"
+    },
+    {
+     "vword": "start",
+     "vstart": "1311.88",
+     "vend": "1312.18",
+     "vpos": "VB"
+    },
+    {
+     "vword": "take",
+     "vstart": "1313.18",
+     "vend": "1313.39",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a woman standing in front of a tree . ",
+    "a woman standing in front of a tree with a purple dress on . ",
+    "three different weather conditions are shown on a television screen . "
+   ]
+  },
+  {
+   "sentence": "As far as rain chances they 'll be best through over night into Wednesday .",
+   "starttime": "1317.87",
+   "endtime": "1321.96",
+   "verbs": [
+    {
+     "vword": "&apos;ll",
+     "vstart": "1319.46",
+     "vend": "1319.51",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "1319.77",
+     "vend": "1319.92",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a three day weather outlook for today . ",
+    "a weather forecast for the next 7 days . ",
+    "a weather forecast for the next three days . ",
+    "a weather outlook for the next three days . ",
+    "three different weather conditions are shown on a screen . "
+   ]
+  },
+  {
+   "sentence": "Window Nation SEVEN-DAY forecast does showcase 50s very early Wednesday and then falling back to the 40s .",
+   "starttime": "1322.30",
+   "endtime": "1327.98",
+   "verbs": [
+    {
+     "vword": "does",
+     "vstart": "1323.92",
+     "vend": "1324.11",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "falling",
+     "vstart": "1326.71",
+     "vend": "1327.03",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a 7 - day weather forecast for the next few days . ",
+    "a forecast for the 7 days of the week . ",
+    "a weather forecast for the 7 day forecast . ",
+    "a weather forecast is displayed on a television screen . "
+   ]
+  },
+  {
+   "sentence": "We 'll be in the 30s to around 40 to wrap up the week and head to the weekend .",
+   "starttime": "1327.98",
+   "endtime": "1332.66",
+   "verbs": [
+    {
+     "vword": "&apos;ll",
+     "vstart": "1327.98",
+     "vend": "1327.98",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "1328.51",
+     "vend": "1328.69",
+     "vpos": "VB"
+    },
+    {
+     "vword": "wrap",
+     "vstart": "1330.59",
+     "vend": "1330.83",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a forecast for the 7 days of the week . ",
+    "a man and a woman sitting in front of a desk . ",
+    "a weather forecast for the 7 day period . "
+   ]
+  },
+  {
+   "sentence": "Remember she 's stressing very early for the 60s and 50s .",
+   "starttime": "1332.81",
+   "endtime": "1336.20",
+   "verbs": [
+    {
+     "vword": "Remember",
+     "vstart": "1332.81",
+     "vend": "1333.19",
+     "vpos": "VB"
+    },
+    {
+     "vword": "&apos;s",
+     "vstart": "1333.42",
+     "vend": "1333.49",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "stressing",
+     "vstart": "1333.50",
+     "vend": "1334.11",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman sitting at a table . ",
+    "a man and a woman sitting in front of a desk . "
+   ]
+  },
+  {
+   "sentence": "We do n't even get to enjoy it .",
+   "starttime": "1337.28",
+   "endtime": "1339.03",
+   "verbs": [
+    {
+     "vword": "do",
+     "vstart": "1337.43",
+     "vend": "1337.52",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "get",
+     "vstart": "1337.69",
+     "vend": "1337.87",
+     "vpos": "VB"
+    },
+    {
+     "vword": "enjoy",
+     "vstart": "1339.03",
+     "vend": "1339.03",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman sitting at a desk . ",
+    "a man and a woman sitting at a table . ",
+    "a man and a woman sitting in front of a television . ",
+    "two people sitting in front of a desk . "
+   ]
+  },
+  {
+   "sentence": "Then it 's going to drop .",
+   "starttime": "1339.03",
+   "endtime": "1339.80",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "1339.55",
+     "vend": "1339.56",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "going",
+     "vstart": "1339.56",
+     "vend": "1339.60",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "drop",
+     "vstart": "1339.76",
+     "vend": "1339.80",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman sitting at a table . "
+   ]
+  },
+  {
+   "sentence": "It 's Super Bowl 50 week .",
+   "starttime": "1340.72",
+   "endtime": "1342.06",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "1340.83",
+     "vend": "1340.85",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a close - up image of the word \" sports \". ",
+    "a man and a woman sitting at a desk . ",
+    "a man and a woman sitting at a table . "
+   ]
+  },
+  {
+   "sentence": "There a lot of questions .",
+   "starttime": "1342.28",
+   "endtime": "1343.45",
+   "verbs": [],
+   "frame_data": [
+    "a football player in a white and blue uniform . ",
+    "a group of football players standing on top of a field . ",
+    "a group of men playing football on a field . "
+   ]
+  },
+  {
+   "sentence": "A lot of them will be answered tonight .",
+   "starttime": "1343.84",
+   "endtime": "1345.06",
+   "verbs": [
+    {
+     "vword": "will",
+     "vstart": "1344.33",
+     "vend": "1344.44",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "1344.44",
+     "vend": "1344.59",
+     "vpos": "VB"
+    },
+    {
+     "vword": "answered",
+     "vstart": "1344.59",
+     "vend": "1344.91",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a group of men on a field playing football . ",
+    "a group of men playing football on a field . ",
+    "a group of men standing on top of a football field . ",
+    "a large crowd of people sitting in a stadium . "
+   ]
+  },
+  {
+   "sentence": "Peyton manning is front and center .",
+   "starttime": "1345.49",
+   "endtime": "1347.35",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "1346.53",
+     "vend": "1346.55",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a crowd of people in a stadium watching a game . ",
+    "a football player is running on a field . ",
+    "a group of men playing football on a field . "
+   ]
+  },
+  {
+   "sentence": "Is this his last game of his career",
+   "starttime": "1347.35",
+   "endtime": "1349.82",
+   "verbs": [
+    {
+     "vword": "Is",
+     "vstart": "1347.35",
+     "vend": "1347.50",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a crowd of people watching a football game . ",
+    "a football player is running on a field . ",
+    "a man wearing a helmet and a red jacket . "
+   ]
+  },
+  {
+   "sentence": "I just ca n't wait to meet you sweet child you 're on the way I 'm filled with expectation and you 're growing everyday ...",
+   "starttime": "1400.94",
+   "endtime": "1492.84",
+   "verbs": [
+    {
+     "vword": "ca",
+     "vstart": "1404.14",
+     "vend": "1404.44",
+     "vpos": "MD"
+    },
+    {
+     "vword": "wait",
+     "vstart": "1404.52",
+     "vend": "1404.79",
+     "vpos": "VB"
+    },
+    {
+     "vword": "meet",
+     "vstart": "1405.11",
+     "vend": "1405.64",
+     "vpos": "VB"
+    },
+    {
+     "vword": "&apos;re",
+     "vstart": "1407.77",
+     "vend": "1407.90",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "&apos;m",
+     "vstart": "1410.10",
+     "vend": "1410.22",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "filled",
+     "vstart": "1410.23",
+     "vend": "1410.62",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "&apos;re",
+     "vstart": "1484.80",
+     "vend": "1484.88",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "growing",
+     "vstart": "1492.67",
+     "vend": "1492.72",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman are talking to a news station . ",
+    "a man standing in a parking garage with his hands on his hips . ",
+    "a man standing in front of a woman in a building . ",
+    "a man standing in front of a woman in a parking garage . ",
+    "a man with a goatee is riding a bus . ",
+    "a red sign that says \" sports \". ",
+    "an older woman sitting on a bus looking up . ",
+    "the new biggest loser : temptation nation tonight 9 / 8 ",
+    "there is no image here to provide a caption for . "
+   ]
+  },
+  {
+   "sentence": "Well Super Bowl Media Day used to be in the morning every year at the super bowl but it has changed .",
+   "starttime": "1494.11",
+   "endtime": "1499.86",
+   "verbs": [
+    {
+     "vword": "used",
+     "vstart": "1495.83",
+     "vend": "1496.05",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "be",
+     "vstart": "1496.09",
+     "vend": "1496.24",
+     "vpos": "VB"
+    },
+    {
+     "vword": "has",
+     "vstart": "1499.26",
+     "vend": "1499.47",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "changed",
+     "vstart": "1499.47",
+     "vend": "1499.86",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a man in front of a tv on a news desk . ",
+    "a man is standing in front of a television . ",
+    "a man sitting in front of a tv on a news desk . ",
+    "a man sitting in front of a tv on top of a desk . "
+   ]
+  },
+  {
+   "sentence": "So tonight it begins and it is in Primetime .",
+   "starttime": "1499.86",
+   "endtime": "1502.39",
+   "verbs": [
+    {
+     "vword": "begins",
+     "vstart": "1500.71",
+     "vend": "1501.14",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "is",
+     "vstart": "1501.40",
+     "vend": "1501.48",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man in front of a tv on a news desk . ",
+    "a man standing in front of a television . "
+   ]
+  },
+  {
+   "sentence": "That 's a spot where you get plenty questions questions about everything that 's going on under the Sun .",
+   "starttime": "1502.71",
+   "endtime": "1507.74",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "1503.06",
+     "vend": "1503.12",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "get",
+     "vstart": "1503.68",
+     "vend": "1503.83",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "&apos;s",
+     "vstart": "1505.95",
+     "vend": "1506.01",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "going",
+     "vstart": "1506.02",
+     "vend": "1506.35",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a group of people standing on top of a football field . ",
+    "a man in front of a tv on a news desk . ",
+    "a man in front of a tv on a news set . ",
+    "a man is sitting in front of a television . ",
+    "a man standing in front of a television . "
+   ]
+  },
+  {
+   "sentence": "But the main question this year will be about PEYTON manning .",
+   "starttime": "1507.74",
+   "endtime": "1511.51",
+   "verbs": [
+    {
+     "vword": "will",
+     "vstart": "1509.49",
+     "vend": "1509.65",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "1509.65",
+     "vend": "1510.01",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a group of men standing on top of a football field . ",
+    "a group of men standing on top of a grass covered field . ",
+    "a group of people standing on top of a football field . "
+   ]
+  },
+  {
+   "sentence": "He is in the Super Bowl again super bowl 50 .",
+   "starttime": "1511.51",
+   "endtime": "1514.90",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "1511.81",
+     "vend": "1511.83",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a group of men standing on top of a football field . ",
+    "a group of men standing on top of a grass covered field . ",
+    "a group of people standing on top of a soccer field . "
+   ]
+  },
+  {
+   "sentence": "But because of all the injuries is this his last game in the NFL",
+   "starttime": "1515.14",
+   "endtime": "1514.90",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "1516.72",
+     "vend": "1516.95",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a football player is holding a ball on a field . ",
+    "a group of men on a field playing football . ",
+    "a group of people standing on top of a soccer field . ",
+    "a man in a red and white football uniform . "
+   ]
+  },
+  {
+   "sentence": "We have done a great job staying in the moment you know .",
+   "starttime": "1521.30",
+   "endtime": "1525.25",
+   "verbs": [
+    {
+     "vword": "have",
+     "vstart": "1521.50",
+     "vend": "1521.53",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "done",
+     "vstart": "1521.53",
+     "vend": "1521.67",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "know",
+     "vstart": "1524.98",
+     "vend": "1525.25",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a close up of a person sitting in front of a tv ",
+    "a close up of a person sitting in front of a wall ",
+    "a man is sitting in front of a television . ",
+    "a man is talking to a television reporter . "
+   ]
+  },
+  {
+   "sentence": "PEYTON I ca n't speak for Peyton .",
+   "starttime": "1525.44",
+   "endtime": "1527.47",
+   "verbs": [
+    {
+     "vword": "ca",
+     "vstart": "1526.27",
+     "vend": "1526.50",
+     "vpos": "MD"
+    },
+    {
+     "vword": "speak",
+     "vstart": "1526.54",
+     "vend": "1526.81",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a close up of a person sitting in front of a microphone ",
+    "a close up of a person wearing a sweatshirt ",
+    "a group of football players in a huddle . ",
+    "a man in a gray hoodie is talking to the camera . ",
+    "a man is talking to a television reporter . "
+   ]
+  },
+  {
+   "sentence": "That 's not my job .",
+   "starttime": "1527.87",
+   "endtime": "1528.78",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "1528.06",
+     "vend": "1528.13",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a group of football players are playing a game . ",
+    "a group of football players fighting in a field . ",
+    "a group of football players standing on top of a field . "
+   ]
+  },
+  {
+   "sentence": "I know this he has really worked hard for this opportunity to get back to where he 's at to lead this football team .",
+   "starttime": "1528.79",
+   "endtime": "1534.65",
+   "verbs": [
+    {
+     "vword": "know",
+     "vstart": "1528.97",
+     "vend": "1529.19",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "has",
+     "vstart": "1529.67",
+     "vend": "1529.79",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "worked",
+     "vstart": "1530.06",
+     "vend": "1530.32",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "get",
+     "vstart": "1532.33",
+     "vend": "1532.47",
+     "vpos": "VB"
+    },
+    {
+     "vword": "&apos;s",
+     "vstart": "1533.07",
+     "vend": "1533.17",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "lead",
+     "vstart": "1533.50",
+     "vend": "1533.70",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a couple of men standing next to each other on a field . ",
+    "a crowd of people in a stadium . ",
+    "a crowd of people watching a football game . ",
+    "a football player running on a field . ",
+    "a group of football players are playing a game . ",
+    "a group of football players on a field . ",
+    "a man holding a football in the air . "
+   ]
+  },
+  {
+   "sentence": "We made a promise to each other that we will enjoy each and everyday the preparation and the football game .",
+   "starttime": "1534.76",
+   "endtime": "1540.78",
+   "verbs": [
+    {
+     "vword": "made",
+     "vstart": "1536.34",
+     "vend": "1536.54",
+     "vpos": "VBD"
+    },
+    {
+     "vword": "will",
+     "vstart": "1537.69",
+     "vend": "1537.69",
+     "vpos": "MD"
+    },
+    {
+     "vword": "enjoy",
+     "vstart": "1537.84",
+     "vend": "1538.21",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a couple of men standing next to each other on a field . ",
+    "a couple of people that are talking to each other . ",
+    "a group of men standing next to each other on a field . ",
+    "a man and a woman in a crowd at a football game ",
+    "a man in an orange and white football uniform is being interviewed . ",
+    "a man standing in front of a microphone . "
+   ]
+  },
+  {
+   "sentence": "We 'll go from there .",
+   "starttime": "1540.79",
+   "endtime": "1541.56",
+   "verbs": [
+    {
+     "vword": "&apos;ll",
+     "vstart": "1540.92",
+     "vend": "1540.97",
+     "vpos": "MD"
+    },
+    {
+     "vword": "go",
+     "vstart": "1540.97",
+     "vend": "1541.19",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a group of men standing next to each other on a field . ",
+    "a group of people standing around a crowd . "
+   ]
+  },
+  {
+   "sentence": "That 's not going to change .",
+   "starttime": "1541.69",
+   "endtime": "1543.64",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "1541.77",
+     "vend": "1541.84",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "going",
+     "vstart": "1541.99",
+     "vend": "1542.04",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "change",
+     "vstart": "1543.60",
+     "vend": "1543.64",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a group of men standing next to each other on a field . ",
+    "a group of people standing around a crowd . ",
+    "a group of people that are standing up . ",
+    "a man and a woman sitting in front of a news desk . ",
+    "a man and a woman sitting in front of a television . "
+   ]
+  },
+  {
+   "sentence": "If he wins that would be like a movie if he wins the game Sunday .",
+   "starttime": "1543.65",
+   "endtime": "1548.72",
+   "verbs": [
+    {
+     "vword": "wins",
+     "vstart": "1544.17",
+     "vend": "1544.51",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "would",
+     "vstart": "1545.54",
+     "vend": "1545.62",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "1545.63",
+     "vend": "1545.79",
+     "vpos": "VB"
+    },
+    {
+     "vword": "wins",
+     "vstart": "1546.90",
+     "vend": "1547.40",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman sitting at a news desk . ",
+    "a man and a woman sitting at a table . ",
+    "a man and a woman sitting in front of a desk . ",
+    "a man and a woman sitting in front of a television . ",
+    "two people sitting in front of a news desk "
+   ]
+  },
+  {
+   "sentence": "They are pretty sizeable underdog going into Super Bowl 50 against Carolina Panthers who have only lost one game this year .",
+   "starttime": "1549.10",
+   "endtime": "1556.55",
+   "verbs": [
+    {
+     "vword": "are",
+     "vstart": "1549.46",
+     "vend": "1549.92",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "going",
+     "vstart": "1551.41",
+     "vend": "1551.66",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "have",
+     "vstart": "1554.74",
+     "vend": "1554.85",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "lost",
+     "vstart": "1555.09",
+     "vend": "1555.40",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman are sitting at a news desk . ",
+    "a man and a woman sitting at a news desk . ",
+    "a man and a woman sitting in front of a television . "
+   ]
+  },
+  {
+   "sentence": "Thanks for watching .",
+   "starttime": "1556.82",
+   "endtime": "1557.69",
+   "verbs": [
+    {
+     "vword": "watching",
+     "vstart": "1557.28",
+     "vend": "1557.69",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman are sitting at a desk . ",
+    "a man and a woman are sitting at a news desk . ",
+    "a man and a woman sitting at a news desk . "
+   ]
+  },
+  {
+   "sentence": "Entertainment tonight is next .",
+   "starttime": "1557.72",
+   "endtime": "1559.34",
+   "verbs": [
+    {
+     "vword": "is",
+     "vstart": "1558.51",
+     "vend": "1558.51",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman are sitting at a news desk . ",
+    "a man and a woman sitting at a news desk . "
+   ]
+  },
+  {
+   "sentence": "Russ and Sara are back tonight at 11:00 results on the Iowa caucuses constant updates on our APP wkyc.com .",
+   "starttime": "1559.35",
+   "endtime": "1568.18",
+   "verbs": [
+    {
+     "vword": "are",
+     "vstart": "1560.94",
+     "vend": "1561.00",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "results",
+     "vstart": "1562.35",
+     "vend": "1562.82",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman are sitting at a news desk . ",
+    "a man and a woman sitting at a news desk . ",
+    "a man and a woman sitting in front of a news desk . ",
+    "a television news crew is sitting at a desk . "
+   ]
+  },
+  {
+   "sentence": "have a great night everybody .",
+   "starttime": "1568.19",
+   "endtime": "1569.47",
+   "verbs": [
+    {
+     "vword": "have",
+     "vstart": "1568.19",
+     "vend": "1568.35",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man standing in front of a camera on a television . ",
+    "a man standing in front of a television set . ",
+    "a television news crew is sitting at a desk . "
+   ]
+  },
+  {
+   "sentence": "Thanks for watching Channel 3 news .",
+   "starttime": "1575.46",
+   "endtime": "1577.18",
+   "verbs": [
+    {
+     "vword": "watching",
+     "vstart": "1575.88",
+     "vend": "1576.24",
+     "vpos": "VBG"
+    }
+   ],
+   "frame_data": [
+    "a large television screen in front of a building . ",
+    "a large television screen that says wkyc 3 . ",
+    "a large television screen with the wkyc logo on it . "
+   ]
+  },
+  {
+   "sentence": "Take Channel 3 news and weather with you wherever you go .",
+   "starttime": "1577.22",
+   "endtime": "1579.43",
+   "verbs": [
+    {
+     "vword": "Take",
+     "vstart": "1577.22",
+     "vend": "1577.44",
+     "vpos": "VB"
+    },
+    {
+     "vword": "go",
+     "vstart": "1579.08",
+     "vend": "1579.43",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a tablet and a cell phone are next to each other ",
+    "a tablet with a bunch of pictures on it ",
+    "a television screen with the wkyc logo on it . ",
+    "three different phones are shown in a video . "
+   ]
+  },
+  {
+   "sentence": "Text WKYC to download our free APPs .",
+   "starttime": "1579.48",
+   "endtime": "1583.93",
+   "verbs": [
+    {
+     "vword": "download",
+     "vstart": "1582.57",
+     "vend": "1583.00",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a group of three phones that are next to each other . ",
+    "a tablet and a phone are sitting next to each other . ",
+    "three phones are sitting next to each other . "
+   ]
+  },
+  {
+   "sentence": "You want to feel connected .",
+   "starttime": "1584.56",
+   "endtime": "1636.88",
+   "verbs": [
+    {
+     "vword": "want",
+     "vstart": "1610.25",
+     "vend": "1610.50",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "feel",
+     "vstart": "1636.05",
+     "vend": "1636.32",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man standing next to a white train . ",
+    "a man standing on a train looking at his cell phone . ",
+    "a person riding a snowboard down a snow covered slope . ",
+    "a woman in a red jacket talking to the camera . ",
+    "a woman in a red shirt is making a funny face . "
+   ]
+  },
+  {
+   "sentence": "Informed included inspired .",
+   "starttime": "1637.43",
+   "endtime": "1640.31",
+   "verbs": [
+    {
+     "vword": "Informed",
+     "vstart": "1637.43",
+     "vend": "1638.05",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "included",
+     "vstart": "1638.45",
+     "vend": "1638.97",
+     "vpos": "VBN"
+    },
+    {
+     "vword": "inspired",
+     "vstart": "1639.42",
+     "vend": "1640.31",
+     "vpos": "VBN"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman taking a selfie . ",
+    "a man standing in front of a large window . ",
+    "a woman sitting in front of a laptop computer . "
+   ]
+  },
+  {
+   "sentence": "So when important things happen we 're here .",
+   "starttime": "1640.70",
+   "endtime": "1643.48",
+   "verbs": [
+    {
+     "vword": "happen",
+     "vstart": "1641.83",
+     "vend": "1642.28",
+     "vpos": "VB"
+    },
+    {
+     "vword": "&apos;re",
+     "vstart": "1642.99",
+     "vend": "1643.04",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman taking a selfie . ",
+    "a woman in front of a television holding a remote control . ",
+    "a woman is playing a video game on the television . ",
+    "two people in a kitchen looking at something on the counter . ",
+    "two young girls in a kitchen playing with a wii . "
+   ]
+  },
+  {
+   "sentence": "Your local TV and radio broadcasters .",
+   "starttime": "1643.92",
+   "endtime": "1646.38",
+   "verbs": [],
+   "frame_data": [
+    "a person holding a tablet in their hand . ",
+    "a person sitting in front of a computer screen . ",
+    "a woman sitting in front of a laptop computer . "
+   ]
+  },
+  {
+   "sentence": "America 's number one source for news weather and information .",
+   "starttime": "1646.95",
+   "endtime": "1650.39",
+   "verbs": [],
+   "frame_data": [
+    "a man and a woman sitting on a couch playing a video game . ",
+    "a person holding a tablet in their hand . ",
+    "a woman standing on a bridge looking at her cell phone . "
+   ]
+  },
+  {
+   "sentence": "On every screen in your life .",
+   "starttime": "1651.07",
+   "endtime": "1652.61",
+   "verbs": [],
+   "frame_data": [
+    "a bright light is shining in the dark . ",
+    "a person is looking at a picture on a phone . ",
+    "a person is touching a screen in a car . "
+   ]
+  },
+  {
+   "sentence": "We are broadcasters always here for you wherever here may be .",
+   "starttime": "1654.59",
+   "endtime": "1659.36",
+   "verbs": [
+    {
+     "vword": "are",
+     "vstart": "1654.85",
+     "vend": "1655.01",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "may",
+     "vstart": "1658.86",
+     "vend": "1659.07",
+     "vpos": "MD"
+    },
+    {
+     "vword": "be",
+     "vstart": "1659.07",
+     "vend": "1659.36",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a group of men standing next to each other . ",
+    "a television and a cell phone on a table . ",
+    "a television screen with a picture of a man on it . ",
+    "a television screen with a picture of a woman on it . ",
+    "a tv and a phone on top of a table . ",
+    "a view of a room full of people sitting in chairs . "
+   ]
+  },
+  {
+   "sentence": "Text TV '' to 52886 .",
+   "starttime": "1659.78",
+   "endtime": "1662.33",
+   "verbs": [],
+   "frame_data": [
+    "an image of a cell phone that has text on it . ",
+    "an image of a cell phone that has the number 5 2 8 8 6 on it ",
+    "there is a television , a laptop , and a phone on the table . "
+   ]
+  },
+  {
+   "sentence": "Tell Washington local stations matter .",
+   "starttime": "1662.51",
+   "endtime": "1664.83",
+   "verbs": [
+    {
+     "vword": "Tell",
+     "vstart": "1662.51",
+     "vend": "1662.77",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "an image of a cell phone that is falling down ",
+    "an image of a cell phone that is flying through the air "
+   ]
+  },
+  {
+   "sentence": "Bend me shape me any way you want me",
+   "starttime": "1671.16",
+   "endtime": "1677.77",
+   "verbs": [
+    {
+     "vword": "Bend",
+     "vstart": "1671.16",
+     "vend": "1671.30",
+     "vpos": "VB"
+    },
+    {
+     "vword": "shape",
+     "vstart": "1676.03",
+     "vend": "1676.27",
+     "vpos": "VB"
+    },
+    {
+     "vword": "want",
+     "vstart": "1677.77",
+     "vend": "1677.77",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a bathroom with a blue light coming out of the wall . ",
+    "a man and a woman performing a dance in front of a wall . ",
+    "a man is doing a trick in a room ",
+    "a woman in a white outfit is jumping in the air . "
+   ]
+  },
+  {
+   "sentence": "As long as you love me it 's Alright",
+   "starttime": "1677.77",
+   "endtime": "1681.61",
+   "verbs": [
+    {
+     "vword": "love",
+     "vstart": "1677.78",
+     "vend": "1677.94",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "&apos;s",
+     "vstart": "1680.16",
+     "vend": "1680.17",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a man and a woman performing a dance in front of a wall . ",
+    "a person is diving in the water . ",
+    "two people are doing a dance move in front of a wall . ",
+    "two people are performing a dance in a dark room . "
+   ]
+  },
+  {
+   "sentence": "Bend me shape me any way you want me",
+   "starttime": "1682.42",
+   "endtime": "1687.16",
+   "verbs": [
+    {
+     "vword": "Bend",
+     "vstart": "1682.42",
+     "vend": "1682.77",
+     "vpos": "VB"
+    },
+    {
+     "vword": "shape",
+     "vstart": "1686.83",
+     "vend": "1687.16",
+     "vpos": "VB"
+    },
+    {
+     "vword": "want",
+     "vstart": "1687.16",
+     "vend": "1687.16",
+     "vpos": "VBP"
+    }
+   ],
+   "frame_data": [
+    "a close - up view of the corner of a white chair . ",
+    "a group of young men and women dancing together . ",
+    "a man holding up a cell phone in front of his face . ",
+    "a man holding up a smart phone in front of his face . "
+   ]
+  },
+  {
+   "sentence": "Shape the best sleep of your life .",
+   "starttime": "1687.16",
+   "endtime": "1688.66",
+   "verbs": [
+    {
+     "vword": "Shape",
+     "vstart": "1687.16",
+     "vend": "1687.16",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man holding a cell phone in his hand . ",
+    "a man holding a cell phone up to his face . ",
+    "a man holding up a smart phone in front of his face . "
+   ]
+  },
+  {
+   "sentence": "Sleep number beds with SLEEPIA technology adjust any way you want it the bed that moves you .",
+   "starttime": "1689.00",
+   "endtime": "1693.60",
+   "verbs": [
+    {
+     "vword": "Sleep",
+     "vstart": "1689.00",
+     "vend": "1689.23",
+     "vpos": "VB"
+    },
+    {
+     "vword": "adjust",
+     "vstart": "1691.09",
+     "vend": "1691.36",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "want",
+     "vstart": "1691.89",
+     "vend": "1692.13",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "moves",
+     "vstart": "1693.10",
+     "vend": "1693.42",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a bed that has been lit up by the light . ",
+    "a bed that has been lit up by the light of a candle . ",
+    "a bed that has been set up in the shape of a mattress . ",
+    "a bed with a blue light on it . ",
+    "a man standing in the middle of an obstacle course . ",
+    "there is an advertisement for a mattress brand . "
+   ]
+  },
+  {
+   "sentence": "Only at a sleep number store .",
+   "starttime": "1693.81",
+   "endtime": "1695.16",
+   "verbs": [],
+   "frame_data": [
+    "a man driving a truck in a field . ",
+    "an advertisement for sleep number beds is shown . ",
+    "there is an advertisement for a mattress brand . "
+   ]
+  },
+  {
+   "sentence": "It 's about time the TACO ... came out of its Shell .",
+   "starttime": "1696.12",
+   "endtime": "1749.87",
+   "verbs": [
+    {
+     "vword": "&apos;s",
+     "vstart": "1696.14",
+     "vend": "1696.15",
+     "vpos": "VBZ"
+    },
+    {
+     "vword": "came",
+     "vstart": "1748.77",
+     "vend": "1749.06",
+     "vpos": "VBD"
+    }
+   ],
+   "frame_data": [
+    "a group of people sitting around a kitchen table . ",
+    "a man driving a truck in a field . ",
+    "two people are shaking hands over a table . ",
+    "two people laying in a bed with one of them sleeping . "
+   ]
+  },
+  {
+   "sentence": "Unleash the power of dough .",
+   "starttime": "1756.85",
+   "endtime": "1758.58",
+   "verbs": [
+    {
+     "vword": "Unleash",
+     "vstart": "1756.85",
+     "vend": "1757.44",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a person cutting a pizza on top of a plate . ",
+    "a young boy sitting at a table eating a sandwich . ",
+    "a young boy sitting at a table eating food . "
+   ]
+  },
+  {
+   "sentence": "Give it a pop .",
+   "starttime": "1759.26",
+   "endtime": "1759.91",
+   "verbs": [
+    {
+     "vword": "Give",
+     "vstart": "1759.26",
+     "vend": "1759.41",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a close up of a box of crescent rolls . ",
+    "a close up of a croissant on top of a table "
+   ]
+  },
+  {
+   "sentence": "That sound .",
+   "starttime": "1760.55",
+   "endtime": "1761.65",
+   "verbs": [],
+   "frame_data": [
+    "a person cutting a piece of toast on a plate . ",
+    "a person is eating a piece of toast on a plate . "
+   ]
+  },
+  {
+   "sentence": "Like nails on a chalkboard .",
+   "starttime": "1761.83",
+   "endtime": "1764.44",
+   "verbs": [],
+   "frame_data": [
+    "a person cutting a piece of toast on a plate . ",
+    "a person holding a piece of toast on top of a plate . ",
+    "a woman and a girl sitting at a table clapping "
+   ]
+  },
+  {
+   "sentence": "But listen to this that 's a different kind of sound .",
+   "starttime": "1765.15",
+   "endtime": "1769.72",
+   "verbs": [
+    {
+     "vword": "listen",
+     "vstart": "1765.29",
+     "vend": "1765.52",
+     "vpos": "VB"
+    },
+    {
+     "vword": "&apos;s",
+     "vstart": "1767.16",
+     "vend": "1767.21",
+     "vpos": "VBZ"
+    }
+   ],
+   "frame_data": [
+    "a boy sitting at a table with a plate of food . ",
+    "a woman and a girl sitting at a table . ",
+    "a woman sitting at a table with a young girl . ",
+    "a young man eating a sandwich while sitting at a table . "
+   ]
+  },
+  {
+   "sentence": "The sound of the weekend .",
+   "starttime": "1770.06",
+   "endtime": "1772.25",
+   "verbs": [],
+   "frame_data": [
+    "a person feeding a child a piece of bacon . ",
+    "a person is feeding a child at a table . ",
+    "two people sitting at a table with a plate of food "
+   ]
+  },
+  {
+   "sentence": "Unleash the power of dough .",
+   "starttime": "1772.25",
+   "endtime": "1773.78",
+   "verbs": [
+    {
+     "vword": "Unleash",
+     "vstart": "1772.25",
+     "vend": "1772.60",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a woman and a boy sitting at a table . ",
+    "two boxes of cookies on top of a counter . ",
+    "two people sitting at a table with a plate of food "
+   ]
+  },
+  {
+   "sentence": "Give it a pop .",
+   "starttime": "1773.99",
+   "endtime": "1774.82",
+   "verbs": [
+    {
+     "vword": "Give",
+     "vstart": "1773.99",
+     "vend": "1774.18",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "two boxes of cookies on top of a counter . ",
+    "two pillsbury pastries are sitting side by side on a table . "
+   ]
+  }
+ ]
+}
