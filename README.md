@@ -14,6 +14,7 @@ To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.sit
 3. conda create --name Semantic-search
 
 4. conda activate Semantic-search
+
 5. cd Semantic-search-in-video-datasets/
 
 6. pip install -r requirements.txt
@@ -28,7 +29,7 @@ To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.sit
 
 # Running Scripts and Step by Step Process
 
-1. We will first generate metadata and sentence start and end time using ```extract_data_all_files.py```. In the ```input_files``` folder ONLY keep .vrts and .mp4 files of videos for which you want to populate data to weaviate. (Delete files for which json is already generated)
+1. We will first generate metadata and sentence start and end time using ```extract_data_all_files.py```. In the ```input_files``` folder ONLY keep .vrt and .mp4 files of videos for which you want to populate data to weaviate (Delete files for which json is already generated). Also verify that for every .vrt file there is a corresponding .mp4 file.
 
     To run this script :
 
@@ -69,6 +70,10 @@ To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.sit
     docker compose up
 
     open (http://labyrinth01.inf.um.es:8030/) in your browser to see the app running.
+
+# To do all things using a single script
+
+Go to src/main.ipynb, run all the cells as per the instructions.
 
 
 
