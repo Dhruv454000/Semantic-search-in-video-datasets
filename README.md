@@ -2,8 +2,110 @@
 
 I propose to create a semantic multimodal search engine for collections of transcribed and aligned videos using state-of-the-art artificial intelligence models of different types, including NLP (Large Language Models) for text generation and capturing the semantics of transcriptions, as well as image description models to understand what is being seen in the video. Only focusing on the transcribed text does not help much, considering the context, what is being shown in the video will be helpful. The search engine will list down the most closest matches to the user query containing the metadata like link to the video, video-id, timestamp, text.
 
-To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.site/Semantic-search-in-video-datasets-3c73c303c56748b497a975b1397d84ef)
+To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.site/Semantic-search-in-video-datasets-3c73c303c56748b497a975b1397d84ef) Here I have given my weekly progress details and explanations.
 
+# Project Details
+
+![Alt text](utilities/image.png)
+
+- Specific Details regarding the models used and reason for that, vrt data format and how is the data populated, schema used for weaviate, this all details are there in my project [blog](https://dhruv-kunjadiya.notion.site/Semantic-search-in-video-datasets-3c73c303c56748b497a975b1397d84ef).
+
+- I have attached more detailed information and pictures for each step in my blog.
+
+
+## How does query works
+
+Lets take example of how a single sentence looks in the json that we formed from vrts and video files.
+
+```json
+{
+   "sentence": "We 're going to have a tremendous victory .",
+   "starttime": "593.83",
+   "endtime": "596.14",
+   "verbs": [
+    {
+     "vword": "&apos;re",
+     "vstart": "593.83",
+     "vend": "593.83",
+     "vpos": "VBP"
+    },
+    {
+     "vword": "going",
+     "vstart": "593.83",
+     "vend": "593.83",
+     "vpos": "VBG"
+    },
+    {
+     "vword": "have",
+     "vstart": "594.49",
+     "vend": "594.75",
+     "vpos": "VB"
+    }
+   ],
+   "frame_data": [
+    "a man in a suit and red neck tie . ",
+    "a man in a suit and red tie . ",
+    "a picture of donald trump with his mouth wide open . "
+   ]
+  },
+```
+Below is the code for storing data in weaviate for all the sentences in each videos.
+
+```python
+combined_text = "In the video you can hear: " + sent['sentence'] + " In the video you can see: " + ", ".join([sentence.strip(" .") for sentence in sent['frame_data']]) + '.'
+embedding_video_text_desc = model.encode(combined_text)
+                properties_video_text_desc = {
+                   "text": combined_text,
+                   "starttime" : sent['starttime'],
+                   "endtime" : sent['endtime'],
+                   "metadata" : metadata,
+                   "video_id" : video_id
+                }
+                client.batch.add_data_object(
+                    properties_video_text_desc,
+                    "Video_text_description",
+                     vector = embedding_video_text_desc
+                )
+```
+
+Here, I am using ```all-MiniLM-L6-v2``` for getting embeddings of combined text. So for each sentence, I am storing combined_text, starttime, endtime, metadata, video_id and vector embeddings which will be used for similarity search.
+
+Below code shows a sample query.
+
+```python
+text_search_input = "Ted Cruz scores a huge victory"
+image_search_input = "a group of people taking photos"
+combined_text = "In the video you can hear: " + text_search_input + "In the video you can see: " + image_search_input
+vector = model.encode(combined_text)
+
+response = (
+    client.query
+    .get("Video_text_description", ["text", "starttime", "endtime", "metadata","video_id"])
+    .with_near_vector({
+        "vector" : vector
+    })
+    .with_limit(5)
+    .with_additional(["distance"])
+    .do()
+)
+print(json.dumps(response, indent=4))
+```
+Output of above query 
+
+![Alt text](utilities/image-1.png)
+
+## Screenshots of app
+
+![Alt text](utilities/image-2.png)
+
+- Here, you can keep the Text Description empty as well, only enter Video Description, Weaviate will fetch results as per video Descriptions. You can select only text description as well.
+
+- Three options are there, only text desc, only video desc, both text and video description.
+
+
+![Alt text](utilities/image-3.png)
+
+![Alt text](utilities/image-4.png)
 
 # Setting up the project
 
@@ -75,6 +177,6 @@ To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.sit
 
 Go to src/main.ipynb, run all the cells as per the instructions.
 
+# For Questions
 
-
-
+You can contact me on [Linkedin](https://www.linkedin.com/in/dhruv-kunjadiya-18b994227/) or drop a mail over [here](mailto:dhruvkunjadiya55@gmail.com).
