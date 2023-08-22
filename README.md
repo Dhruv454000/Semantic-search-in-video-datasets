@@ -92,20 +92,23 @@ print(json.dumps(response, indent=4))
 ```
 Output of above query 
 
-![Alt text](utilities/image-1.png)
+![Alt text](utilities/image1.png)
 
 ## Screenshots of app
 
-![Alt text](utilities/image-2.png)
+![Alt text](utilities/image2.png)
 
 - Here, you can keep the Text Description empty as well, only enter Video Description, Weaviate will fetch results as per video Descriptions. You can select only text description as well.
 
 - Three options are there, only text desc, only video desc, both text and video description.
 
+![Alt text](utilities/image3.png)
 
-![Alt text](utilities/image-3.png)
+![Alt text](utilities/image4.png)
 
-![Alt text](utilities/image-4.png)
+![Alt text](utilities/image5.png)
+
+![Alt text](utilities/image6.png)
 
 # Setting up the project
 
