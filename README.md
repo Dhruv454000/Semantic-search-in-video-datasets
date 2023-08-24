@@ -4,6 +4,8 @@ I propose to create a semantic multimodal search engine for collections of trans
 
 To get more details refer my detailed [blog.](https://dhruv-kunjadiya.notion.site/Semantic-search-in-video-datasets-3c73c303c56748b497a975b1397d84ef) Here I have given my weekly progress details and explanations.
 
+You can also refer my project proposal over [here.](https://drive.google.com/file/d/1KRPg9y2Nf4vBzq1CcCKbSYBn_3O3niXz/view)
+
 # Project Details
 
 ![Alt text](utilities/image.png)
@@ -130,7 +132,7 @@ Output of above query
 
    Download videos from [here.](https://drive.google.com/drive/folders/1lreNRRVrBYWALZxHeQcsEcivk-jMTOQQ?usp=sharing)
 
-8. Do ```mkdir frames``` in which ffmpeg frames will be temporarily stored.
+8. Do ```mkdir frames``` in which ffmpeg frames will be temporarily stored. Do this is main directory.
 
 # Running Scripts and Step by Step Process
 
@@ -160,7 +162,7 @@ Output of above query
 3. After the json files are ready, we need to populate data in weaviate.
 
    ``` cd Semantic-search-app ``` then do ```docker compose up```. This will start our weaviate instance.
-   Now to connect to weaviate and populate data in weaviate see ```weaviate_data_populate.ipynb``` . I have given more details in the notebook.
+   Now to connect to weaviate and populate data in weaviate, see ```weaviate_data_populate.ipynb``` . I have given more details in the notebook.
 
 5. To use the app, visit (http://labyrinth01.inf.um.es:8030/)
 
@@ -178,7 +180,7 @@ Output of above query
 
 # To do all things using a single script
 
-Go to src/main.ipynb, run all the cells as per the instructions.
+Go to ```src/main.ipynb```, run all the cells as per the instructions.
 
 # For Questions
 
