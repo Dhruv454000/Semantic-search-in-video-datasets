@@ -48,7 +48,7 @@ def process_video_frames(video_file, json_file, folder_path):
         frames.append(midtime)
         if sent['verbs'] != []:
             for verb in sent['verbs']:
-                if verb not in frames:
+                if verb['vstart'] not in frames:
                     frames.append(verb['vstart'])
         
         get_image(frames, video_file, folder_path)
