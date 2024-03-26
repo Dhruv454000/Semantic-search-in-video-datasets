@@ -88,34 +88,51 @@ export default {
   },
   methods: {
     async search() {
-      if (!this.textDesc && !this.videoDesc) {
-        this.showErrorNotification = true;
-        return;
-      }
-      this.showErrorNotification = false;
-      this.loading = true;
-      try {
-        const response = await axios.get("http://labyrinth01.inf.um.es:8040/search", {
-          params: {
-            text_desc: this.textDesc,
-            video_desc: this.videoDesc,
-            n_records: this.noOfRecords,
-            min_distance: this.minimumDistance,
-          },
-        });
-        if (Object.prototype.hasOwnProperty.call(response.data.data.Get, "Video_text_description")) {
-          this.results = response.data.data.Get.Video_text_description;
-        } else if (Object.prototype.hasOwnProperty.call(response.data.data.Get, "Video_text")) {
-          this.results = response.data.data.Get.Video_text;
-        } else {
-          this.results = response.data.data.Get.Video_description;
+  if (!this.textDesc && !this.videoDesc) {
+    this.showErrorNotification = true;
+    return;
+  }
+  this.showErrorNotification = false;
+  this.loading = true;
+  try {
+    const response = await axios.get("http://localhost:8040/search", {
+      params: {
+        text_desc: this.textDesc,
+        video_desc: this.videoDesc,
+        n_records: this.noOfRecords,
+        min_distance: this.minimumDistance,
+      },
+    });
+
+    const uniqueResults = [];
+    const seenStartTimes = {};
+
+    const processResults = (results) => {
+      results.forEach((result) => {
+        const startTime = result.starttime;
+        if (!seenStartTimes[startTime]) {
+          seenStartTimes[startTime] = true;
+          uniqueResults.push(result);
         }
-      } catch (error) {
-        console.error(error);
-      } finally {
-        this.loading = false;
-      }
-    },
+      });
+    };
+
+    if (Object.prototype.hasOwnProperty.call(response.data.data.Get, "Video_text_description")) {
+      processResults(response.data.data.Get.Video_text_description);
+    } else if (Object.prototype.hasOwnProperty.call(response.data.data.Get, "Video_text")) {
+      processResults(response.data.data.Get.Video_text);
+    } else {
+      processResults(response.data.data.Get.Video_description);
+    }
+
+    this.results = uniqueResults;
+  } catch (error) {
+    console.error(error);
+  } finally {
+    this.loading = false;
+  }
+},
+
     goToPreviousPage() {
       this.currentPage--;
     },
