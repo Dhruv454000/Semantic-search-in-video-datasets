@@ -130,7 +130,7 @@ Output of above query
 
    First do ```cd input_files```
 
-   Download videos from [here.](https://drive.google.com/drive/folders/1lreNRRVrBYWALZxHeQcsEcivk-jMTOQQ?usp=sharing)
+   Download videos from [here.](https://drive.google.com/drive/folders/1j36lJaE-QXUqOYxmdLEAUnEMMTmRMk2a?usp=sharing)
 
 8. Do ```mkdir frames``` in which ffmpeg frames will be temporarily stored. Do this is main directory.
 
@@ -164,7 +164,7 @@ Output of above query
    ``` cd Semantic-search-app ``` then do ```docker compose up```. This will start our weaviate instance.
    Now to connect to weaviate and populate data in weaviate, see ```weaviate_data_populate.ipynb``` . I have given more details in the notebook.
 
-5. To use the app, visit (http://labyrinth01.inf.um.es:8030/)
+5. To use the app, visit (http://labyrinth01.inf.um.es:8030/) Only for labyrinth server users. Other users run on localhost.
 
 6. To make any changes in the Semantic Search App
 
@@ -176,7 +176,7 @@ Output of above query
 
     docker compose up
 
-    open (http://labyrinth01.inf.um.es:8030/) in your browser to see the app running.
+    open (http://labyrinth01.inf.um.es:8030/) in your browser to see the app running, only for labyrinth server users. Other users run on localhost.
 
 # To do all things using a single script
 
